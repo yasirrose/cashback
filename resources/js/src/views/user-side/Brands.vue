@@ -1,4 +1,5 @@
 <template>
+<!-- changed -->
    <div class="chakra-ui-light" cz-shortcut-listen="true">
     <div id="__next" data-reactroot="">
         <div class="css-0"></div><a class="chakra-link css-bk94k0" href="/f/promotion#0">Enable Accessibility</a><a class="chakra-link css-bk94k0" href="/f/promotion#main-content">Skip to content</a>

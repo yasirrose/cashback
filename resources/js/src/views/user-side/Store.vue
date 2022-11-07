@@ -13,6 +13,7 @@
     </b-col>
     
   </b-row>
+  <!-- Changed -->
 </template>
 
 <script>
