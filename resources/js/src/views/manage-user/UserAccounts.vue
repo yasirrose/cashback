@@ -18,37 +18,32 @@
             <div class="d-flex align-items-center">
               <label class="mr-1">Search</label>
               <b-form-input
-                v-model="searchTerm"
+                v-model="serverParams.searchTerm"
                 placeholder="Search"
                 type="text"
                 class="d-inline-block"
               />
             </div>
           </b-form-group>
+          <b-button id="search-btn" variant="primary" type="submit" @click.prevent="onSearch">Search</b-button>
         </div>
 
         <!-- table -->
         <vue-good-table
-          :columns="columns"
-          :rows="rows"
-          :rtl="direction"
+          
+          mode="remote"
+          @on-page-change="onPageChange"
+          @on-sort-change="onSortChange"
+          @on-column-filter="onColumnFilter"
+          @on-per-page-change="onPerPageChange"
           @on-selected-rows-change="selectionChanged"
-          :search-options="{
-                enabled: true,
-                externalQuery: searchTerm }"
-          :select-options="{
-                enabled: true,
-                selectOnCheckboxOnly: true, // only select when checkbox is clicked instead of the row
-                selectionInfoClass: 'custom-class',
-                selectionText: 'rows selected',
-                clearSelectionText: 'clear',
-                disableSelectInfo: true, // disable the select info panel on top
-                selectAllByGroup: true, // when used in combination with a grouped table, add a checkbox in the header row to check/uncheck the entire group
-            }"
+          :totalRows="totalRecords"
+          :isLoading.sync="isLoading"
           :pagination-options="{
-                enabled: true,
-                perPage:pageLength
-            }"
+          enabled: true,
+          }"
+          :rows="rows"
+          :columns="columns"
         >
           <template slot="table-row" slot-scope="props">
             <!-- Column: Name -->
@@ -70,7 +65,7 @@
             </span>
 
             <!-- Column: Action -->
-            <span v-else-if="props.column.field === 'action'">
+            <!-- <span v-else-if="props.column.field === 'action'">
               <span>
                 <b-dropdown variant="link" toggle-class="text-decoration-none" no-caret>
                   <template v-slot:button-content>
@@ -90,6 +85,14 @@
                   </b-dropdown-item>
                 </b-dropdown>
               </span>
+            </span> -->
+
+            <!-- Column: Action -->
+            <span v-else-if="props.column.field === 'action'">
+              <span>
+                  <b-link :to="{ path: `update-user/${props.row.id}` }" title="Edit Product"><feather-icon icon="Edit2Icon"/></b-link>
+                  <b-link v-on:click="confirmation(props.row.id,'singleDelete')" title="Delete Product"><feather-icon icon="DeleteIcon" class="text-danger"/></b-link>
+              </span>
             </span>
 
             <!-- Column: Common -->
@@ -102,19 +105,20 @@
               <div class="d-flex align-items-center mb-0 mt-1">
                 <span class="text-nowrap">Showing 1 to</span>
                 <b-form-select
-                  v-model="pageLength"
+                  v-model="serverParams.perPage"
                   :options="['3','5','10']"
                   class="mx-1"
                   @input="(value)=>props.perPageChanged({currentPerPage:value})"
                 />
-                <span class="text-nowrap">of {{ props.total }} entries</span>
+                <!-- <span class="text-nowrap">of {{ props.total }} entries</span> -->
+                <span class="text-nowrap">of {{ totalRecords }} entries</span>
               </div>
 
               <div>
                 <b-pagination
                   :value="1"
-                  :total-rows="props.total"
-                  :per-page="pageLength"
+                  :total-rows="totalRecords"
+                  :per-page="serverParams.perPage"
                   first-number
                   last-number
                   align="right"
@@ -179,6 +183,26 @@ export default {
   },
   data() {
     return {
+
+      serverParams: {
+        // a map of column filters example: {name: 'john', age: '20'}
+        columnFilters: {},
+        sort: [
+          {
+            field: "id", // example: 'name'
+            type: "desc" // 'asc' or 'desc'
+          }
+        ],
+
+        page: 1, // what page I want to show
+        perPage: 3, // how many items I'm showing per page
+        searchTerm: "",
+      },
+      totalRecords:0,
+      isLoading: false,
+      rows: [],
+
+
       pageLength: 10,
       dir: false,
       idArray: [],
@@ -213,8 +237,8 @@ export default {
           field: "action"
         }
       ],
-      rows: [],
-      searchTerm: "",
+
+      //searchTerm: "",
       status: [
         {
           1: "1",
@@ -252,13 +276,65 @@ export default {
     }
   },
   created() {
-    this.getUsers();
+    this.loadItems();
+    //this.getUsers();
   },
   methods: {
+
+    // vue-goog-table server side functions start
+
+    updateParams(newProps) {
+      this.serverParams = Object.assign({}, this.serverParams, newProps);
+    },
+    
+    onSearch() {
+      this.loadItems();
+    },
+    onPageChange(params) {
+      this.updateParams({page: params.currentPage});
+      this.loadItems();
+    },
+
+    onPerPageChange(params) {
+      this.updateParams({perPage: params.currentPerPage});
+      this.loadItems();
+    },
+
+    onSortChange(params) {
+      this.updateParams({
+        sort: [{
+          type: params[0].type,
+          field: params[0].field,
+        }],
+      });
+      this.loadItems();
+    },
+    
+    onColumnFilter(params) {
+      this.updateParams(params);
+      this.loadItems();
+    },
+
+    // load items is what brings back the rows from server
+    loadItems() {
+      Admin.getServerRecords(
+        'getUsersS',
+        this.serverParams,
+        data => {
+          this.rows = data.data.rows;
+          this.totalRecords = data.data.total_records.count;
+        },
+        err => {
+          console.log(err);
+        }
+      );
+    },
+
+    // vue-goog-table server side functions end
+
     getUsers() {
       Admin.getUsers(
         data => {
-          console.log(data.data);
           this.rows = data.data;
         },
         err => {
@@ -296,7 +372,6 @@ export default {
       this.idArray = params.selectedRows;
       if (this.idArray.length > 0) {
         this.isSelected = true;
-        console.log(this.idArray);
       } else {
         this.isSelected = false;
       }
@@ -320,7 +395,6 @@ export default {
           this.getUsers();
         },
         err => {
-          console.log(err);
           this.$toast({
             component: ToastificationContent,
             props: {
@@ -351,7 +425,6 @@ export default {
           this.getUsers();
         },
         err => {
-          console.log(err);
           this.$toast({
             component: ToastificationContent,
             props: {
@@ -397,5 +470,9 @@ export default {
 .custom-btn-danger:hover {
   box-shadow: 0 8px 25px -8px #ee4b4b;
   color: white;
+}
+#search-btn{
+  height:39px;
+  margin-left: 6px;
 }
 </style>

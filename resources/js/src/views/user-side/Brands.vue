@@ -1,0 +1,8298 @@
+<template>
+   <div class="chakra-ui-light" cz-shortcut-listen="true">
+    <div id="__next" data-reactroot="">
+        <div class="css-0"></div><a class="chakra-link css-bk94k0" href="/f/promotion#0">Enable Accessibility</a><a class="chakra-link css-bk94k0" href="/f/promotion#main-content">Skip to content</a>
+        <!-- <noscript><iframe title="gtmns" src="https://www.googletagmanager.com/ns.html?id=GTM-NDCS3F" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> -->
+        <div id="my-data-privacy" class="css-1hyfx7x"></div>
+        <div id="main-content" class="css-vooagt">
+            <div class="css-2utm4g">
+                <div class="css-wfhd6v">
+                    <a class="chakra-link css-jqp3j4" aria-label="Shop Now" href="https://www.rakuten.com/f/promotion">
+                        <div class="css-vvpxx7"><span class="css-134o76o">Today only! Get 10% Cash Back</span></div>
+                        <div class="css-cbjy3w"><span class="css-uw30od">Shop Now</span><svg viewBox="0 0 16 16" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" class="css-qattoh e1w3ybj0"><path d="M10.746 7.664L7.483 4.4A.826.826 0 018.65 3.232l4.674 4.674a.824.824 0 010 1.168L8.65 13.748a.826.826 0 11-1.168-1.168l3.263-3.264h-7.92a.826.826 0 010-1.652h7.92z"></path></svg></div>
+                    </a>
+                    <!-- <button aria-label="Close Button" class="css-13nxqa9"><svg viewBox="0 0 16 16" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" class="css-1cb0652 e1w3ybj0"><path d="M13.703 1.077l1.348 1.347L2.475 15l-1.347-1.347L13.703 1.077z"></path><path d="M1 2.347L2.347 1l12.576 12.576-1.348 1.347L1 2.347z"></path></svg></button> -->
+                    
+                    </div>
+                <header class="css-l9pm0z">
+                    <div class="css-1u1fhow">
+                        <div class="css-12u1jr">
+                            <div class="css-14i9dxn">
+                                <!-- <a class="chakra-link css-1qmasdu" href="/"><img width="96px" height="29px" alt="Rakuten Logo" class="chakra-image css-r7lj85" src="https://static.rakuten.com/static/svg/rakuten/rak-logo-brand-v1.svg"></a> -->
+                                <!-- <div class="css-1o18mby">
+                                    <div class="CategoryDropdown css-1baulvz"><a class="chakra-link CategoryDropdownTab css-1nbue8z" href="" id="CategoryDropdownTrigger" aria-haspopup="true" aria-labelledby="Categories" aria-expanded="false"><svg viewBox="0 0 16 16" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="css-qbgztw e1w3ybj0"><path fill-rule="evenodd" d="M3 .25A2.75 2.75 0 00.25 3v2A2.75 2.75 0 003 7.75h2A2.75 2.75 0 007.75 5V3A2.75 2.75 0 005 .25H3zM1.75 3c0-.69.56-1.25 1.25-1.25h2c.69 0 1.25.56 1.25 1.25v2c0 .69-.56 1.25-1.25 1.25H3c-.69 0-1.25-.56-1.25-1.25V3zM3 8.25A2.75 2.75 0 00.25 11v2A2.75 2.75 0 003 15.75h2A2.75 2.75 0 007.75 13v-2A2.75 2.75 0 005 8.25H3zM1.75 11c0-.69.56-1.25 1.25-1.25h2c.69 0 1.25.56 1.25 1.25v2c0 .69-.56 1.25-1.25 1.25H3c-.69 0-1.25-.56-1.25-1.25v-2zm6.5-8A2.75 2.75 0 0111 .25h2A2.75 2.75 0 0115.75 3v2A2.75 2.75 0 0113 7.75h-2A2.75 2.75 0 018.25 5V3zM11 1.75c-.69 0-1.25.56-1.25 1.25v2c0 .69.56 1.25 1.25 1.25h2c.69 0 1.25-.56 1.25-1.25V3c0-.69-.56-1.25-1.25-1.25h-2zm0 6.5A2.75 2.75 0 008.25 11v2A2.75 2.75 0 0011 15.75h2A2.75 2.75 0 0015.75 13v-2A2.75 2.75 0 0013 8.25h-2zM9.75 11c0-.69.56-1.25 1.25-1.25h2c.69 0 1.25.56 1.25 1.25v2c0 .69-.56 1.25-1.25 1.25h-2c-.69 0-1.25-.56-1.25-1.25v-2z" clip-rule="evenodd"></path></svg><span class="css-cf3le8">Categories</span><svg viewBox="0 0 16 16" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="css-1hmx01 e1w3ybj0"><path fill-rule="evenodd" d="M7.894 8.098l4.773-4.772 2.121 2.121-6.894 6.894L1 5.447l2.121-2.121 4.773 4.772z" clip-rule="evenodd"></path></svg></a></div>
+                                </div> -->
+                            </div>
+                            <div class="css-7pf6at">
+                                <div class="css-i9gxme">
+                                    <div data-testid="search-container" class="css-0">
+                                        <form autocomplete="off" id="frmStoreSearch2" name="frmStoreSearch2" method="GET" action="/search" class="css-c36nl0"><label for="term" class="css-f8n5zr">Search Rakuten</label>
+                                            <div class="chakra-input__group css-4302v8">
+                                                <div class="css-1etvo5h"><input data-testid="search-term" placeholder="Search stores, products, and coupons" aria-label="Search" autocomplete="off" aria-describedby="initInstr" aria-owns="search-results" name="term" value="" id="term"
+                                                        class="chakra-input css-1m5h3bq"></div><span id="initInstr" class="css-f8n5zr">When autocomplete results are available, use the up and down arrow keys to review results. When ready, press enter to select.</span>
+                                                <div class="chakra-input__right-element css-m37mgu"><button type="submit" class="chakra-button css-1op5ayl" title="Search query"><svg viewBox="0 0 16 16" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" class="css-1cb0652 e1w3ybj0"><path fill-rule="evenodd" d="M11 6.5a4.5 4.5 0 11-9 0 4.5 4.5 0 019 0zm-.787 4.713a6 6 0 111.053-1.068l4.068 4.067a.75.75 0 01-1.061 1.061l-4.06-4.06z" clip-rule="evenodd"></path></svg></button></div>
+                                            </div><span class="css-f8n5zr"><div class="css-1etvo5h"><input type="hidden" name="position" value="1" class="chakra-input css-1wpvo2"></div><div class="css-1etvo5h"><input type="hidden" name="type" value="suggest" class="chakra-input css-1wpvo2"></div><div class="css-1etvo5h"><input type="hidden" name="store" value="" class="chakra-input css-1wpvo2"></div></span></form>
+                                        <div data-testid="search-results" id="search-results" class="css-1cp4g2l">
+                                            <div aria-hidden="true" class="css-1wpu5qj">
+                                                <div class="css-0"></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- <div class="css-84nudp"><button type="button" class="chakra-button css-15rtiu8">Sign In</button><button type="button" class="chakra-button css-15rtiu8">Join Now</button></div> -->
+                            <!-- <div class="css-84nudp"><button type="button" class="chakra-button css-ib83o3">Sign In</button><button type="button" class="chakra-button css-15rtiu8">Join Now</button></div> -->
+                        </div>
+                    </div>
+                </header>
+            </div>
+            <!-- <div class="css-3orgv5">
+                <div class="css-1new1lo">
+                    <div class="css-1ngpt1q"><a class="chakra-link  css-6j3tju" href="https://www.rakuten.com/f/promotion"><svg viewBox="0 0 16 16" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="css-qbgztw e1w3ybj0"><path fill-rule="evenodd" d="M8.003 1.75A6.251 6.251 0 001.75 8c0 3.445 2.799 6.244 6.248 6.25A6.251 6.251 0 0014.25 8a6.246 6.246 0 00-6.247-6.25zM.25 8C.25 3.72 3.721.25 8.003.25A7.746 7.746 0 0115.75 8c0 4.28-3.471 7.75-7.753 7.75h-.001C3.72 15.743.25 12.275.25 8zM8 3.25a.75.75 0 01.75.75v.314c.658.137 1.247.488 1.617 1.01a.75.75 0 01-1.224.867.995.995 0 00-.393-.309v1.52c.386.126.777.29 1.107.519.475.328.893.841.893 1.579 0 1.163-.94 1.956-2 2.183V12a.75.75 0 01-1.5 0v-.375a4.886 4.886 0 01-1.717-.85.75.75 0 11.934-1.173c.223.177.503.33.783.444V8.505a4.017 4.017 0 01-.868-.435c-.479-.33-.88-.839-.88-1.57 0-1.07.796-1.827 1.748-2.118V4A.75.75 0 018 3.25zm-.75 2.792c-.17.151-.249.33-.249.458 0 .096.027.193.232.335l.017.011v-.804zm1.5 2.968v1.112c.344-.162.5-.442.5-.622 0-.09-.029-.195-.245-.345a1.88 1.88 0 00-.255-.145z" clip-rule="evenodd"></path></svg><span class="css-cf3le8">10% Cash Back Stores</span></a></div>
+                    <div class="css-1ngpt1q"><a class="chakra-link  css-6j3tju" href="https://www.rakuten.com/coupons"><svg viewBox="0 0 16 16" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="css-qbgztw e1w3ybj0"><path d="M5.646 5.68l-.002.001-.002.002.004-.002zm6.636-.118a.823.823 0 00-.154-.11.69.69 0 00-.933.26c-.23.43-.546.812-.932 1.125a5.29 5.29 0 00.09-.956 5.302 5.302 0 00-.786-2.775A5.675 5.675 0 007.42 1.083a.694.694 0 00-.646-.007.655.655 0 00-.245.216.611.611 0 00-.104.3 4.267 4.267 0 01-.486 1.725 4.484 4.484 0 01-1.161 1.404l-.153.118a5.569 5.569 0 00-1.326 1.179 5.563 5.563 0 00-1.17 2.367 5.406 5.406 0 00.069 2.613c.236.854.68 1.645 1.294 2.308a5.995 5.995 0 002.245 1.514.698.698 0 00.623-.06.646.646 0 00.216-.228.608.608 0 00.045-.495 4.2 4.2 0 01-.126-1.634 5.891 5.891 0 002.875 2.542c.15.064.32.072.477.024a6.044 6.044 0 002.546-1.538 5.612 5.612 0 001.435-2.52 5.414 5.414 0 00-.04-2.865 5.632 5.632 0 00-1.505-2.484zm-2.604 8.121a4.607 4.607 0 01-1.504-1.152 4.33 4.33 0 01-.88-1.634 5.382 5.382 0 01-.12-.61.62.62 0 00-.176-.349.677.677 0 00-.484-.197.694.694 0 00-.334.084.65.65 0 00-.244.232 5.447 5.447 0 00-.804 2.986 4.496 4.496 0 01-1.196-1.315 4.267 4.267 0 01-.57-1.652 4.206 4.206 0 01.145-1.733 4.344 4.344 0 01.837-1.545 4.29 4.29 0 011.042-.923.496.496 0 00.05-.035s.198-.156.204-.159A5.642 5.642 0 007.577 2.75a4.205 4.205 0 011.377 2.41A4.075 4.075 0 018.5 7.87a.606.606 0 00.08.699.67.67 0 00.323.201.7.7 0 00.387-.003 5.248 5.248 0 002.574-1.701c.394.552.651 1.181.753 1.84.102.66.046 1.333-.164 1.97a4.386 4.386 0 01-1.05 1.705 4.69 4.69 0 01-1.725 1.103z"></path></svg><span class="css-cf3le8">Hot Deals</span></a></div>
+                    <div class="css-1ngpt1q"><a class="chakra-link  css-6j3tju" href="https://www.rakuten.com/in-store.htm"><svg viewBox="0 0 16 16" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="css-qbgztw e1w3ybj0"><path d="M8 0a5.596 5.596 0 00-5.6 5.6C2.4 9.8 8 16 8 16s5.6-6.2 5.6-10.4C13.6 2.504 11.096 0 8 0zM4 5.6c0-2.208 1.792-4 4-4s4 1.792 4 4c0 2.304-2.304 5.752-4 7.904C6.336 11.368 4 7.88 4 5.6z"></path><path d="M8 7.6a2 2 0 100-4 2 2 0 000 4z"></path></svg><span class="css-cf3le8">In-Store Cash Back</span></a></div>
+                    <div class="css-1ngpt1q"><a class="chakra-link  css-6j3tju" href="https://www.rakuten.com/travel-vacations"><svg viewBox="0 0 16 16" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="css-qbgztw e1w3ybj0"><path fill-rule="evenodd" d="M2.869 1c-.493 0-.957.192-1.305.54l-.023.023a1.843 1.843 0 00-.136 2.457L3.27 6.35l-1.596 5.427c-.123.42-.007.873.302 1.182l.423.422a1.194 1.194 0 001.828-.164l2.428-3.509 2.039 1.725-.634 1.478c-.192.449-.092.97.254 1.316l.422.422a1.194 1.194 0 001.69 0l4.226-4.226a1.195 1.195 0 000-1.69l-.507-.506a1.195 1.195 0 00-1.354-.237l-1.393.656L9.71 6.653l3.508-2.429a1.192 1.192 0 00.165-1.827l-.422-.423a1.2 1.2 0 00-1.183-.301L6.352 3.269 4.02 1.404A1.851 1.851 0 002.869 1zm.007 1.196a.65.65 0 01.405.142L6.1 4.592l6.024-1.771.423.422-4.592 3.178 3.13 3.699 2.222-1.046.507.507-4.226 4.225-.422-.423.982-2.29-3.719-3.145-3.178 4.59-.423-.422L4.6 6.092 2.345 3.274a.65.65 0 01.048-.864l.023-.024a.648.648 0 01.46-.19z" clip-rule="evenodd"></path></svg><span class="css-cf3le8">Travel &amp; Vacations</span></a></div>
+                    <div class="css-1ngpt1q"><a class="chakra-link  css-6j3tju" href="https://www.rakuten.com/referral/default.do"><svg viewBox="0 0 16 16" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="css-qbgztw e1w3ybj0"><path fill-rule="evenodd" d="M8.183 4.448c-.07.064-.128.135-.183.207a1.545 1.545 0 00-.183-.207 1.744 1.744 0 00-2.334 0 1.449 1.449 0 000 2.16L8 9l2.517-2.392a1.449 1.449 0 000-2.16 1.744 1.744 0 00-2.334 0z" clip-rule="evenodd"></path><path fill-rule="evenodd" d="M13.667 10.023c0 .307-.225.556-.502.556H7a.635.635 0 00-.472.216L5 12.485v-1.17c0-.406-.299-.736-.667-.736H2.837c-.278 0-.503-.25-.503-.556V3.03c0-.307.225-.556.503-.556h10.328c.277 0 .502.25.502.556v6.994zM13.164 1H2.836C1.823 1 1 1.91 1 3.03v6.993c0 1.12.823 2.03 1.836 2.03h.83v2.21c0 .298.163.567.412.681a.615.615 0 00.727-.16l2.471-2.731h5.888c1.013 0 1.836-.91 1.836-2.03V3.03C15 1.91 14.177 1 13.164 1z" clip-rule="evenodd"></path></svg><span class="css-cf3le8">Refer &amp; Earn $30+</span></a></div>
+                    <div class="css-1ngpt1q"><a class="chakra-link  css-6j3tju" href="https://www.rakuten.com/help"><svg viewBox="0 0 24 24" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="css-1ce8jtl e1w3ybj0"><path fill-rule="evenodd" clip-rule="evenodd" d="M2 11.4375C2 6.16568 6.53862 2 12 2C17.439 2 22 5.86715 22 11.4375C22 16.7093 17.4614 20.875 12 20.875C10.4538 20.875 8.98844 20.5405 7.67979 19.9469L4.45791 21.8599C4.12728 22.0562 3.71338 22.0455 3.39329 21.8325C3.07319 21.6194 2.90361 21.2417 2.95709 20.8609L3.56879 16.5057C2.58051 15.046 2 13.3085 2 11.4375ZM12 4C7.5197 4 4 7.38982 4 11.4375C4 12.9999 4.52111 14.4502 5.41677 15.6547C5.57369 15.8657 5.64117 16.13 5.6046 16.3905L5.22726 19.0771L7.12209 17.952C7.42 17.7751 7.78823 17.7651 8.09536 17.9254C9.24861 18.5273 10.5785 18.875 12 18.875C16.4803 18.875 20 15.4852 20 11.4375C20 7.13285 16.5027 4 12 4Z"></path></svg><span class="css-cf3le8">Help</span></a></div>
+                </div>
+            </div> -->
+            <div class="css-dt8aox"><button type="button" class="chakra-button css-1ei7x8c">How we make money<span class="chakra-button__icon css-1hzyiq5"><svg viewBox="0 0 16 16" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="css-ap0y54 e1w3ybj0"><path d="M8 1a7 7 0 100 14A7 7 0 008 1zm0 13A6 6 0 118 2a6 6 0 010 12z"></path><path d="M8 6.075a.76.76 0 01-.57-.235.77.77 0 01-.225-.555A.775.775 0 018 4.5a.8.8 0 01.58.23.78.78 0 01.225.555.77.77 0 01-.225.555.785.785 0 01-.58.235zM7.325 11.5V6.615h1.33V11.5h-1.33z"></path></svg></span></button></div>
+            <div class="css-1161qt5">
+                <div class="css-0"></div>
+                <div class="css-1bek66m">
+                    <div class="css-rqgsqp">
+                        <div template="PAGE_HERO" class="css-6y7kkk">
+                            <div class="css-y65yyx">
+                                <div class="eroc1mi0 css-1xexznh">
+                                    <div data-testid="left-pager-col" class="css-we029m eublci30">
+                                        <div class="css-b57n4g">
+                                            <div class="css-hkljzp e1cskd6n0"><button aria-label="Navigate carousel to the left" data-testid="left-pager" class="e5u2atv0 css-wtx19f"><svg viewBox="0 0 16 16" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" class="css-18tocyg e1w3ybj0"><path fill-rule="evenodd" d="M7.182 7.833l4.773 4.773-2.122 2.121L2.94 7.833 9.833.94l2.122 2.122-4.773 4.772z" clip-rule="evenodd"></path></svg></button></div>
+                                        </div>
+                                    </div>
+                                    <!-- <div data-testid="right-pager-col" class="css-lcr6yl eublci30">
+                                        <div class="css-1toudui">
+                                            <div class="css-1gppqy1"><button aria-label="Navigate carousel to the right" data-testid="right-pager" class="e5u2atv0 css-wtx19f"><svg viewBox="0 0 16 16" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" class="css-18tocyg e1w3ybj0"><path fill-rule="evenodd" d="M9.712 7.833L4.939 3.061 7.061.939l6.894 6.894-6.894 6.894-2.122-2.12 4.773-4.774z" clip-rule="evenodd"></path></svg></button></div>
+                                        </div>
+                                    </div> -->
+                                </div>
+                                <div class="css-1olzsud e1cskd6n1">
+                                    <div data-testid="carousel-row" class="eroc1mi0 css-ph9usg" style="">
+                                        <div class="css-1jlg423 eublci30">
+                                            <div class="css-coof7v"><a class="chakra-link css-3lz5y1" placement="premium"><video type="video/mp4" poster="https://static.rakuten.com/img/media/12842/still-221102-54668-nationalcashback-10-cyber-landingpage-xlarge-baked-2304x608@2x.jpg" loop="" preload="auto" autoplay="" muted="" playsinline="" class="css-15k5kkl" src="https://static.rakuten.com/img/media/12842/221102-54668-nationalcashback-10-cyber-landingpage-xlarge-baked-2304x608@2x.mp4"></video><div class="css-1qetjdz"><div class="css-1235omh"><div class="css-r7n36k"><div class="css-gc2vop">ONLINE &amp; IN STORES</div></div></div></div><div class="css-ne2diq"><div class="css-7upjtb"></div></div></a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="css-1yxmrz6">
+                    <div class="css-rqgsqp">
+                        <div template="store_mark_carousel_v1" class="css-79elbk">
+                            <div class="css-1bbvnhs">
+                                <div class="eroc1mi0 css-fulnee">
+                                    <div class="css-7y55w eublci30">
+                                        <div class="css-k008qs">
+                                            <div class="css-163hd9e">
+                                                <h2 class="css-1ikzqfo">Featured stores with 10% Cash Back</h2>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="css-y65yyx">
+                                <div class="eroc1mi0 css-1xexznh">
+                                    <div data-testid="left-pager-col" class="css-1ea2qkp eublci30">
+                                        <div class="css-1dhhidd">
+                                            <div class="css-hkljzp e1cskd6n0"><button aria-label="Navigate carousel to the left" data-testid="left-pager" class="e5u2atv0 css-wtx19f"><svg viewBox="0 0 16 16" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" class="css-18tocyg e1w3ybj0"><path fill-rule="evenodd" d="M7.182 7.833l4.773 4.773-2.122 2.121L2.94 7.833 9.833.94l2.122 2.122-4.773 4.772z" clip-rule="evenodd"></path></svg></button></div>
+                                        </div>
+                                    </div>
+                                    <!-- <div data-testid="right-pager-col" class="css-p4nte4 eublci30">
+                                        <div class="css-1rp2wsm">
+                                            <div class="css-1gppqy1"><button aria-label="Navigate carousel to the right" data-testid="right-pager" class="e5u2atv0 css-wtx19f"><svg viewBox="0 0 16 16" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" class="css-18tocyg e1w3ybj0"><path fill-rule="evenodd" d="M9.712 7.833L4.939 3.061 7.061.939l6.894 6.894-6.894 6.894-2.122-2.12 4.773-4.774z" clip-rule="evenodd"></path></svg></button></div>
+                                        </div>
+                                    </div> -->
+                                </div>
+                                <div class="css-1olzsud e1cskd6n1">
+                                    <div data-testid="carousel-row" class="eroc1mi0 css-ph9usg" style="">
+                                        <div class="css-1pcbmni eublci30">
+                                            <div class="css-1i7dpco">
+
+
+                                                <div class="css-17tlgof ewqnu2n0" v-for="store in stores" :key="store.id">
+                                                    <a target="_blank" rel="noopener" class="chakra-link css-187ams7" role="group" aria-label="Find out more at Image dls_store_mark" id="cf091a4bb42146bca4c382475922d9eaf8cf605e" 
+                                                    
+                                                    :href="`${url}store/${store.name}_${store.id}?sourceName=${os}-${device}`">
+                                                        <div class="css-uho7hi">
+                                                            <!-- <b-img :src="`/image/${store.image}`" rounded height="50"/> -->
+                                                            
+                                                            <img alt="Image dls_store_mark" class="chakra-image css-sertd6" :src="`/image/${store.image}`">
+                                                            </div>
+                                                        <div class="css-ofi28f">
+                                                            <div class="css-70qvj9"><span class="css-142n6z8">{{store.title}}</span><svg viewBox="0 0 16 16" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" class="css-82at3a e1w3ybj0"><path fill-rule="evenodd" d="M8.698 3a.75.75 0 01.75-.75h3.435a.75.75 0 01.734.597c.031.11.036.226.016.338v3.25a.75.75 0 01-1.5 0V4.873L7.53 9.475a.75.75 0 01-1.06-1.06l4.664-4.665H9.448a.75.75 0 01-.75-.75zm-6.448.186a.75.75 0 01.75-.75h4a.75.75 0 010 1.5H3.75v8.491h8.302V9a.75.75 0 011.5 0v4.177a.75.75 0 01-.75.75H3a.75.75 0 01-.75-.75V3.186z" clip-rule="evenodd"></path></svg></div>
+                                                            <div class="css-sjc375">
+                                                                <div class="css-1k0i8ud"><svg viewBox="0 0 16 16" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" class="css-uxkkmw e1w3ybj0"><path fill-rule="evenodd" d="M8 15A7 7 0 108 1a7 7 0 000 14zm4-7.82H8.82V4H7.18v3.18H4v1.64h3.18V12h1.64V8.82H12V7.18z" clip-rule="evenodd"></path></svg></div>
+                                                                <div class="css-fa743t"><span class="css-10b7mbv">{{store.percentage}}% Cash Back</span>
+                                                                    <!-- <span class="css-xjmmt3">was 8%</span> -->
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+
+                                                <!-- <div class="css-17tlgof ewqnu2n0">
+                                                    <a target="_blank" rel="noopener" class="chakra-link css-187ams7" role="group" aria-label="Find out more at Image dls_store_mark" id="47dcef45c65ebe8055d1c0b21589c716bfb6c4a1" href="https://www.rakuten.com/123inkjets.com_2989-xfas?sourceName=Web-Desktop&amp;ebstask=shoppingTripAttrProps">
+                                                        <div class="css-uho7hi"><img alt="Image dls_store_mark" class="chakra-image css-sertd6" src="https://static.rakuten.com/img/store/2989/123inkjets-mark-fullcolor-2989@4x.png"></div>
+                                                        <div class="css-ofi28f">
+                                                            <div class="css-70qvj9"><span class="css-142n6z8">123Inkjets</span><svg viewBox="0 0 16 16" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" class="css-82at3a e1w3ybj0"><path fill-rule="evenodd" d="M8.698 3a.75.75 0 01.75-.75h3.435a.75.75 0 01.734.597c.031.11.036.226.016.338v3.25a.75.75 0 01-1.5 0V4.873L7.53 9.475a.75.75 0 01-1.06-1.06l4.664-4.665H9.448a.75.75 0 01-.75-.75zm-6.448.186a.75.75 0 01.75-.75h4a.75.75 0 010 1.5H3.75v8.491h8.302V9a.75.75 0 011.5 0v4.177a.75.75 0 01-.75.75H3a.75.75 0 01-.75-.75V3.186z" clip-rule="evenodd"></path></svg></div>
+                                                            <div class="css-sjc375">
+                                                                <div class="css-1k0i8ud"><svg viewBox="0 0 16 16" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" class="css-uxkkmw e1w3ybj0"><path fill-rule="evenodd" d="M8 15A7 7 0 108 1a7 7 0 000 14zm4-7.82H8.82V4H7.18v3.18H4v1.64h3.18V12h1.64V8.82H12V7.18z" clip-rule="evenodd"></path></svg></div>
+                                                                <div class="css-fa743t"><span class="css-10b7mbv">Up to 15%</span><span class="css-xjmmt3">was 11%</span></div>
+                                                            </div>
+                                                        </div>
+                                                    </a>
+                                                </div> -->
+                                              
+                                            </div>
+                                        </div>
+
+
+
+                                        
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- <div class="css-1yxmrz6">
+                    More to explore with 10% Cash Back
+                    </div> -->
+              
+            </div>
+            <div class="css-dojgf2"></div>
+            <footer class="css-ah250">
+                <div class="css-0">
+                    <div class="css-1u0pnf8">
+                        <div class="css-1gcx79g">
+                            <div class="css-z7mtfw">
+                                <div class="chakra-stack css-li4dwf">
+                                    <div class="css-j7qwjs"><span class="css-ooy85r">Download Our App</span>
+                                        <ul role="list" class="chakra-stack css-g4iysa">
+                                            <li class="css-1c6vscd"><a target="_blank" rel="noopener" class="chakra-link css-1fdbldu" id="rakuten-mobile-apps" href="https://go.rakuten.com/open-app?ebstask=shoppingTripAttrProps">Rakuten Mobile Apps</a></li>
+                                            <li class="css-cfzeeb">
+                                                <div class="css-yjitp2"><svg viewBox="0 0 16 16" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" class="css-19r821h e1w3ybj0"><path d="M4.219 11.59c0 .365.298.663.665.663h.761v1.881a.86.86 0 00.853.866.859.859 0 00.853-.866v-1.882H8.68v1.88a.86.86 0 00.853.866.859.859 0 00.854-.865v-1.881h.76a.666.666 0 00.666-.664V5.413H4.22v6.176zm5.58-9.377l.7-1.016c.041-.059.032-.139-.023-.178-.055-.037-.133-.018-.173.041l-.728 1.056A4.298 4.298 0 008 1.822c-.561 0-1.096.105-1.575.294l-.728-1.054c-.04-.06-.119-.08-.174-.041-.054.037-.064.116-.023.178l.7 1.016c-1.115.518-1.896 1.501-1.996 2.65h7.593c-.103-1.15-.886-2.133-2-2.652zM6.396 3.815a.42.42 0 110-.841.42.42 0 010 .84zm3.256 0a.42.42 0 110-.841.42.42 0 010 .84zm3.49 1.573a.859.859 0 00-.853.866v3.38a.86.86 0 00.853.866.859.859 0 00.853-.865V6.252a.855.855 0 00-.853-.864zm-10.29 0A.859.859 0 002 6.254v3.38a.86.86 0 00.853.866.859.859 0 00.853-.865V6.252a.859.859 0 00-.853-.864z"></path></svg>
+                                                    <svg viewBox="0 0 16 16" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" class="css-19r821h e1w3ybj0">
+                                                                <path d="M10.56 4.382c-1.059 0-1.913.64-2.465.64-.578 0-1.353-.604-2.27-.604-1.744 0-3.515 1.441-3.515 4.165 0 1.691.659 3.48 1.469 4.637.685.979 1.299 1.78 2.171 1.78.864 0 1.246-.579 2.323-.579 1.086 0 1.335.561 2.287.561.953 0 1.585-.872 2.181-1.726.659-.98.944-1.94.952-1.985-.053-.018-1.869-.757-1.869-2.83 0-1.798 1.424-2.608 1.505-2.67-.935-1.353-2.368-1.389-2.769-1.389zm-.489-1.148c.427-.516.73-1.237.73-1.958A1.32 1.32 0 0010.774 1c-.694.027-1.548.472-2.056 1.068-.391.454-.765 1.166-.765 1.896 0 .107.018.213.026.249.045.009.116.018.187.018.632 0 1.433-.427 1.905-.997z"></path>
+                                                                </svg>
+                                                </div>
+                                                <div class="css-1j60r7x">Available for iOS and Android</div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <!-- <div class="css-j7qwjs"><span class="css-ooy85r">Partner Sites</span>
+                                        <ul role="list" class="chakra-stack css-g4iysa">
+                                            <li class="css-1c6vscd"><a target="_blank" rel="noopener" class="chakra-link css-1fdbldu" id="partner-canada" href="https://www.rakuten.ca/">Canada</a></li>
+                                            <li class="css-1c6vscd"><a target="_blank" rel="noopener" class="chakra-link css-1fdbldu" id="partner-japan" href="https://www.rebates.jp/">Japan</a></li>
+                                            <li class="css-1c6vscd"><a target="_blank" rel="noopener" class="chakra-link css-1fdbldu" id="partner-cartera" href="https://www.cartera.com/">Cartera</a></li>
+                                            <li class="css-1c6vscd"><a target="_blank" rel="noopener" class="chakra-link css-1fdbldu" id="partner-shopstyle" href="https://www.shopstyle.com/">ShopStyle</a></li>
+                                            <li class="css-1c6vscd"><a class="chakra-link css-1fdbldu" id="partner-france" href="https://fr.shopping.rakuten.com/">Rakuten France</a></li>
+                                        </ul>
+                                    </div> -->
+                                </div>
+                                <div class="chakra-stack css-li4dwf">
+                                    <div class="css-j7qwjs"><span class="css-ooy85r">About</span>
+                                        <!-- <ul role="list" class="chakra-stack css-g4iysa">
+                                            <li class="css-1c6vscd"><a class="chakra-link css-1fdbldu" id="about-getting-started" href="/welcome.htm">Getting Started</a></li>
+                                            <li class="css-1c6vscd"><a class="chakra-link css-1fdbldu" id="about-us" href="/our-company">About Us</a></li>
+                                            <li class="css-1c6vscd"><a class="chakra-link css-1fdbldu" id="about-our-name" href="/new-brand">Our New Name</a></li>
+                                            <li class="css-1c6vscd"><a target="_blank" rel="noopener" class="chakra-link css-1fdbldu" id="about-advertising" href="https://business.rakuten.com">Advertising &amp; Partnerships</a></li>
+                                            <li class="css-1c6vscd"><a class="chakra-link css-1fdbldu" id="about-influencers" href="/m/influencers">Influencers &amp; Partners</a></li>
+                                            <li class="css-1c6vscd"><a class="chakra-link css-1fdbldu" id="about-press" href="/press">Press Room</a></li>
+                                            <li class="css-1c6vscd"><a class="chakra-link css-1fdbldu" id="about-careers" href="/careers">Careers</a></li>
+                                            <li class="css-1c6vscd"><a target="_blank" rel="noopener" class="chakra-link css-1fdbldu" id="about-blog" href="/blog">Blog</a></li>
+                                            <li class="css-1c6vscd"><a class="chakra-link css-1fdbldu" id="about-sitemap" href="/site_map">Site Map</a></li>
+                                            <li class="css-1c6vscd"><a class="chakra-link css-1fdbldu" id="about-tnc" href="/help/article/terms-conditions-360002101608">Terms &amp; Conditions</a></li>
+                                            <li class="css-1c6vscd"><a class="chakra-link css-1fdbldu" id="about-privacy-policy" href="/help/article/privacy-policy-360002101688">Privacy Policy</a></li>
+                                            <li class="css-1hyfx7x" style="display: inherit;">
+                                                <div class="chakra-link css-rgq6ht" id="do-not-share"><a style="cursor: pointer;" data-eb-attestation-sdk="my-data-privacy">Do Not Sell My Personal Information</a></div>
+                                            </li>
+                                            <li class="css-1c6vscd"><a class="chakra-link css-1fdbldu" aria-label="Enable accessibility, press return to enable accessibility mode, press tab to skip to content" id="toggle-accessibility" href="/f/promotion#0">Enable Accessibility</a></li>
+                                            <li class="css-1c6vscd"><a class="chakra-link css-1fdbldu" id="about-a11y-statement" href="/help/article/rakuten-com-web-accessibility-360059677213">Accessibility Statement</a></li>
+                                            <li class="css-1c6vscd"><a class="chakra-link css-1fdbldu" id="about-help" href="/help">Help</a></li>
+                                            <li class="css-1c6vscd"><a class="chakra-link css-1fdbldu" id="google-api-user-data-policy-disclosure" href="/help/article/google-api-user-data-policy-disclosure-360053111934">Google API User Data Policy Disclosure</a></li>
+                                            <li class="css-1c6vscd"><a class="chakra-link css-1fdbldu" id="cash-back-for-change" href="/cash-back-for-change">Cash Back for Change</a></li>
+                                        </ul> -->
+                                    </div>
+                                </div>
+                                <div class="chakra-stack css-li4dwf">
+                                    <div class="css-j7qwjs"><span class="css-ooy85r">Stores &amp; Brands</span>
+                                        <!-- <ul role="list" class="chakra-stack css-g4iysa">
+                                            <li class="css-1c6vscd"><a class="chakra-link css-1fdbldu" id="store-best-buy" href="/bestbuy.com">Best Buy</a></li>
+                                            <li class="css-1c6vscd"><a class="chakra-link css-1fdbldu" id="store-jcpenney" href="/jcpenney.com">JCPenney</a></li>
+                                            <li class="css-1c6vscd"><a class="chakra-link css-1fdbldu" id="store-kohls" href="/kohls.com">Kohl's</a></li>
+                                            <li class="css-1c6vscd"><a class="chakra-link css-1fdbldu" id="store-macys" href="/macys.com">Macy's</a></li>
+                                            <li class="css-1c6vscd"><a class="chakra-link css-1fdbldu" id="store-nordstrom" href="/nordstrom.com">Nordstrom</a></li>
+                                            <li class="css-1c6vscd"><a class="chakra-link css-1fdbldu" id="store-old-navy" href="/oldnavy.com">Old Navy</a></li>
+                                            <li class="css-1c6vscd"><a class="chakra-link css-1fdbldu" id="store-priceline" href="/priceline.com">Priceline</a></li>
+                                            <li class="css-1c6vscd"><a class="chakra-link css-1fdbldu" id="store-target" href="/target.com">Target</a></li>
+                                            <li class="css-1c6vscd"><a class="chakra-link css-1fdbldu" id="store-all-brands" href="/all-brands">See All Brands</a></li>
+                                            <li class="css-1c6vscd"><a class="chakra-link css-1fdbldu" id="store-all-stores" href="/stores/all/index.htm">See All Stores</a></li>
+                                        </ul> -->
+                                    </div>
+                                    <div class="css-j7qwjs"><span class="css-ooy85r">Seasonal Pages</span>
+                                        <!-- <ul role="list" class="chakra-stack css-g4iysa">
+                                            <li class="css-1c6vscd"><a class="chakra-link css-1fdbldu" id="seasonal-black-friday" href="/black-friday">Black Friday</a></li>
+                                            <li class="css-1c6vscd"><a class="chakra-link css-1fdbldu" id="seasonal-cyber-monday" href="/cyber-monday">Cyber Monday</a></li>
+                                            <li class="css-1c6vscd"><a class="chakra-link css-1fdbldu" id="seasonal-green-monday" href="/green-monday">Green Monday</a></li>
+                                        </ul> -->
+                                    </div>
+                                </div>
+                                <div class="chakra-stack css-li4dwf">
+                                    <div class="css-j7qwjs"><span class="css-ooy85r">Popular Categories</span>
+                                        <!-- <ul role="list" class="chakra-stack css-g4iysa">
+                                            <li class="css-1c6vscd"><a class="chakra-link css-1fdbldu" id="popular-baby" href="/baby-toddler">Baby &amp; Toddler</a></li>
+                                            <li class="css-1c6vscd"><a class="chakra-link css-1fdbldu" id="popular-clothing" href="/clothing">Clothing</a></li>
+                                            <li class="css-1c6vscd"><a class="chakra-link css-1fdbldu" id="popular-accessories" href="/accessories">Accessories</a></li>
+                                            <li class="css-1c6vscd"><a class="chakra-link css-1fdbldu" id="popular-electronics" href="/electronics">Electronics</a></li>
+                                            <li class="css-1c6vscd"><a class="chakra-link css-1fdbldu" id="popular-travel" href="/travel-vacations">Travel &amp; Vacations</a></li>
+                                            <li class="css-1c6vscd"><a class="chakra-link css-1fdbldu" id="popular-health" href="/health-beauty">Health &amp; Beauty</a></li>
+                                            <li class="css-1c6vscd"><a class="chakra-link css-1fdbldu" id="popular-shoes" href="/shoes">Shoes</a></li>
+                                            <li class="css-1c6vscd"><a class="chakra-link css-1fdbldu" id="popular-home-improvement" href="/home-garden">Home &amp; Garden</a></li>
+                                            <li class="css-1c6vscd"><a class="chakra-link css-1fdbldu" id="popular-food" href="/food-restaurants">Food, Drinks &amp; Restaurant</a></li>
+                                        </ul> -->
+                                    </div>
+                                    <div class="css-j7qwjs"><span class="css-ooy85r">Tools &amp; Services</span>
+                                        <!-- <ul role="list" class="chakra-stack css-g4iysa">
+                                            <li class="css-1c6vscd"><a class="chakra-link css-1fdbldu" id="tools-iscb" href="/in-store.htm">In-Store Cash Back</a></li>
+                                            <li class="css-0"><a class="chakra-link css-1fdbldu" href="/button.htm">Rakuten Button Extension</a></li>
+                                            <li variant="medium" class="css-1pe3zmv"><svg viewBox="0 0 16 16" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" class="css-14b8d12 e1w3ybj0"><path d="M5.64 8A2.358 2.358 0 008 10.36 2.358 2.358 0 0010.359 8a2.358 2.358 0 00-2.36-2.36A2.357 2.357 0 005.642 8zm8.889-2.517l-3.943.203c1.07 1.25 1.087 3.054.187 4.438L7.609 14.99a6.97 6.97 0 003.89-.929 6.994 6.994 0 003.03-8.578zM4.774 9.344L2.141 4.165A6.989 6.989 0 001 8c0 3.5 2.563 6.4 5.913 6.912l1.799-3.523c-1.626.306-3.196-.586-3.938-2.045zM8.451 4.54l5.795.305A7.008 7.008 0 007.975 1a6.997 6.997 0 00-5.42 2.6l2.157 3.313c.538-1.546 2.1-2.468 3.739-2.373z"></path></svg>
+                                                <div class="css-5e7ve0">Available for
+                                                    Google Chrome</div>
+                                            </li>
+                                        </ul> -->
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="css-135z8jx">
+                                <hr aria-orientation="horizontal" class="chakra-divider css-1fscg46">
+                            </div>
+                            <div class="css-1suq5al">
+                                <div class="css-30sofs"><a target="_blank" rel="noopener" class="chakra-link css-c26408" id="advertising-disclosure" href="/help/article/advertising-disclosure-360002117787">Advertising Disclosure</a></div>
+                                <div data-nosnippet="true" class="css-19uhhhf">©
+                                    <!-- -->2022
+                                    <!-- -->
+                                    <!-- -->Ebates Performance Marketing Inc., d/b/a Rakuten Rewards</div>
+                                <div class="chakra-stack SocialLinkGroup css-1berfq2"><a target="_blank" rel="nofollow noreferrer" class="chakra-link css-1cy90ou" title="Rakuten on Facebook" id="social-facebook" href="https://www.facebook.com/rakuten/"><svg viewBox="0 0 16 16" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" class="css-1vopo0h e1w3ybj0"><path fill-rule="evenodd" d="M15 8a7 7 0 01-5.906 6.915v-4.891h1.63L11.035 8h-1.94V6.687c0-.554.27-1.094 1.14-1.094h.884V3.87s-.802-.137-1.568-.137c-1.598 0-2.644.969-2.644 2.724V8H5.13v2.024h1.777v4.891l.056.009A7.002 7.002 0 018 1a7 7 0 017 7z" clip-rule="evenodd"></path></svg></a>
+                                    <a target="_blank" rel="nofollow noreferrer" class="chakra-link css-1cy90ou" title="Rakuten on Twitter" id="social-twitter" href="https://twitter.com/Rakuten"><svg viewBox="0 0 16 16" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" class="css-1vopo0h e1w3ybj0"><path d="M15 3.347a5.815 5.815 0 01-1.435 1.483 8.222 8.222 0 01-1.353 4.888 8.727 8.727 0 01-1.644 1.87c-.636.544-1.401.977-2.294 1.3a8.378 8.378 0 01-2.871.484A7.994 7.994 0 011 12.082a6.2 6.2 0 00.685.04 5.63 5.63 0 003.567-1.23 2.785 2.785 0 01-1.667-.574A2.823 2.823 0 012.57 8.897a2.887 2.887 0 001.297-.048 2.797 2.797 0 01-1.649-.99 2.779 2.779 0 01-.655-1.826v-.035c.407.225.84.345 1.301.359a2.856 2.856 0 01-.933-1.024 2.803 2.803 0 01-.345-1.365c0-.517.13-.998.388-1.444a8.175 8.175 0 002.62 2.12 7.981 7.981 0 003.3.882 2.797 2.797 0 01-.076-.654c0-.793.28-1.47.842-2.03A2.767 2.767 0 0110.69 2c.83 0 1.53.302 2.097.906a5.72 5.72 0 001.824-.697 2.777 2.777 0 01-1.262 1.59A5.744 5.744 0 0015 3.346z"></path></svg></a>
+                                    <a target="_blank" rel="nofollow noreferrer" class="chakra-link css-1cy90ou" title="Rakuten on Pinterest" id="social-pinterest" href="https://www.pinterest.com/rakuten/"><svg viewBox="0 0 16 16" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" class="css-1vopo0h e1w3ybj0"><path d="M8.578 1C5.772 1 3 2.87 3 5.897c0 1.925 1.083 3.02 1.74 3.02.27 0 .426-.756.426-.969 0-.254-.648-.795-.648-1.854 0-2.198 1.673-3.757 3.839-3.757 1.862 0 3.24 1.058 3.24 3.003 0 1.452-.582 4.175-2.47 4.175-.68 0-1.263-.492-1.263-1.197 0-1.034.722-2.035.722-3.101 0-1.81-2.568-1.482-2.568.705 0 .46.058.968.263 1.387-.378 1.624-1.149 4.044-1.149 5.717 0 .517.074 1.026.123 1.543.093.104.047.093.189.04 1.378-1.886 1.329-2.255 1.952-4.724.337.64 1.206.984 1.895.984 2.904 0 4.209-2.83 4.209-5.381C13.5 2.773 11.153 1 8.578 1z"></path></svg></a>
+                                    <a target="_blank" rel="nofollow noreferrer" class="chakra-link css-1cy90ou" title="Rakuten on Instagram" id="social-instagram" href="https://www.instagram.com/rakuten/"><svg viewBox="0 0 16 16" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" class="css-1vopo0h e1w3ybj0"><path d="M7.994 5.663A2.338 2.338 0 005.66 7.995a2.338 2.338 0 002.333 2.333 2.338 2.338 0 002.332-2.333 2.338 2.338 0 00-2.332-2.332zm6.996 2.332c0-.966.009-1.923-.046-2.887-.054-1.12-.31-2.114-1.128-2.933-.821-.821-1.813-1.075-2.933-1.129-.966-.054-1.923-.045-2.888-.045-.966 0-1.923-.01-2.887.045-1.12.054-2.114.31-2.933 1.129-.821.82-1.075 1.813-1.129 2.933-.054.966-.045 1.923-.045 2.887 0 .965-.01 1.924.045 2.888.054 1.12.31 2.114 1.129 2.933.82.82 1.813 1.074 2.933 1.128.966.055 1.923.046 2.887.046.966 0 1.924.009 2.888-.046 1.12-.054 2.114-.31 2.933-1.128.82-.821 1.074-1.813 1.128-2.933.056-.964.046-1.922.046-2.888zm-6.996 3.59a3.584 3.584 0 01-3.59-3.59 3.584 3.584 0 013.59-3.589 3.584 3.584 0 013.589 3.59 3.584 3.584 0 01-3.59 3.588zm3.736-6.488a.837.837 0 110-1.676.837.837 0 110 1.676z"></path></svg></a>
+                                    <a target="_blank" rel="nofollow noreferrer" class="chakra-link css-1cy90ou" title="Rakuten on Youtube" id="social-youtube" href="https://youtube.com/c/Rakutenchannel"><svg viewBox="0 0 16 16" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" class="css-1vopo0h e1w3ybj0"><path d="M13.994 5.341a1.534 1.534 0 00-1.082-1.084C11.956 4 8.125 4 8.125 4s-3.83 0-4.787.256A1.533 1.533 0 002.256 5.34C2 6.297 2 8.293 2 8.293s0 1.996.256 2.952c.14.528.556.943 1.082 1.084.956.257 4.787.257 4.787.257s3.83 0 4.787-.257c.527-.14.941-.556 1.082-1.084.256-.956.256-2.952.256-2.952s0-1.996-.256-2.952zm-7.086 4.784V6.461l3.172 1.818-3.172 1.846z"></path></svg></a>
+                                    <a target="_blank" rel="nofollow noreferrer" class="chakra-link css-1cy90ou" title="Rakuten Rewards on LinkedIn" id="social-linkedin" href="https://www.linkedin.com/company/rakutenrewards"><svg viewBox="0 0 16 16" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" class="css-1vopo0h e1w3ybj0"><path d="M4.178 14.382V5.353h-3v9.03h3zM2.678 4.12c1.046 0 1.698-.694 1.698-1.56C4.356 1.674 3.725 1 2.698 1S1 1.674 1 2.56c0 .866.651 1.56 1.658 1.56h.02zm3.161 10.262H8.84V9.34c0-.27.02-.54.099-.732.217-.54.71-1.098 1.54-1.098 1.086 0 1.52.828 1.52 2.042v4.83H15V9.205c0-2.773-1.48-4.064-3.455-4.064-1.619 0-2.33.905-2.725 1.522h.02v-1.31h-3c.039.847 0 9.03 0 9.03z"></path></svg></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="css-13sgwfy">
+                        <div class="css-jt7808">
+                            <!-- <a target="_blank" rel="noopener" class="chakra-link css-z26e7t" id="footer-sports-logo" href="https://global.rakuten.com/corp/about/sports_entertainment/"><img width="149px" height="100px" alt="Rakuten Official Partner of the NBA Logo" class="chakra-image css-jgszh2" src="https://static.rakuten.com/static/images/footer/NBA.svg"></a> -->
+                            <div class="css-3tiflh">
+                                <div class="css-1agr68u"><a target="_blank" rel="noopener" class="chakra-link css-109eivq" id="service-viki" href="https://rd.rakuten.co.jp/s2/?R2=https%3A%2F%2Fwww.viki.com%2F&amp;D2=638.0.254432.0.32266763&amp;C3=8c4f956fd025fffc9af6ee87c5ee18029e98a06d">demo Viki</a></div>
+                                
+                                <div class="css-1agr68u"><a target="_blank" rel="noopener" class="chakra-link css-109eivq" id="service-about" href="https://rd.rakuten.co.jp/s2/?R2=https%3A%2F%2Fglobal.rakuten.com%2Fcorp%2Fabout%2F&amp;D2=638.0.254432.0.32266778&amp;C3=35b5d62314457a4626fab4c79f2d9810735a3c13">About</a></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+            <div class="css-0"></div>
+        </div>
+    </div>
+
+ 
+    
+    <div id="fb-root" class=" fb_reset">
+        <div style="position: absolute; top: -10000px; width: 0px; height: 0px;">
+            <div></div>
+        </div>
+    </div>
+
+   
+    <div style="display: none; visibility: hidden;"></div>
+    <div style="display: none; visibility: hidden;"></div>
+
+    <form class="ratForm" name="ratForm" id="ratForm" style="display:none;">
+        <input type="hidden" name="ratAccountId" id="ratAccountId" value="447">
+        <input type="hidden" name="ratServiceId" id="ratServiceId" value="1">
+        <input type="hidden" name="ratPageType" id="ratPageType" value="undefined">
+        <input type="hidden" name="ratPageName" id="ratPageName" value="undefined">
+        <input type="hidden" name="ratPageLayout" id="ratPageLayout" value="PC">
+        <input type="hidden" name="rat" id="ratEnableXHR" value="false">
+        <input type="hidden" name="rat" id="ratCookie" value="{'cks':'_mall_uuid_cp','ckp':'grm_cp'}">
+        <input type="hidden" name="ratSiteSection" id="ratSiteSection" value="undefined">
+        <input type="hidden" name="rat" id="ratTestTargeting" value="{'sear564':'undefined'}">
+    </form>
+    <div class="chakra-portal">
+        <div class="css-cwtbcs">
+            <div class="chakra-popover__popper css-0" style="visibility: hidden; position: absolute; min-width: max-content; inset: 0px auto auto 0px;">
+                <section id="popover-content-22" tabindex="-1" role="dialog" class="chakra-popover__content css-lzdr1o" style="transform-origin: var(--popper-transform-origin); opacity: 0; visibility: hidden; transform: scale(0.95) translateZ(0px);" aria-describedby="popover-body-22">
+                    <div id="popover-body-22" class="chakra-popover__body css-0">
+                        <div class="css-10e6uy0"><button type="button" role="option" aria-selected="true" data-value="default" class="chakra-link css-nx3bvk"><span data-value="default" class="css-p2nwp6">Recommended</span><svg viewBox="0 0 16 16" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" class="css-18tocyg e1w3ybj0"><path fill-rule="evenodd" d="M15.707 3.707L5.9 13.514.293 7.907l1.414-1.414L5.9 10.686l8.393-8.393 1.414 1.414z" clip-rule="evenodd"></path></svg></button>
+                            <button type="button" role="option" aria-selected="false" data-value="alphabetical" class="chakra-link css-nx3bvk"><span data-value="alphabetical" class="css-p2nwp6">Alphabetical: A-Z</span></button><button type="button" role="option"
+                                aria-selected="false" data-value="alphabetical_desc" class="chakra-link css-nx3bvk"><span data-value="alphabetical_desc" class="css-p2nwp6">Alphabetical: Z-A</span></button>
+                            <button type="button" role="option" aria-selected="false" data-value="cashback_desc" class="chakra-link css-nx3bvk"><span data-value="cashback_desc" class="css-p2nwp6">Cash Back</span></button>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+</div>
+</template>
+
+
+<script>
+import clientApi from "../../../api/client";
+import {
+  BAvatar,
+  BBadge,
+  BPagination,
+  BFormGroup,
+  BFormInput,
+  BFormSelect,
+  BDropdown,
+  BDropdownItem,
+  BRow,
+  BCol,
+  BLink,
+  BButton,
+  BImg
+} from "bootstrap-vue";
+
+export default{
+    data(){
+        return {
+            os:'',
+            url:'',
+            device:'',
+            stores:[]
+        }
+    },
+    components: {
+    BAvatar,
+    BBadge,
+    BPagination,
+    BFormGroup,
+    BFormInput,
+    BFormSelect,
+    BDropdown,
+    BDropdownItem,
+    BRow,
+    BCol,
+    BLink,
+    BButton,
+    BImg
+  },
+    created(){
+        this.getStores();
+        this.getOS();
+        console.log(window.location.href);
+    },
+    methods: {
+        getOS() {
+        var userAgent = window.navigator.userAgent,
+            platform = window.navigator.platform,
+            macosPlatforms = ['Macintosh', 'MacIntel', 'MacPPC', 'Mac68K'],
+            windowsPlatforms = ['Win32', 'Win64', 'Windows', 'WinCE'],
+            iosPlatforms = ['iPhone', 'iPad', 'iPod'],
+            os = null;
+            let regexp = /android|iphone|kindle|ipad/i;
+            console.log('navigator is ',window.navigator);
+            //console.log('platform is ',platform);
+         let isMobileDevice = regexp.test(userAgent);
+        
+        if (macosPlatforms.indexOf(platform) !== -1) {
+            os = 'Mac OS';
+        } else if (iosPlatforms.indexOf(platform) !== -1) {
+            os = 'iOS';
+        } else if (windowsPlatforms.indexOf(platform) !== -1) {
+            os = 'Windows';
+        } else if (/Android/.test(userAgent)) {
+            os = 'Android';
+        } else if (!os && /Linux/.test(platform)) {
+            os = 'Linux';
+        }
+
+        if (isMobileDevice) {
+            this.device = 'Mobile'
+        } else {
+            this.device = 'Desktop'  
+        }
+        console.log(os);
+        this.os = os;
+        this.url = window.location.href;
+
+
+        },
+
+        getStores(){
+            
+            clientApi.getRecords(
+                'getStores',
+                data=>{
+                    console.log('the client api response for getStores', data.data);
+                    this.stores = data.data;
+                },
+                err=>{
+                    console.log(err);
+                }
+            )
+        },
+       
+    }
+};
+</script>
+
+
+    <style data-emotion="css-global" data-s="">
+         :host,
+         :root,
+        [data-theme] {
+            --chakra-ring-inset: var(--chakra-empty, /*!*/
+            /*!*/
+            );
+            --chakra-ring-offset-width: 0px;
+            --chakra-ring-offset-color: #fff;
+            --chakra-ring-color: rgba(66, 153, 225, 0.6);
+            --chakra-ring-offset-shadow: 0 0 #0000;
+            --chakra-ring-shadow: 0 0 #0000;
+            --chakra-space-x-reverse: 0;
+            --chakra-space-y-reverse: 0;
+            --colors-light: #fff;
+            --colors-dark: #252525;
+            --colors-gray: #f2f2f2;
+            --colors-palette-almostBlack: #252525;
+            --colors-palette-grey_400: #575757;
+            --colors-palette-grey_300: #737373;
+            --colors-palette-white: #ffffff;
+            --colors-palette-grey_100: #dddddd;
+            --colors-palette-grey_50: #f2f2f2;
+            --colors-palette-green_400: #1b4940;
+            --colors-palette-purple_400: #480081;
+            --colors-palette-grey_200: #b9b9b9;
+            --colors-palette-blue_400: #29296e;
+            --colors-palette-orange_400: #a6784a;
+            --colors-palette-purple_50: #bc9fea;
+            --colors-palette-orange_200: #ff7c38;
+            --colors-palette-purple_25: #cfc0ff;
+            --colors-palette-orange_100: #ffcf45;
+            --colors-palette-purple_15: #e4e0fc;
+            --colors-palette-orange_15: #fff2d1;
+            --colors-palette-purple_05: #f4f3fe;
+            --colors-palette-green_200: #009470;
+            --colors-palette-purple_300: #7119b8;
+            --colors-palette-green_100: #3dc763;
+            --colors-palette-purple_200: #8529cd;
+            --colors-palette-green_15: #cff2d9;
+            --colors-palette-purple_100: #9b50d6;
+            --colors-palette-red_100: #ff9eeb;
+            --colors-palette-red_400: #cc1a36;
+            --colors-palette-blue_200: #0d5c9f;
+            --colors-palette-blue_100: #18a1e5;
+            --colors-palette-blue_15: #dfeefd;
+            --colors-palette-red_200: #ff3347;
+            --colors-palette-red_15: #ffe8fa;
+            --colors-palette-grey_250: #949494;
+            --colors-palette-grey_05: #fafafa;
+            --colors-palette-red_05: #fdf3f6;
+            --colors-palette-blue_05: #eff6fd;
+            --colors-palette-orange_05: #fbf8ef;
+            --colors-palette-green_05: #edf9f0;
+            --colors-fill-sectionInverseSecondary: #252525;
+            --colors-fill-ctaPrimary: #8529cd;
+            --colors-fill-sectionInversePrimary: #29296e;
+            --colors-fill-default: #ffffff;
+            --colors-fill-bannerOverlay: linear-gradient(90deg, #292a6bff, #292a6b00);
+            --colors-fill-extensionIllustration: #480081;
+            --colors-fill-preferenceBackground: #f4f3fe;
+            --colors-fill-listviewBackground: #dfeefd;
+            --colors-border-primary: #252525;
+            --colors-border-inverse: #ffffff;
+            --colors-border-iconContainer: #dddddd;
+            --colors-border-divider: #b9b9b9;
+            --colors-border-listViewDivider: #f4f3fe;
+            --colors-text-primary: #252525;
+            --colors-text-secondary: #575757;
+            --colors-text-tertiary: #737373;
+            --colors-text-inverse: #ffffff;
+            --colors-text-cashback: #e80c5b;
+            --colors-text-action: #8529cd;
+            --colors-brand-purple: #8529cd;
+            --colors-brand-darkIndigo: #29296e;
+            --colors-state-error: #cc1a36;
+            --colors-state-disabled: #949494;
+            --colors-state-unselected: #737373;
+            --colors-state-hover: #9b50d6;
+            --colors-state-pressed: #7119b8;
+            --colors-state-selected: #8529cd;
+            --colors-state-focused: #8529cd;
+            --colors-state-info: #0d5c9f;
+            --colors-state-success: #009470;
+            --colors-state-warning: #ff7c38;
+            --fonts-hero-large: Stag;
+            --fonts-hero-medium: Stag;
+            --fonts-hero-base: Stag;
+            --fonts-h1-medium: Stag;
+            --fonts-h1-large: Stag;
+            --fonts-h1-base: Stag;
+            --fonts-tagLarge: Rakuten Sans UI;
+            --fonts-tagSmall: Rakuten Sans UI;
+            --fonts-strikethrough: Rakuten Sans UI;
+            --fonts-descriptorLarge: Rakuten Sans UI;
+            --fonts-descriptorMedium: Rakuten Sans UI;
+            --fonts-descriptorSmall: Rakuten Sans UI;
+            --fonts-descriptorXsmall: Rakuten Sans UI;
+            --fonts-body: Rakuten Sans UI;
+            --fonts-subnav: Rakuten Sans UI;
+            --fonts-finePrint: Rakuten Sans UI;
+            --fonts-buttonSmall: Rakuten Sans UI;
+            --fonts-buttonMedium: Rakuten Sans UI;
+            --fonts-buttonLarge: Rakuten Sans UI;
+            --fonts-link: Rakuten Sans UI;
+            --fonts-h2-medium: Stag;
+            --fonts-h2-large: Stag;
+            --fonts-h2-base: Stag;
+            --fonts-h3-medium: Stag;
+            --fonts-h3-large: Stag;
+            --fonts-h3-base: Stag;
+            --fonts-bannerLarge-medium: Rakuten Sans UI;
+            --fonts-bannerLarge-large: Rakuten Sans UI;
+            --fonts-bannerLarge-base: Rakuten Sans UI;
+            --fonts-bannerSmall-medium: Rakuten Sans UI;
+            --fonts-bannerSmall-large: Rakuten Sans UI;
+            --fonts-bannerSmall-base: Rakuten Sans UI;
+            --fonts-nav-medium: Rakuten Sans UI;
+            --fonts-nav-large: Rakuten Sans UI;
+            --fonts-nav-base: Rakuten Sans UI;
+            --fonts-subheaderSmall-medium: Rakuten Sans UI;
+            --fonts-subheaderSmall-large: Rakuten Sans UI;
+            --fonts-subheaderSmall-base: Rakuten Sans UI;
+            --fonts-subheaderLarge-medium: Rakuten Sans UI;
+            --fonts-subheaderLarge-large: Rakuten Sans UI;
+            --fonts-subheaderLarge-base: Rakuten Sans UI;
+            --fonts-cashback-base: Rakuten Sans UI;
+            --fonts-cashback-medium: Rakuten Sans UI;
+            --fonts-cashback-large: Rakuten Sans UI;
+            --fontSizes-hero-large: 64px;
+            --fontSizes-hero-medium: 46px;
+            --fontSizes-hero-base: 40px;
+            --fontSizes-buttonLarge: 18px;
+            --fontSizes-tagLarge: 16px;
+            --fontSizes-buttonMedium: 16px;
+            --fontSizes-link: 16px;
+            --fontSizes-buttonSmall: 14px;
+            --fontSizes-body: 14px;
+            --fontSizes-subnav: 14px;
+            --fontSizes-tagSmall: 12px;
+            --fontSizes-finePrint: 12px;
+            --fontSizes-h1-medium: 40px;
+            --fontSizes-h1-large: 52px;
+            --fontSizes-h1-base: 32px;
+            --fontSizes-strikethrough: 12px;
+            --fontSizes-descriptorLarge: 20px;
+            --fontSizes-descriptorMedium: 18px;
+            --fontSizes-descriptorSmall: 16px;
+            --fontSizes-descriptorXsmall: 14px;
+            --fontSizes-h2-medium: 32px;
+            --fontSizes-h2-large: 40px;
+            --fontSizes-h2-base: 24px;
+            --fontSizes-h3-medium: 28px;
+            --fontSizes-h3-large: 32px;
+            --fontSizes-h3-base: 20px;
+            --fontSizes-bannerLarge-medium: 28px;
+            --fontSizes-bannerLarge-large: 28px;
+            --fontSizes-bannerLarge-base: 24px;
+            --fontSizes-bannerSmall-medium: 24px;
+            --fontSizes-bannerSmall-large: 24px;
+            --fontSizes-bannerSmall-base: 22px;
+            --fontSizes-subheaderLarge-medium: 24px;
+            --fontSizes-subheaderLarge-large: 24px;
+            --fontSizes-subheaderLarge-base: 18px;
+            --fontSizes-subheaderSmall-medium: 20px;
+            --fontSizes-subheaderSmall-large: 20px;
+            --fontSizes-subheaderSmall-base: 16px;
+            --fontSizes-nav-medium: 14px;
+            --fontSizes-nav-large: 14px;
+            --fontSizes-nav-base: 12px;
+            --fontSizes-cashback-base: 14px;
+            --fontSizes-cashback-medium: 16px;
+            --fontSizes-cashback-large: 16px;
+            --fontWeights-hero-large: 300;
+            --fontWeights-hero-medium: 300;
+            --fontWeights-hero-base: 300;
+            --fontWeights-body: 400;
+            --fontWeights-tagLarge: 600;
+            --fontWeights-tagSmall: 600;
+            --fontWeights-h1-medium: 300;
+            --fontWeights-h1-large: 300;
+            --fontWeights-h1-base: 300;
+            --fontWeights-strikethrough: 600;
+            --fontWeights-descriptorLarge: 700;
+            --fontWeights-descriptorXsmall: 700;
+            --fontWeights-descriptorSmall: 700;
+            --fontWeights-descriptorMedium: 700;
+            --fontWeights-buttonSmall: 600;
+            --fontWeights-buttonMedium: 600;
+            --fontWeights-buttonLarge: 600;
+            --fontWeights-link: 600;
+            --fontWeights-subnav: 400;
+            --fontWeights-finePrint: 400;
+            --fontWeights-h2-medium: 400;
+            --fontWeights-h2-large: 400;
+            --fontWeights-h2-base: 400;
+            --fontWeights-subheaderLarge-large: 400;
+            --fontWeights-subheaderLarge-medium: 400;
+            --fontWeights-subheaderLarge-base: 400;
+            --fontWeights-h3-medium: 400;
+            --fontWeights-h3-large: 400;
+            --fontWeights-h3-base: 400;
+            --fontWeights-bannerLarge-medium: 900;
+            --fontWeights-bannerLarge-large: 900;
+            --fontWeights-bannerLarge-base: 900;
+            --fontWeights-bannerSmall-medium: 900;
+            --fontWeights-bannerSmall-large: 900;
+            --fontWeights-bannerSmall-base: 900;
+            --fontWeights-nav-medium: 600;
+            --fontWeights-nav-large: 600;
+            --fontWeights-nav-base: 600;
+            --fontWeights-subheaderSmall-medium: 400;
+            --fontWeights-subheaderSmall-large: 400;
+            --fontWeights-subheaderSmall-base: 400;
+            --fontWeights-cashback-base: 600;
+            --fontWeights-cashback-medium: 600;
+            --fontWeights-cashback-large: 600;
+            --letterSpacings-tagSmall: 1px;
+            --letterSpacings-tagLarge: 1px;
+            --letterSpacings-strikethrough: 1px;
+            --lineHeights-hero-large: 66px;
+            --lineHeights-hero-medium: 48px;
+            --lineHeights-hero-base: 44px;
+            --lineHeights-buttonLarge: 24px;
+            --lineHeights-tagLarge: 24px;
+            --lineHeights-buttonSmall: 20px;
+            --lineHeights-descriptorLarge: 24px;
+            --lineHeights-descriptorMedium: 22px;
+            --lineHeights-descriptorSmall: 20px;
+            --lineHeights-descriptorXsmall: 16px;
+            --lineHeights-subnav: 16px;
+            --lineHeights-finePrint: 16px;
+            --lineHeights-buttonMedium: 24px;
+            --lineHeights-link: 24px;
+            --lineHeights-body: 16px;
+            --lineHeights-tagSmall: 16px;
+            --lineHeights-strikethrough: 16px;
+            --lineHeights-h1-medium: 44px;
+            --lineHeights-h1-large: 56px;
+            --lineHeights-h1-base: 36px;
+            --lineHeights-h2-medium: 36px;
+            --lineHeights-h2-large: 42px;
+            --lineHeights-h2-base: 28px;
+            --lineHeights-h3-medium: 30px;
+            --lineHeights-h3-large: 36px;
+            --lineHeights-h3-base: 24px;
+            --lineHeights-bannerLarge-medium: 34px;
+            --lineHeights-bannerLarge-large: 34px;
+            --lineHeights-bannerLarge-base: 28px;
+            --lineHeights-bannerSmall-medium: 28px;
+            --lineHeights-bannerSmall-large: 28px;
+            --lineHeights-bannerSmall-base: 28px;
+            --lineHeights-subheaderSmall-medium: 24px;
+            --lineHeights-subheaderSmall-large: 24px;
+            --lineHeights-subheaderSmall-base: 22px;
+            --lineHeights-subheaderLarge-medium: 26px;
+            --lineHeights-subheaderLarge-large: 28px;
+            --lineHeights-subheaderLarge-base: 22px;
+            --lineHeights-nav-medium: 20px;
+            --lineHeights-nav-large: 20px;
+            --lineHeights-nav-base: 16px;
+            --lineHeights-cashback-base: 16px;
+            --lineHeights-cashback-medium: 16px;
+            --lineHeights-cashback-large: 16px;
+            --radii-full: 9999px;
+            --radii-cta: 20px;
+            --radii-ui: 8px;
+            --radii-tag: 4px;
+            --space-xsmall: 8px;
+            --space-large: 32px;
+            --space-xxsmall: 4px;
+            --space-xxlarge: 64px;
+            --space-medium: 16px;
+            --space-small: 12px;
+            --space-xlarge: 48px;
+            --space-grande: 24px;
+            --space-venti: 20px;
+            --shadows-onDarkBackground: 0px 4px 8px #0a1646cc;
+            --shadows-navigationBottom: 0px -2px 16px #0a16461f;
+            --shadows-default: 0px 4px 8px #0a164626;
+            --shadows-listView: 0px 4px 4px #0a16461a;
+            --shadows-modal: 0px 4px 16px #0a164666;
+            --shadows-defaultEmphasized: 0px 4px 11px #0a164633;
+            --shadows-defaultHover: 0px 4px 11px #0a164633;
+            --shadows-hoverOnDarkBackground: 0px 4px 11px #0a1646d4;
+            --sizes-full: 100%;
+            --sizes-ratio-_1_91_1: 0.5238;
+            --sizes-ratio-_21_9: 0.4286;
+            --sizes-ratio-_6_5: 0.8333;
+            --sizes-ratio-_1_1: 1;
+            --sizes-ratio-_4_5: 1.25;
+            --sizes-ratio-_3_2: 0.6667;
+            --sizes-ratio-_2_1: 0.5;
+            --sizes-ratio-_3_4: 1.3333;
+            --sizes-ratio-brandLogo: 0.4596;
+            --sizes-ratio-categoryImage-base: 0.6231;
+            --sizes-ratio-categoryImage-large: 0.5126;
+            --sizes-ratio-mediaHeroImage-base: 0.5276;
+            --sizes-ratio-mediaHeroImage-medium: 0.2814;
+            --sizes-ratio-mediaHeroImage-large: 0.2814;
+            --sizes-grid-margin-large: 144px;
+            --sizes-grid-margin-medium: 48px;
+            --sizes-grid-margin-base: 20px;
+            --sizes-grid-gutter-large: 24px;
+            --sizes-grid-gutter-medium: 16px;
+            --sizes-grid-gutter-base: 16px;
+            --sizes-grid-columns-medium: 12;
+            --sizes-grid-columns-large: 12;
+            --sizes-grid-columns-base: 8;
+            --sizes-grid-maxWidth-large: 1632px;
+            --sizes-paddingProportion-imageContainer: 0.25;
+            --sizes-paddingProportion-mediaHeroImage-base: 0.1;
+            --sizes-paddingProportion-mediaHeroImage-medium: 0.15;
+            --sizes-paddingProportion-mediaHeroImage-large: 0.2;
+            --sizes-paddingProportion-mediaHeroImageRight-base: 0.85;
+            --sizes-paddingProportion-mediaHeroImageRight-medium: 2;
+            --sizes-paddingProportion-mediaHeroImageRight-large: 2.35;
+            --sizes-xxsmall: 48px;
+            --sizes-xsmall: 56px;
+            --sizes-small: 64px;
+            --sizes-medium: 72px;
+            --sizes-large: 80px;
+            --sizes-xlarge: 88px;
+            --sizes-xxlarge: 96px;
+            --zIndices-hide: -1;
+            --zIndices-auto: auto;
+            --zIndices-base: 0;
+            --zIndices-docked: 10;
+            --zIndices-dropdown: 1000;
+            --zIndices-sticky: 1100;
+            --zIndices-banner: 1200;
+            --zIndices-overlay: 1300;
+            --zIndices-modal: 1400;
+            --zIndices-popover: 1500;
+            --zIndices-skipLink: 1600;
+            --zIndices-toast: 1700;
+            --zIndices-tooltip: 1800;
+        }
+    </style>
+    <style data-emotion="css-global" data-s=""></style>
+
+    <style data-emotion="css-global" data-s="">
+        .eb-attestation-sdk-modal-scroller .eb-attestation-sdk-attestation-modal .eb-attestation-sdk-attestation-header {
+            font-family: 'Rakuten Sans UI', sans-serif;
+            font-weight: 900;
+        }
+        
+        .eb-attestation-sdk-modal-scroller .eb-attestation-sdk-attestation-modal .eb-attestation-sdk-button {
+            border: none;
+            cursor: pointer;
+            text-align: center;
+            display: inline-block;
+            font-weight: normal;
+            font-style: normal;
+            color: #fff;
+            outline: none;
+            -webkit-text-decoration: none;
+            text-decoration: none;
+            -webkit-transition: background 0.2s, color 0.2s, border 0.2s;
+            transition: background 0.2s, color 0.2s, border 0.2s;
+            transition-timing-function: ease-in-out;
+            white-space: nowrap;
+            box-sizing: border-box;
+            padding: 0 40px;
+            background-color: #8529cd;
+            box-shadow: 0 4px 8px 0 rgb(10 22 70 / 15%);
+            border-radius: 23px;
+            height: 46px;
+            line-height: 46px;
+            font-size: 16px;
+        }
+        
+        .eb-attestation-sdk-modal-scroller .eb-attestation-sdk-attestation-modal .eb-attestation-sdk-button:hover {
+            background-color: #9b50d6;
+        }
+    </style>
+    <style data-emotion="css f8n5zr" data-s="">
+        .css-f8n5zr {
+            border: 0px;
+            clip: rect(0px, 0px, 0px, 0px);
+            height: 1px;
+            width: 1px;
+            margin: -1px;
+            padding: 0px;
+            overflow: hidden;
+            white-space: nowrap;
+            position: absolute;
+        }
+    </style>
+    <style data-emotion="css bk94k0" data-s="">
+        .css-bk94k0 {
+            border: 0px;
+            clip: rect(0px, 0px, 0px, 0px);
+            height: 1px;
+            width: 1px;
+            margin: -1px;
+            padding: 0px;
+            overflow: hidden;
+            white-space: nowrap;
+            position: absolute;
+        }
+    </style>
+    <style data-emotion="css f8n5zr" data-s="">
+        .css-f8n5zr {
+            border: 0px;
+            clip: rect(0px, 0px, 0px, 0px);
+            height: 1px;
+            width: 1px;
+            margin: -1px;
+            padding: 0px;
+            overflow: hidden;
+            white-space: nowrap;
+            position: absolute;
+        }
+    </style>
+    <style data-emotion="css bk94k0" data-s="">
+        .css-bk94k0 {
+            border: 0px;
+            clip: rect(0px, 0px, 0px, 0px);
+            height: 1px;
+            width: 1px;
+            margin: -1px;
+            padding: 0px;
+            overflow: hidden;
+            white-space: nowrap;
+            position: absolute;
+        }
+    </style>
+    <style data-emotion="css 1hyfx7x" data-s="">
+        .css-1hyfx7x {
+            display: none;
+        }
+    </style>
+    <style data-emotion="css vooagt" data-s="">
+        .css-vooagt {
+            min-height: 100vh;
+        }
+    </style>
+    <style data-emotion="css 2utm4g" data-s="">
+        .css-2utm4g {
+            position: -webkit-sticky;
+            position: sticky;
+            top: 0px;
+            left: 0px;
+            background: var(--colors-fill-default);
+            z-index: 1101;
+        }
+    </style>
+    <style data-emotion="css wfhd6v" data-s="">
+        .css-wfhd6v {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            background: var(--colors-fill-sectionInversePrimary);
+            position: relative;
+            overflow: hidden;
+            width: 100%;
+            box-shadow: none;
+            padding-right: 48px;
+            -webkit-box-pack: center;
+            -ms-flex-pack: center;
+            -webkit-justify-content: center;
+            justify-content: center;
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            min-height: var(--sizes-xxsmall);
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-wfhd6v {
+                -webkit-box-pack: center;
+                -ms-flex-pack: center;
+                -webkit-justify-content: center;
+                justify-content: center;
+            }
+        }
+    </style>
+    <style data-emotion="css qolup6" data-s="">
+        .css-qolup6 {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            -webkit-box-pack: start;
+            -ms-flex-pack: start;
+            -webkit-justify-content: flex-start;
+            justify-content: flex-start;
+            -webkit-box-flex-wrap: wrap;
+            -webkit-flex-wrap: wrap;
+            -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+            border: 0;
+            padding-left: 20px;
+            padding-top: var(--space-small);
+            padding-bottom: var(--space-small);
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-qolup6 {
+                -webkit-box-pack: center;
+                -ms-flex-pack: center;
+                -webkit-justify-content: center;
+                justify-content: center;
+                -webkit-box-flex-wrap: nowrap;
+                -webkit-flex-wrap: nowrap;
+                -ms-flex-wrap: nowrap;
+                flex-wrap: nowrap;
+                padding-left: 48px;
+                padding-top: var(--space-medium);
+                padding-bottom: var(--space-medium);
+            }
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-qolup6 {
+                padding-left: 144px;
+            }
+        }
+    </style>
+    <style data-emotion="css jqp3j4" data-s="">
+        .css-jqp3j4 {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            -webkit-box-pack: start;
+            -ms-flex-pack: start;
+            -webkit-justify-content: flex-start;
+            justify-content: flex-start;
+            -webkit-box-flex-wrap: wrap;
+            -webkit-flex-wrap: wrap;
+            -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+            border: 0;
+            padding-left: 20px;
+            padding-top: var(--space-small);
+            padding-bottom: var(--space-small);
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-jqp3j4 {
+                -webkit-box-pack: center;
+                -ms-flex-pack: center;
+                -webkit-justify-content: center;
+                justify-content: center;
+                -webkit-box-flex-wrap: nowrap;
+                -webkit-flex-wrap: nowrap;
+                -ms-flex-wrap: nowrap;
+                flex-wrap: nowrap;
+                padding-left: 48px;
+                padding-top: var(--space-medium);
+                padding-bottom: var(--space-medium);
+            }
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-jqp3j4 {
+                padding-left: 144px;
+            }
+        }
+    </style>
+    <style data-emotion="css vvpxx7" data-s="">
+        .css-vvpxx7 {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-order: 3;
+            -ms-flex-order: 3;
+            order: 3;
+            margin-top: 0px;
+            width: auto;
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-vvpxx7 {
+                -webkit-order: 2;
+                -ms-flex-order: 2;
+                order: 2;
+                margin-top: 0px;
+                width: auto;
+            }
+        }
+    </style>
+    <style data-emotion="css 134o76o" data-s="">
+        .css-134o76o {
+            font-family: var(--fonts-descriptorXsmall);
+            font-size: var(--fontSizes-descriptorXsmall);
+            font-weight: var(--fontWeights-descriptorXsmall);
+            line-height: var(--lineHeights-descriptorXsmall);
+            color: var(--colors-text-inverse);
+            overflow: hidden;
+            text-overflow: ellipsis;
+            display: -webkit-box;
+            -webkit-box-orient: vertical;
+            -webkit-line-clamp: var(--chakra-line-clamp);
+            --chakra-line-clamp: 1;
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-134o76o {
+                font-family: var(--fonts-descriptorSmall);
+                font-size: var(--fontSizes-descriptorSmall);
+                font-weight: var(--fontWeights-descriptorSmall);
+                line-height: var(--lineHeights-descriptorSmall);
+            }
+        }
+    </style>
+    <style data-emotion="css cbjy3w" data-s="">
+        .css-cbjy3w {
+            -webkit-order: 4;
+            -ms-flex-order: 4;
+            order: 4;
+            display: none;
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            padding-left: var(--space-medium);
+            margin-left: var(--space-medium);
+            border-left-color: var(--colors-fill-listviewBackground);
+            border-left-width: 1px;
+            border-left-style: solid;
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-cbjy3w {
+                display: -webkit-box;
+                display: -webkit-flex;
+                display: -ms-flexbox;
+                display: flex;
+            }
+        }
+    </style>
+    <style data-emotion="css uw30od" data-s="">
+        .css-uw30od {
+            font-family: var(--fonts-descriptorXsmall);
+            font-size: var(--fontSizes-descriptorXsmall);
+            font-weight: var(--fontWeights-descriptorXsmall);
+            line-height: var(--lineHeights-descriptorXsmall);
+            color: var(--colors-text-inverse);
+            margin-right: 6px;
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-uw30od {
+                font-family: var(--fonts-descriptorSmall);
+                font-size: var(--fontSizes-descriptorSmall);
+                font-weight: var(--fontWeights-descriptorSmall);
+                line-height: var(--lineHeights-descriptorSmall);
+            }
+        }
+    </style>
+    <style data-emotion="css qattoh" data-s="">
+        .css-qattoh {
+            width: 16px;
+            height: 16px;
+            display: inline-block;
+            vertical-align: middle;
+            fill: var(--colors-text-inverse);
+            -webkit-flex-shrink: 0;
+            -ms-flex-negative: 0;
+            flex-shrink: 0;
+            -webkit-backface-visibility: hidden;
+            backface-visibility: hidden;
+        }
+        
+        .css-qattoh:not(:root) {
+            overflow: hidden;
+        }
+    </style>
+    <style data-emotion="css 13nxqa9" data-s="">
+        .css-13nxqa9 {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            width: var(--sizes-xxsmall);
+            height: var(--sizes-xxsmall);
+            position: absolute;
+            top: 0px;
+            -webkit-transform: none;
+            -moz-transform: none;
+            -ms-transform: none;
+            transform: none;
+            right: 0px;
+            -webkit-box-pack: center;
+            -ms-flex-pack: center;
+            -webkit-justify-content: center;
+            justify-content: center;
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            border: 0;
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-13nxqa9 {
+                top: 50%;
+                -webkit-transform: translateY(-50%);
+                -moz-transform: translateY(-50%);
+                -ms-transform: translateY(-50%);
+                transform: translateY(-50%);
+            }
+        }
+    </style>
+    <style data-emotion="css 1cb0652" data-s="">
+        .css-1cb0652 {
+            width: 16px;
+            height: 16px;
+            display: inline-block;
+            vertical-align: middle;
+            fill: var(--colors-fill-default);
+            -webkit-flex-shrink: 0;
+            -ms-flex-negative: 0;
+            flex-shrink: 0;
+            -webkit-backface-visibility: hidden;
+            backface-visibility: hidden;
+        }
+        
+        .css-1cb0652:not(:root) {
+            overflow: hidden;
+        }
+    </style>
+    <style data-emotion="css l9pm0z" data-s="">
+        .css-l9pm0z {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            border-bottom-width: 0;
+            border-bottom-style: solid;
+            border-bottom-color: var(--colors-border-divider);
+        }
+        
+        @media screen and (min-width: 960px) {
+            .css-l9pm0z {
+                border-bottom-width: 1px;
+            }
+        }
+    </style>
+    <style data-emotion="css 1axcpl8" data-s="">
+        .css-1axcpl8 {
+            box-sizing: content-box;
+            -webkit-padding-start: 20px;
+            padding-inline-start: 20px;
+            -webkit-padding-end: 20px;
+            padding-inline-end: 20px;
+            -webkit-margin-start: auto;
+            margin-inline-start: auto;
+            -webkit-margin-end: auto;
+            margin-inline-end: auto;
+            position: relative;
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            -webkit-box-pack: unset;
+            -ms-flex-pack: unset;
+            -webkit-justify-content: unset;
+            justify-content: unset;
+            width: 100%;
+            height: auto;
+            padding-top: var(--space-medium);
+            padding-bottom: var(--space-medium);
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-1axcpl8 {
+                -webkit-padding-start: 48px;
+                padding-inline-start: 48px;
+                -webkit-padding-end: 48px;
+                padding-inline-end: 48px;
+            }
+        }
+        
+        @media screen and (min-width: 960px) {
+            .css-1axcpl8 {
+                -webkit-box-pack: justify;
+                -webkit-justify-content: space-between;
+                justify-content: space-between;
+                height: var(--sizes-xxsmall);
+            }
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-1axcpl8 {
+                max-width: 1632px;
+                -webkit-padding-start: 144px;
+                padding-inline-start: 144px;
+                -webkit-padding-end: 144px;
+                padding-inline-end: 144px;
+            }
+        }
+    </style>
+    <style data-emotion="css 1u1fhow" data-s="">
+        .css-1u1fhow {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            box-sizing: content-box;
+            -webkit-padding-start: 20px;
+            padding-inline-start: 20px;
+            -webkit-padding-end: 20px;
+            padding-inline-end: 20px;
+            -webkit-margin-start: auto;
+            margin-inline-start: auto;
+            -webkit-margin-end: auto;
+            margin-inline-end: auto;
+            position: relative;
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            -webkit-box-pack: unset;
+            -ms-flex-pack: unset;
+            -webkit-justify-content: unset;
+            justify-content: unset;
+            width: 100%;
+            height: auto;
+            padding-top: var(--space-medium);
+            padding-bottom: var(--space-medium);
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-1u1fhow {
+                -webkit-padding-start: 48px;
+                padding-inline-start: 48px;
+                -webkit-padding-end: 48px;
+                padding-inline-end: 48px;
+            }
+        }
+        
+        @media screen and (min-width: 960px) {
+            .css-1u1fhow {
+                -webkit-box-pack: justify;
+                -webkit-justify-content: space-between;
+                justify-content: space-between;
+                height: var(--sizes-xxsmall);
+            }
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-1u1fhow {
+                max-width: 1632px;
+                -webkit-padding-start: 144px;
+                padding-inline-start: 144px;
+                -webkit-padding-end: 144px;
+                padding-inline-end: 144px;
+            }
+        }
+    </style>
+    <style data-emotion="css 12u1jr" data-s="">
+        .css-12u1jr {
+            display: grid;
+            grid-column-gap: var(--space-large);
+            grid-template-columns: 1fr minmax(300px, 607px) 1fr;
+            width: 100%;
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+        }
+    </style>
+    <style data-emotion="css 14i9dxn" data-s="">
+        .css-14i9dxn {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            margin-right: auto;
+        }
+    </style>
+    <style data-emotion="css 1qmasdu" data-s="">
+        .css-1qmasdu {
+            line-height: 0;
+            min-width: 96px;
+        }
+    </style>
+    <style data-emotion="css r7lj85" data-s="">
+        .css-r7lj85 {
+            width: 96px;
+            height: 29px;
+            -webkit-transform: translateY(4px);
+            -moz-transform: translateY(4px);
+            -ms-transform: translateY(4px);
+            transform: translateY(4px);
+        }
+    </style>
+    <style data-emotion="css 1o18mby" data-s="">
+        .css-1o18mby {
+            padding-left: var(--space-xxlarge);
+        }
+    </style>
+    <style data-emotion="css 1baulvz" data-s="">
+        .css-1baulvz {
+            display: inline-block;
+        }
+    </style>
+    <style data-emotion="css 1smrwy1" data-s="">
+        .css-1smrwy1 {
+            fill: #575757;
+            color: #575757;
+            background: #ffffff;
+        }
+        
+        .css-1smrwy1:hover,
+        .css-1smrwy1:focus,
+        .css-1smrwy1:active,
+        .css-1smrwy1.active {
+            color: #8529cd;
+            background: #ffffff;
+        }
+        
+        .css-1smrwy1:hover svg,
+        .css-1smrwy1:focus svg,
+        .css-1smrwy1:active svg,
+        .css-1smrwy1.active svg {
+            fill: #8529cd;
+        }
+    </style>
+    <style data-emotion="css mwbesz" data-s="">
+        .css-mwbesz {
+            position: relative;
+            display: -webkit-inline-box;
+            display: -webkit-inline-flex;
+            display: -ms-inline-flexbox;
+            display: inline-flex;
+            color: #575757;
+            cursor: pointer;
+            fill: #575757;
+            color: #575757;
+            background: #ffffff;
+        }
+        
+        .css-mwbesz:hover,
+        .css-mwbesz:focus,
+        .css-mwbesz:active,
+        .css-mwbesz.active {
+            color: #8529cd;
+            background: #ffffff;
+        }
+        
+        .css-mwbesz:hover svg,
+        .css-mwbesz:focus svg,
+        .css-mwbesz:active svg,
+        .css-mwbesz.active svg {
+            fill: #8529cd;
+        }
+        
+        .css-mwbesz:hover,
+        .css-mwbesz:focus,
+        .css-mwbesz:active,
+        .css-mwbesz.active {
+            color: #8529cd;
+            background: #ffffff;
+        }
+        
+        .css-mwbesz:hover svg,
+        .css-mwbesz:focus svg,
+        .css-mwbesz:active svg,
+        .css-mwbesz.active svg {
+            fill: #8529cd;
+        }
+    </style>
+    <style data-emotion="css 11u8g0p" data-s="">
+        .css-11u8g0p {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-flex-direction: row;
+            -ms-flex-direction: row;
+            flex-direction: row;
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            -webkit-box-pack: center;
+            -ms-flex-pack: center;
+            -webkit-justify-content: center;
+            justify-content: center;
+            width: 100%;
+            font-family: var(--fonts-nav-base);
+            font-size: var(--fontSizes-nav-base);
+            line-height: var(--lineHeights-nav-base);
+            padding: 0px;
+            font-weight: var(--fontWeights-nav-base);
+            position: relative;
+            display: -webkit-inline-box;
+            display: -webkit-inline-flex;
+            display: -ms-inline-flexbox;
+            display: inline-flex;
+            color: #575757;
+            cursor: pointer;
+            fill: #575757;
+            color: #575757;
+            background: #ffffff;
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-11u8g0p {
+                font-family: var(--fonts-nav-medium);
+                font-size: var(--fontSizes-nav-medium);
+                line-height: var(--lineHeights-nav-medium);
+                font-weight: var(--fontWeights-nav-medium);
+            }
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-11u8g0p {
+                font-family: var(--fonts-nav-large);
+                font-size: var(--fontSizes-nav-large);
+                line-height: var(--lineHeights-nav-large);
+                font-weight: var(--fontWeights-nav-large);
+            }
+        }
+        
+        .css-11u8g0p:hover,
+        .css-11u8g0p:focus,
+        .css-11u8g0p:active,
+        .css-11u8g0p.active {
+            color: #8529cd;
+            background: #ffffff;
+        }
+        
+        .css-11u8g0p:hover svg,
+        .css-11u8g0p:focus svg,
+        .css-11u8g0p:active svg,
+        .css-11u8g0p.active svg {
+            fill: #8529cd;
+        }
+        
+        .css-11u8g0p:hover,
+        .css-11u8g0p:focus,
+        .css-11u8g0p:active,
+        .css-11u8g0p.active {
+            color: #8529cd;
+            background: #ffffff;
+        }
+        
+        .css-11u8g0p:hover svg,
+        .css-11u8g0p:focus svg,
+        .css-11u8g0p:active svg,
+        .css-11u8g0p.active svg {
+            fill: #8529cd;
+        }
+    </style>
+    <style data-emotion="css 1nbue8z" data-s="">
+        .css-1nbue8z {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-flex-direction: row;
+            -ms-flex-direction: row;
+            flex-direction: row;
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            -webkit-box-pack: center;
+            -ms-flex-pack: center;
+            -webkit-justify-content: center;
+            justify-content: center;
+            width: 100%;
+            font-family: var(--fonts-nav-base);
+            font-size: var(--fontSizes-nav-base);
+            line-height: var(--lineHeights-nav-base);
+            padding: 0px;
+            font-weight: var(--fontWeights-nav-base);
+            position: relative;
+            display: -webkit-inline-box;
+            display: -webkit-inline-flex;
+            display: -ms-inline-flexbox;
+            display: inline-flex;
+            color: #575757;
+            cursor: pointer;
+            fill: #575757;
+            color: #575757;
+            background: #ffffff;
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-1nbue8z {
+                font-family: var(--fonts-nav-medium);
+                font-size: var(--fontSizes-nav-medium);
+                line-height: var(--lineHeights-nav-medium);
+                font-weight: var(--fontWeights-nav-medium);
+            }
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-1nbue8z {
+                font-family: var(--fonts-nav-large);
+                font-size: var(--fontSizes-nav-large);
+                line-height: var(--lineHeights-nav-large);
+                font-weight: var(--fontWeights-nav-large);
+            }
+        }
+        
+        .css-1nbue8z:hover,
+        .css-1nbue8z:focus,
+        .css-1nbue8z:active,
+        .css-1nbue8z.active {
+            color: #8529cd;
+            background: #ffffff;
+        }
+        
+        .css-1nbue8z:hover svg,
+        .css-1nbue8z:focus svg,
+        .css-1nbue8z:active svg,
+        .css-1nbue8z.active svg {
+            fill: #8529cd;
+        }
+        
+        .css-1nbue8z:hover,
+        .css-1nbue8z:focus,
+        .css-1nbue8z:active,
+        .css-1nbue8z.active {
+            color: #8529cd;
+            background: #ffffff;
+        }
+        
+        .css-1nbue8z:hover svg,
+        .css-1nbue8z:focus svg,
+        .css-1nbue8z:active svg,
+        .css-1nbue8z.active svg {
+            fill: #8529cd;
+        }
+    </style>
+    <style data-emotion="css g2qqs" data-s="">
+        .css-g2qqs {
+            width: 16px;
+            height: 16px;
+            margin-right: var(--space-xsmall);
+            margin-bottom: 0px;
+        }
+    </style>
+    <style data-emotion="css qbgztw" data-s="">
+        .css-qbgztw {
+            width: 16px;
+            height: 16px;
+            display: inline-block;
+            vertical-align: middle;
+            fill: var(--colors-text-tertiary);
+            -webkit-flex-shrink: 0;
+            -ms-flex-negative: 0;
+            flex-shrink: 0;
+            -webkit-backface-visibility: hidden;
+            backface-visibility: hidden;
+            width: 16px;
+            height: 16px;
+            margin-right: var(--space-xsmall);
+            margin-bottom: 0px;
+        }
+        
+        .css-qbgztw:not(:root) {
+            overflow: hidden;
+        }
+    </style>
+    <style data-emotion="css cf3le8" data-s="">
+        .css-cf3le8 {
+            width: -webkit-max-content;
+            width: -moz-max-content;
+            width: max-content;
+        }
+    </style>
+    <style data-emotion="css vb5ee3" data-s="">
+        .css-vb5ee3 {
+            width: 16px;
+            height: 16px;
+            margin-left: var(--space-xsmall);
+            margin-top: 0px;
+        }
+    </style>
+    <style data-emotion="css 1hmx01" data-s="">
+        .css-1hmx01 {
+            width: 16px;
+            height: 16px;
+            display: inline-block;
+            vertical-align: middle;
+            fill: var(--colors-text-tertiary);
+            -webkit-flex-shrink: 0;
+            -ms-flex-negative: 0;
+            flex-shrink: 0;
+            -webkit-backface-visibility: hidden;
+            backface-visibility: hidden;
+            width: 16px;
+            height: 16px;
+            margin-left: var(--space-xsmall);
+            margin-top: 0px;
+        }
+        
+        .css-1hmx01:not(:root) {
+            overflow: hidden;
+        }
+    </style>
+    <style data-emotion="css 7pf6at" data-s="">
+        .css-7pf6at {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            width: 100%;
+        }
+    </style>
+    <style data-emotion="css i9gxme" data-s="">
+        .css-i9gxme {
+            -webkit-box-flex: 1;
+            -webkit-flex-grow: 1;
+            -ms-flex-positive: 1;
+            flex-grow: 1;
+        }
+    </style>
+    <style data-emotion="css c36nl0" data-s="">
+        .css-c36nl0 {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            -webkit-box-flex: 1;
+            -webkit-flex-grow: 1;
+            -ms-flex-positive: 1;
+            flex-grow: 1;
+        }
+    </style>
+    <style data-emotion="css f8n5zr" data-s="">
+        .css-f8n5zr {
+            border: 0px;
+            clip: rect(0px, 0px, 0px, 0px);
+            height: 1px;
+            width: 1px;
+            margin: -1px;
+            padding: 0px;
+            overflow: hidden;
+            white-space: nowrap;
+            position: absolute;
+        }
+    </style>
+    <style data-emotion="css 4302v8" data-s="">
+        .css-4302v8 {
+            width: 100%;
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            position: relative;
+        }
+    </style>
+    <style data-emotion="css 1etvo5h" data-s="">
+        .css-1etvo5h {
+            outline: 2px solid transparent;
+            outline-offset: 2px;
+            position: relative;
+            width: 100%;
+        }
+        
+        .css-1etvo5h::before {
+            content: "";
+            box-sizing: content-box;
+            border-width: 4px;
+            border-style: solid;
+            border-color: var(--colors-state-focused);
+            opacity: 0;
+            padding: 0px;
+            pointer-events: none;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            -webkit-transform: translate(-50%, -50%);
+            -moz-transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+            z-index: 0;
+            width: 100%;
+            height: 100%;
+            -webkit-backface-visibility: hidden;
+            backface-visibility: hidden;
+            border-radius: 16px;
+            -webkit-transition: padding 0.3s, opacity 0.3s;
+            transition: padding 0.3s, opacity 0.3s;
+            transition-timing-function: cubic-bezier(0.75, 0, 0.125, 1);
+        }
+        
+        .css-1etvo5h.focus-visible::before {
+            opacity: 1;
+            z-index: 1;
+            padding: 4px;
+        }
+        
+        .css-1etvo5h:focus-visible::before {
+            opacity: 1;
+            z-index: 1;
+            padding: 4px;
+        }
+    </style>
+    <style data-emotion="css 1m5h3bq" data-s="">
+        .css-1m5h3bq {
+            width: 100%;
+            outline: 2px solid transparent;
+            outline-offset: 2px;
+            position: relative;
+            -webkit-appearance: none;
+            -moz-appearance: none;
+            -ms-appearance: none;
+            appearance: none;
+            -webkit-transition: all 0.2s;
+            transition: all 0.2s;
+            border: 1px;
+            border-style: solid;
+            border-color: var(--colors-text-tertiary);
+            background: var(--colors-fill-default);
+            font-family: Rakuten Sans UI;
+            font-size: 14px;
+            font-weight: 400;
+            line-height: 16px;
+            padding-top: 14px;
+            padding-bottom: 14px;
+            -webkit-padding-start: 16px;
+            padding-inline-start: 16px;
+            -webkit-padding-end: 16px;
+            padding-inline-end: 16px;
+            height: 48px;
+            border-radius: 8px;
+            padding-right: 40px;
+        }
+        
+        .css-1m5h3bq:hover,
+        .css-1m5h3bq[data-hover] {
+            border-color: var(--colors-state-focused);
+        }
+        
+        .css-1m5h3bq[disabled],
+        .css-1m5h3bq[aria-disabled=true],
+        .css-1m5h3bq[data-disabled] {
+            border-color: var(--colors-state-disabled);
+            cursor: not-allowed;
+        }
+        
+        .css-1m5h3bq:focus,
+        .css-1m5h3bq[data-focus] {
+            border-color: #737373;
+        }
+        
+        .css-1m5h3bq[aria-invalid=true],
+        .css-1m5h3bq[data-invalid] {
+            border-color: #cc1a36;
+        }
+        
+        .css-1m5h3bq:active,
+        .css-1m5h3bq[data-active] {
+            border-color: var(--colors-state-pressed);
+        }
+        
+        .css-1m5h3bq[aria-readonly=true],
+        .css-1m5h3bq[readonly],
+        .css-1m5h3bq[data-readonly] {
+            background: transparent;
+            box-shadow: none;
+            -webkit-user-select: all;
+            -moz-user-select: all;
+            -ms-user-select: all;
+            user-select: all;
+        }
+    </style>
+    <style data-emotion="css m37mgu" data-s="">
+        .css-m37mgu {
+            right: 0px;
+            width: var(--sizes-xxsmall);
+            height: 48px;
+            -webkit-padding-start: var(--space-xsmall);
+            padding-inline-start: var(--space-xsmall);
+            -webkit-padding-end: var(--space-xsmall);
+            padding-inline-end: var(--space-xsmall);
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            -webkit-box-pack: center;
+            -ms-flex-pack: center;
+            -webkit-justify-content: center;
+            justify-content: center;
+            position: absolute;
+            top: 0px;
+            z-index: 1;
+            padding: 0px;
+        }
+    </style>
+    <style data-emotion="css 1op5ayl" data-s="">
+        .css-1op5ayl {
+            display: -webkit-inline-box;
+            display: -webkit-inline-flex;
+            display: -ms-inline-flexbox;
+            display: inline-flex;
+            -webkit-appearance: none;
+            -moz-appearance: none;
+            -ms-appearance: none;
+            appearance: none;
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            -webkit-box-pack: center;
+            -ms-flex-pack: center;
+            -webkit-justify-content: center;
+            justify-content: center;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+            position: relative;
+            white-space: nowrap;
+            vertical-align: middle;
+            outline: 2px solid transparent;
+            outline-offset: 2px;
+            width: var(--sizes-xxsmall);
+            border: none;
+            cursor: pointer;
+            -webkit-transition: all 200ms;
+            transition: all 200ms;
+            box-shadow: var(--shadows-default);
+            font-family: var(--fonts-buttonMedium);
+            font-size: var(--fontSizes-buttonMedium);
+            font-weight: var(--fontWeights-buttonMedium);
+            line-height: var(--lineHeights-buttonMedium);
+            padding-top: 10px;
+            padding-bottom: 10px;
+            -webkit-padding-start: var(--space-medium);
+            padding-inline-start: var(--space-medium);
+            -webkit-padding-end: var(--space-medium);
+            padding-inline-end: var(--space-medium);
+            color: var(--colors-text-inverse);
+            background: var(--colors-fill-ctaPrimary);
+            border-radius: var(--radii-full);
+            height: var(--sizes-xxsmall);
+            padding: 0px;
+            background-color: var(--colors-fill-ctaPrimary);
+            border-top-left-radius: 0px;
+            border-bottom-left-radius: 0px;
+            border-top-right-radius: var(--radii-ui);
+            border-bottom-right-radius: var(--radii-ui);
+        }
+        
+        .css-1op5ayl[disabled],
+        .css-1op5ayl[aria-disabled=true],
+        .css-1op5ayl[data-disabled] {
+            cursor: not-allowed;
+            box-shadow: none;
+            background: var(--colors-state-disabled);
+        }
+        
+        .css-1op5ayl[disabled]:focus,
+        .css-1op5ayl[aria-disabled=true]:focus,
+        .css-1op5ayl[data-disabled]:focus,
+        .css-1op5ayl[disabled]:hover,
+        .css-1op5ayl[aria-disabled=true]:hover,
+        .css-1op5ayl[data-disabled]:hover,
+        .css-1op5ayl[disabled]:active,
+        .css-1op5ayl[aria-disabled=true]:active,
+        .css-1op5ayl[data-disabled]:active {
+            background: var(--colors-state-disabled);
+        }
+        
+        .css-1op5ayl .chakra-button__icon {
+            line-height: 1;
+        }
+        
+        .css-1op5ayl .chakra-button__icon svg {
+            display: block;
+        }
+        
+        .css-1op5ayl:hover,
+        .css-1op5ayl[data-hover] {
+            background: var(--colors-state-hover);
+        }
+        
+        [role=group]:hover .css-1op5ayl,
+        [role=group][data-hover] .css-1op5ayl,
+        [data-group]:hover .css-1op5ayl,
+        [data-group][data-hover] .css-1op5ayl,
+        .group:hover .css-1op5ayl,
+        .group[data-hover] .css-1op5ayl {
+            background: var(--colors-state-hover);
+        }
+        
+        .css-1op5ayl:focus,
+        .css-1op5ayl[data-focus] {
+            background: var(--colors-state-focused);
+        }
+        
+        .css-1op5ayl:active,
+        .css-1op5ayl[data-active] {
+            background: var(--colors-state-pressed);
+        }
+        
+        .css-1op5ayl::before {
+            content: "";
+            box-sizing: content-box;
+            border-width: 4px;
+            border-style: solid;
+            border-color: var(--colors-state-focused);
+            opacity: 0;
+            padding: 0px;
+            pointer-events: none;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            -webkit-transform: translate(-50%, -50%);
+            -moz-transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+            z-index: 0;
+            width: 100%;
+            height: 100%;
+            -webkit-backface-visibility: hidden;
+            backface-visibility: hidden;
+            border-radius: 0px 16px 16px 0px;
+            -webkit-transition: padding 0.3s, opacity 0.3s;
+            transition: padding 0.3s, opacity 0.3s;
+            transition-timing-function: cubic-bezier(0.75, 0, 0.125, 1);
+        }
+        
+        .css-1op5ayl.focus-visible::before {
+            opacity: 1;
+            z-index: 1;
+            padding: 4px;
+        }
+        
+        .css-1op5ayl:focus-visible::before {
+            opacity: 1;
+            z-index: 1;
+            padding: 4px;
+        }
+    </style>
+    <style data-emotion="css 1wpvo2" data-s="">
+        .css-1wpvo2 {
+            width: 100%;
+            outline: 2px solid transparent;
+            outline-offset: 2px;
+            position: relative;
+            -webkit-appearance: none;
+            -moz-appearance: none;
+            -ms-appearance: none;
+            appearance: none;
+            -webkit-transition: all 0.2s;
+            transition: all 0.2s;
+            border: 1px;
+            border-style: solid;
+            border-color: var(--colors-text-tertiary);
+            background: var(--colors-fill-default);
+            font-family: Rakuten Sans UI;
+            font-size: 14px;
+            font-weight: 400;
+            line-height: 16px;
+            padding-top: 14px;
+            padding-bottom: 14px;
+            -webkit-padding-start: 16px;
+            padding-inline-start: 16px;
+            -webkit-padding-end: 16px;
+            padding-inline-end: 16px;
+            height: 48px;
+            border-radius: 8px;
+        }
+        
+        .css-1wpvo2:hover,
+        .css-1wpvo2[data-hover] {
+            border-color: var(--colors-state-focused);
+        }
+        
+        .css-1wpvo2[disabled],
+        .css-1wpvo2[aria-disabled=true],
+        .css-1wpvo2[data-disabled] {
+            border-color: var(--colors-state-disabled);
+            cursor: not-allowed;
+        }
+        
+        .css-1wpvo2:focus,
+        .css-1wpvo2[data-focus] {
+            border-color: #737373;
+        }
+        
+        .css-1wpvo2[aria-invalid=true],
+        .css-1wpvo2[data-invalid] {
+            border-color: #cc1a36;
+        }
+        
+        .css-1wpvo2:active,
+        .css-1wpvo2[data-active] {
+            border-color: var(--colors-state-pressed);
+        }
+        
+        .css-1wpvo2[aria-readonly=true],
+        .css-1wpvo2[readonly],
+        .css-1wpvo2[data-readonly] {
+            background: transparent;
+            box-shadow: none;
+            -webkit-user-select: all;
+            -moz-user-select: all;
+            -ms-user-select: all;
+            user-select: all;
+        }
+    </style>
+    <style data-emotion="css sxzz0f" data-s="">
+        .css-sxzz0f {
+            -webkit-overflow-scrolling: touch;
+        }
+    </style>
+    <style data-emotion="css 1cp4g2l" data-s="">
+        .css-1cp4g2l {
+            position: relative;
+            z-index: var(--zIndices-dropdown);
+            max-width: calc(100% - 48px);
+            -webkit-overflow-scrolling: touch;
+        }
+    </style>
+    <style data-emotion="css 1wpu5qj" data-s="">
+        .css-1wpu5qj {
+            box-shadow: none;
+            border-radius: 0px;
+            width: 100%;
+            position: absolute;
+            left: 0px;
+            top: 0px;
+            overflow: hidden;
+            transform-origin: top center;
+            visibility: hidden;
+            opacity: 0;
+            -webkit-transition: all 0s;
+            transition: all 0s;
+            height: 100vh;
+            height: -webkit-fill-available;
+            -webkit-transform: scaleY(0);
+            -moz-transform: scaleY(0);
+            -ms-transform: scaleY(0);
+            transform: scaleY(0);
+            padding-bottom: 0px;
+            padding-top: 0px;
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-1wpu5qj {
+                height: auto;
+            }
+        }
+        
+        @media screen and (min-width: 960px) {
+            .css-1wpu5qj {
+                background: var(--colors-fill-default);
+                box-shadow: var(--shadows-default);
+                border-radius: var(--radii-ui);
+                border-top-left-radius: 0px;
+                border-top-right-radius: 0px;
+                position: absolute;
+                -webkit-transition: padding 160ms, -webkit-transform 160ms, opacity 160ms, visibility 0ms 160ms, box-shadow 160ms;
+                transition: padding 160ms, transform 160ms, opacity 160ms, visibility 0ms 160ms, box-shadow 160ms;
+            }
+        }
+        
+        .css-1wpu5qj:hover,
+        .css-1wpu5qj[data-hover] {
+            box-shadow: var(--shadows-defaultHover);
+        }
+    </style>
+    <style data-emotion="css 84nudp" data-s="">
+        .css-84nudp {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            margin-left: auto;
+        }
+    </style>
+    <style data-emotion="css n244i9" data-s="">
+        .css-n244i9 {
+            display: -webkit-inline-box;
+            display: -webkit-inline-flex;
+            display: -ms-inline-flexbox;
+            display: inline-flex;
+            -webkit-appearance: none;
+            -moz-appearance: none;
+            -ms-appearance: none;
+            appearance: none;
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            -webkit-box-pack: center;
+            -ms-flex-pack: center;
+            -webkit-justify-content: center;
+            justify-content: center;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+            position: relative;
+            white-space: nowrap;
+            vertical-align: middle;
+            outline: 2px solid transparent;
+            outline-offset: 2px;
+            width: auto;
+            border: none;
+            cursor: pointer;
+            -webkit-transition: all 200ms;
+            transition: all 200ms;
+            box-shadow: none;
+            font-family: var(--fonts-buttonMedium);
+            font-size: var(--fontSizes-buttonMedium);
+            font-weight: var(--fontWeights-buttonMedium);
+            line-height: var(--lineHeights-buttonMedium);
+            padding-top: 10px;
+            padding-bottom: 10px;
+            -webkit-padding-start: 0px;
+            padding-inline-start: 0px;
+            -webkit-padding-end: 0px;
+            padding-inline-end: 0px;
+            -webkit-box-flex-wrap: wrap;
+            -webkit-flex-wrap: wrap;
+            -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+            color: var(--colors-text-action);
+            background: transparent;
+            margin-right: var(--space-medium);
+        }
+        
+        .css-n244i9[disabled],
+        .css-n244i9[aria-disabled=true],
+        .css-n244i9[data-disabled] {
+            cursor: not-allowed;
+            box-shadow: none;
+            color: var(--colors-state-disabled);
+            border-width: 0;
+        }
+        
+        .css-n244i9[disabled]::after,
+        .css-n244i9[aria-disabled=true]::after,
+        .css-n244i9[data-disabled]::after {
+            border-color: transparent;
+        }
+        
+        .css-n244i9[disabled]:focus,
+        .css-n244i9[aria-disabled=true]:focus,
+        .css-n244i9[data-disabled]:focus,
+        .css-n244i9[disabled]:hover,
+        .css-n244i9[aria-disabled=true]:hover,
+        .css-n244i9[data-disabled]:hover,
+        .css-n244i9[disabled]:active,
+        .css-n244i9[aria-disabled=true]:active,
+        .css-n244i9[data-disabled]:active {
+            color: var(--colors-state-disabled);
+        }
+        
+        .css-n244i9[disabled]:focus::after,
+        .css-n244i9[aria-disabled=true]:focus::after,
+        .css-n244i9[data-disabled]:focus::after,
+        .css-n244i9[disabled]:hover::after,
+        .css-n244i9[aria-disabled=true]:hover::after,
+        .css-n244i9[data-disabled]:hover::after,
+        .css-n244i9[disabled]:active::after,
+        .css-n244i9[aria-disabled=true]:active::after,
+        .css-n244i9[data-disabled]:active::after {
+            border-color: transparent;
+        }
+        
+        .css-n244i9 .chakra-button__icon {
+            line-height: 1;
+        }
+        
+        .css-n244i9 .chakra-button__icon svg {
+            display: block;
+        }
+        
+        .css-n244i9::after {
+            content: "";
+            width: 100%;
+            -webkit-box-flex: 1;
+            -webkit-flex-grow: 1;
+            -ms-flex-positive: 1;
+            flex-grow: 1;
+            height: 1px;
+            border-width: 0;
+            border-bottom-width: 1px;
+            border-color: transparent;
+            border-style: solid;
+        }
+        
+        .css-n244i9:hover,
+        .css-n244i9[data-hover] {
+            color: var(--colors-state-hover);
+        }
+        
+        .css-n244i9:hover::after,
+        .css-n244i9[data-hover]::after {
+            border-color: var(--colors-state-hover);
+        }
+        
+        [role=group]:hover .css-n244i9,
+        [role=group][data-hover] .css-n244i9,
+        [data-group]:hover .css-n244i9,
+        [data-group][data-hover] .css-n244i9,
+        .group:hover .css-n244i9,
+        .group[data-hover] .css-n244i9 {
+            color: var(--colors-state-hover);
+        }
+        
+        [role=group]:hover .css-n244i9::after,
+        [role=group][data-hover] .css-n244i9::after,
+        [data-group]:hover .css-n244i9::after,
+        [data-group][data-hover] .css-n244i9::after,
+        .group:hover .css-n244i9::after,
+        .group[data-hover] .css-n244i9::after {
+            border-color: var(--colors-state-hover);
+        }
+        
+        .css-n244i9:focus {
+            color: var(--colors-state-focused);
+        }
+        
+        .css-n244i9:focus::after {
+            border-color: transparent;
+        }
+        
+        .css-n244i9:active,
+        .css-n244i9[data-active] {
+            color: var(--colors-state-pressed);
+        }
+        
+        .css-n244i9[data-inverse="true"] {
+            color: var(--colors-text-inverse);
+        }
+        
+        .css-n244i9[data-inverse="true"]:hover::after,
+        .css-n244i9[data-inverse="true"][data-hover]::after {
+            border-color: var(--colors-border-inverse);
+        }
+        
+        .css-n244i9[data-inverse="true"]:focus::after,
+        .css-n244i9[data-inverse="true"][data-focus]::after {
+            border-color: transparent;
+        }
+        
+        .css-n244i9::before {
+            content: "";
+            box-sizing: content-box;
+            border-width: 4px;
+            border-style: solid;
+            border-color: var(--colors-state-focused);
+            opacity: 0;
+            padding: 0px;
+            pointer-events: none;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            -webkit-transform: translate(-50%, -50%);
+            -moz-transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+            z-index: 0;
+            width: 100%;
+            height: 100%;
+            -webkit-backface-visibility: hidden;
+            backface-visibility: hidden;
+            border-radius: 100px;
+            -webkit-transition: padding 0.3s, opacity 0.3s;
+            transition: padding 0.3s, opacity 0.3s;
+            transition-timing-function: cubic-bezier(0.75, 0, 0.125, 1);
+        }
+        
+        .css-n244i9.focus-visible::before {
+            opacity: 1;
+            z-index: 1;
+            padding: 4px;
+        }
+        
+        .css-n244i9:focus-visible::before {
+            opacity: 1;
+            z-index: 1;
+            padding: 4px;
+        }
+    </style>
+    <style data-emotion="css 15rtiu8" data-s="">
+        .css-15rtiu8 {
+            display: -webkit-inline-box;
+            display: -webkit-inline-flex;
+            display: -ms-inline-flexbox;
+            display: inline-flex;
+            -webkit-appearance: none;
+            -moz-appearance: none;
+            -ms-appearance: none;
+            appearance: none;
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            -webkit-box-pack: center;
+            -ms-flex-pack: center;
+            -webkit-justify-content: center;
+            justify-content: center;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+            position: relative;
+            white-space: nowrap;
+            vertical-align: middle;
+            outline: 2px solid transparent;
+            outline-offset: 2px;
+            width: auto;
+            border: none;
+            cursor: pointer;
+            -webkit-transition: all 200ms;
+            transition: all 200ms;
+            box-shadow: var(--shadows-default);
+            font-family: var(--fonts-buttonMedium);
+            font-size: var(--fontSizes-buttonMedium);
+            font-weight: var(--fontWeights-buttonMedium);
+            line-height: var(--lineHeights-buttonMedium);
+            padding-top: 10px;
+            padding-bottom: 10px;
+            -webkit-padding-start: var(--space-medium);
+            padding-inline-start: var(--space-medium);
+            -webkit-padding-end: var(--space-medium);
+            padding-inline-end: var(--space-medium);
+            color: var(--colors-text-inverse);
+            background: var(--colors-fill-ctaPrimary);
+            border-radius: var(--radii-full);
+        }
+        
+        .css-15rtiu8[disabled],
+        .css-15rtiu8[aria-disabled=true],
+        .css-15rtiu8[data-disabled] {
+            cursor: not-allowed;
+            box-shadow: none;
+            background: var(--colors-state-disabled);
+        }
+        
+        .css-15rtiu8[disabled]:focus,
+        .css-15rtiu8[aria-disabled=true]:focus,
+        .css-15rtiu8[data-disabled]:focus,
+        .css-15rtiu8[disabled]:hover,
+        .css-15rtiu8[aria-disabled=true]:hover,
+        .css-15rtiu8[data-disabled]:hover,
+        .css-15rtiu8[disabled]:active,
+        .css-15rtiu8[aria-disabled=true]:active,
+        .css-15rtiu8[data-disabled]:active {
+            background: var(--colors-state-disabled);
+        }
+        
+        .css-15rtiu8 .chakra-button__icon {
+            line-height: 1;
+        }
+        
+        .css-15rtiu8 .chakra-button__icon svg {
+            display: block;
+        }
+        
+        .css-15rtiu8:hover,
+        .css-15rtiu8[data-hover] {
+            background: var(--colors-state-hover);
+        }
+        
+        [role=group]:hover .css-15rtiu8,
+        [role=group][data-hover] .css-15rtiu8,
+        [data-group]:hover .css-15rtiu8,
+        [data-group][data-hover] .css-15rtiu8,
+        .group:hover .css-15rtiu8,
+        .group[data-hover] .css-15rtiu8 {
+            background: var(--colors-state-hover);
+        }
+        
+        .css-15rtiu8:focus,
+        .css-15rtiu8[data-focus] {
+            background: var(--colors-state-focused);
+        }
+        
+        .css-15rtiu8:active,
+        .css-15rtiu8[data-active] {
+            background: var(--colors-state-pressed);
+        }
+        
+        .css-15rtiu8::before {
+            content: "";
+            box-sizing: content-box;
+            border-width: 4px;
+            border-style: solid;
+            border-color: var(--colors-state-focused);
+            opacity: 0;
+            padding: 0px;
+            pointer-events: none;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            -webkit-transform: translate(-50%, -50%);
+            -moz-transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+            z-index: 0;
+            width: 100%;
+            height: 100%;
+            -webkit-backface-visibility: hidden;
+            backface-visibility: hidden;
+            border-radius: 100px;
+            -webkit-transition: padding 0.3s, opacity 0.3s;
+            transition: padding 0.3s, opacity 0.3s;
+            transition-timing-function: cubic-bezier(0.75, 0, 0.125, 1);
+        }
+        
+        .css-15rtiu8.focus-visible::before {
+            opacity: 1;
+            z-index: 1;
+            padding: 4px;
+        }
+        
+        .css-15rtiu8:focus-visible::before {
+            opacity: 1;
+            z-index: 1;
+            padding: 4px;
+        }
+    </style>
+    <style data-emotion="css 1bi1u51" data-s="">
+        .css-1bi1u51 {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            position: -webkit-sticky;
+            position: sticky;
+            top: initial;
+            transition-duration: 0.5s;
+            transition-property: box-shadow, top;
+            width: 100%;
+            border-bottom-width: 0;
+            border-bottom-style: solid;
+            border-bottom-color: var(--colors-border-divider);
+            background: var(--colors-fill-default);
+            z-index: var(--zIndices-sticky);
+        }
+        
+        @media screen and (min-width: 960px) {
+            .css-1bi1u51 {
+                border-bottom-width: 1px;
+            }
+        }
+    </style>
+    <style data-emotion="css 1ymvoir" data-s="">
+        .css-1ymvoir {
+            box-sizing: content-box;
+            -webkit-padding-start: 20px;
+            padding-inline-start: 20px;
+            -webkit-padding-end: 20px;
+            padding-inline-end: 20px;
+            -webkit-margin-start: auto;
+            margin-inline-start: auto;
+            -webkit-margin-end: auto;
+            margin-inline-end: auto;
+            position: relative;
+            -webkit-box-pack: justify;
+            -webkit-justify-content: space-between;
+            justify-content: space-between;
+            width: 100%;
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-1ymvoir {
+                -webkit-padding-start: 48px;
+                padding-inline-start: 48px;
+                -webkit-padding-end: 48px;
+                padding-inline-end: 48px;
+            }
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-1ymvoir {
+                max-width: 1632px;
+                -webkit-padding-start: 144px;
+                padding-inline-start: 144px;
+                -webkit-padding-end: 144px;
+                padding-inline-end: 144px;
+            }
+        }
+    </style>
+    <style data-emotion="css 1new1lo" data-s="">
+        .css-1new1lo {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            box-sizing: content-box;
+            -webkit-padding-start: 20px;
+            padding-inline-start: 20px;
+            -webkit-padding-end: 20px;
+            padding-inline-end: 20px;
+            -webkit-margin-start: auto;
+            margin-inline-start: auto;
+            -webkit-margin-end: auto;
+            margin-inline-end: auto;
+            position: relative;
+            -webkit-box-pack: justify;
+            -webkit-justify-content: space-between;
+            justify-content: space-between;
+            width: 100%;
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-1new1lo {
+                -webkit-padding-start: 48px;
+                padding-inline-start: 48px;
+                -webkit-padding-end: 48px;
+                padding-inline-end: 48px;
+            }
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-1new1lo {
+                max-width: 1632px;
+                -webkit-padding-start: 144px;
+                padding-inline-start: 144px;
+                -webkit-padding-end: 144px;
+                padding-inline-end: 144px;
+            }
+        }
+    </style>
+    <style data-emotion="css 1ngpt1q" data-s="">
+        .css-1ngpt1q {
+            -webkit-margin-start: 0px;
+            margin-inline-start: 0px;
+            -webkit-margin-end: 0px;
+            margin-inline-end: 0px;
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-1ngpt1q {
+                -webkit-margin-start: var(--space-medium);
+                margin-inline-start: var(--space-medium);
+                -webkit-margin-end: var(--space-medium);
+                margin-inline-end: var(--space-medium);
+            }
+        }
+        
+        .css-1ngpt1q:first-of-type {
+            margin-left: 0px;
+        }
+        
+        .css-1ngpt1q:last-of-type {
+            margin-right: 0px;
+        }
+    </style>
+    <style data-emotion="css albo6m" data-s="">
+        .css-albo6m {
+            position: relative;
+            display: -webkit-inline-box;
+            display: -webkit-inline-flex;
+            display: -ms-inline-flexbox;
+            display: inline-flex;
+            color: #575757;
+            cursor: pointer;
+        }
+        
+        .css-albo6m:hover,
+        .css-albo6m:focus,
+        .css-albo6m:active,
+        .css-albo6m.active {
+            color: #8529cd;
+            background: #ffffff;
+        }
+        
+        .css-albo6m:hover svg,
+        .css-albo6m:focus svg,
+        .css-albo6m:active svg,
+        .css-albo6m.active svg {
+            fill: #8529cd;
+        }
+        
+        .css-albo6m:active::after,
+        .css-albo6m.active::after,
+        .css-albo6m:visited::after {
+            content: "";
+            position: absolute;
+            background: #8529cd;
+            border-radius: 8px 8px 0 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+        }
+    </style>
+    <style data-emotion="css 6j3tju" data-s="">
+        .css-6j3tju {
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            -webkit-box-pack: center;
+            -ms-flex-pack: center;
+            -webkit-justify-content: center;
+            justify-content: center;
+            width: auto;
+            -webkit-flex-direction: row;
+            -ms-flex-direction: row;
+            flex-direction: row;
+            font-family: var(--fonts-subnav);
+            font-size: var(--fontSizes-subnav);
+            line-height: var(--lineHeights-subnav);
+            padding: var(--space-medium);
+            text-align: left;
+            position: relative;
+            display: -webkit-inline-box;
+            display: -webkit-inline-flex;
+            display: -ms-inline-flexbox;
+            display: inline-flex;
+            color: #575757;
+            cursor: pointer;
+        }
+        
+        .css-6j3tju:hover,
+        .css-6j3tju:focus,
+        .css-6j3tju:active,
+        .css-6j3tju.active {
+            color: #8529cd;
+            background: #ffffff;
+        }
+        
+        .css-6j3tju:hover svg,
+        .css-6j3tju:focus svg,
+        .css-6j3tju:active svg,
+        .css-6j3tju.active svg {
+            fill: #8529cd;
+        }
+        
+        .css-6j3tju:active::after,
+        .css-6j3tju.active::after,
+        .css-6j3tju:visited::after {
+            content: "";
+            position: absolute;
+            background: #8529cd;
+            border-radius: 8px 8px 0 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+        }
+    </style>
+    <style data-emotion="css 1ce8jtl" data-s="">
+        .css-1ce8jtl {
+            width: 24px;
+            height: 24px;
+            display: inline-block;
+            vertical-align: middle;
+            fill: var(--colors-text-tertiary);
+            -webkit-flex-shrink: 0;
+            -ms-flex-negative: 0;
+            flex-shrink: 0;
+            -webkit-backface-visibility: hidden;
+            backface-visibility: hidden;
+            width: 16px;
+            height: 16px;
+            margin-right: var(--space-xsmall);
+            margin-bottom: 0px;
+        }
+        
+        .css-1ce8jtl:not(:root) {
+            overflow: hidden;
+        }
+    </style>
+    <style data-emotion="css b7jifr" data-s="">
+        .css-b7jifr {
+            box-sizing: content-box;
+            -webkit-padding-start: 20px;
+            padding-inline-start: 20px;
+            -webkit-padding-end: 20px;
+            padding-inline-end: 20px;
+            -webkit-margin-start: auto;
+            margin-inline-start: auto;
+            -webkit-margin-end: auto;
+            margin-inline-end: auto;
+            position: relative;
+            -webkit-box-pack: end;
+            -ms-flex-pack: end;
+            -webkit-justify-content: flex-end;
+            justify-content: flex-end;
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            padding-top: var(--space-xxsmall);
+            padding-bottom: var(--space-xxsmall);
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-b7jifr {
+                -webkit-padding-start: 48px;
+                padding-inline-start: 48px;
+                -webkit-padding-end: 48px;
+                padding-inline-end: 48px;
+            }
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-b7jifr {
+                max-width: 1632px;
+                -webkit-padding-start: 144px;
+                padding-inline-start: 144px;
+                -webkit-padding-end: 144px;
+                padding-inline-end: 144px;
+            }
+        }
+    </style>
+    <style data-emotion="css dt8aox" data-s="">
+        .css-dt8aox {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            box-sizing: content-box;
+            -webkit-padding-start: 20px;
+            padding-inline-start: 20px;
+            -webkit-padding-end: 20px;
+            padding-inline-end: 20px;
+            -webkit-margin-start: auto;
+            margin-inline-start: auto;
+            -webkit-margin-end: auto;
+            margin-inline-end: auto;
+            position: relative;
+            -webkit-box-pack: end;
+            -ms-flex-pack: end;
+            -webkit-justify-content: flex-end;
+            justify-content: flex-end;
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            padding-top: var(--space-xxsmall);
+            padding-bottom: var(--space-xxsmall);
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-dt8aox {
+                -webkit-padding-start: 48px;
+                padding-inline-start: 48px;
+                -webkit-padding-end: 48px;
+                padding-inline-end: 48px;
+            }
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-dt8aox {
+                max-width: 1632px;
+                -webkit-padding-start: 144px;
+                padding-inline-start: 144px;
+                -webkit-padding-end: 144px;
+                padding-inline-end: 144px;
+            }
+        }
+    </style>
+    <style data-emotion="css 1ei7x8c" data-s="">
+        .css-1ei7x8c {
+            display: -webkit-inline-box;
+            display: -webkit-inline-flex;
+            display: -ms-inline-flexbox;
+            display: inline-flex;
+            -webkit-appearance: none;
+            -moz-appearance: none;
+            -ms-appearance: none;
+            appearance: none;
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            -webkit-box-pack: center;
+            -ms-flex-pack: center;
+            -webkit-justify-content: center;
+            justify-content: center;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+            position: relative;
+            white-space: nowrap;
+            vertical-align: middle;
+            outline: 2px solid transparent;
+            outline-offset: 2px;
+            width: auto;
+            border: none;
+            cursor: pointer;
+            -webkit-transition: all 200ms;
+            transition: all 200ms;
+            box-shadow: none;
+            font-family: var(--fonts-buttonMedium);
+            font-size: var(--fontSizes-tagSmall);
+            font-weight: normal;
+            line-height: var(--lineHeights-tagSmall);
+            padding-top: 10px;
+            padding-bottom: 10px;
+            -webkit-padding-start: var(--space-medium);
+            padding-inline-start: var(--space-medium);
+            -webkit-padding-end: var(--space-medium);
+            padding-inline-end: var(--space-medium);
+            color: var(--colors-text-secondary);
+            background: var(--colors-fill-default);
+            border-radius: var(--radii-full);
+            right: 0px;
+        }
+        
+        .css-1ei7x8c[disabled],
+        .css-1ei7x8c[aria-disabled=true],
+        .css-1ei7x8c[data-disabled] {
+            cursor: not-allowed;
+            box-shadow: none;
+            color: var(--colors-state-disabled);
+            border-color: var(--colors-state-disabled);
+            border-width: 1px;
+            border-style: solid;
+        }
+        
+        .css-1ei7x8c[disabled]:focus,
+        .css-1ei7x8c[aria-disabled=true]:focus,
+        .css-1ei7x8c[data-disabled]:focus,
+        .css-1ei7x8c[disabled]:hover,
+        .css-1ei7x8c[aria-disabled=true]:hover,
+        .css-1ei7x8c[data-disabled]:hover,
+        .css-1ei7x8c[disabled]:active,
+        .css-1ei7x8c[aria-disabled=true]:active,
+        .css-1ei7x8c[data-disabled]:active {
+            color: var(--colors-state-disabled);
+        }
+        
+        .css-1ei7x8c .chakra-button__icon {
+            line-height: 1;
+        }
+        
+        .css-1ei7x8c .chakra-button__icon svg {
+            display: block;
+        }
+        
+        .css-1ei7x8c:hover,
+        .css-1ei7x8c[data-hover] {
+            background-color: var(--colors-fill-preferenceBackground);
+        }
+        
+        [role=group]:hover .css-1ei7x8c,
+        [role=group][data-hover] .css-1ei7x8c,
+        [data-group]:hover .css-1ei7x8c,
+        [data-group][data-hover] .css-1ei7x8c,
+        .group:hover .css-1ei7x8c,
+        .group[data-hover] .css-1ei7x8c {
+            color: var(--colors-state-hover);
+        }
+        
+        .css-1ei7x8c:focus,
+        .css-1ei7x8c[data-focus] {
+            background-color: var(--colors-fill-listviewBackground);
+        }
+        
+        .css-1ei7x8c:active,
+        .css-1ei7x8c[data-active] {
+            background-color: var(--colors-fill-listviewBackground);
+        }
+        
+        .css-1ei7x8c::before {
+            content: "";
+            box-sizing: content-box;
+            border-width: 4px;
+            border-style: solid;
+            border-color: var(--colors-state-focused);
+            opacity: 0;
+            padding: 0px;
+            pointer-events: none;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            -webkit-transform: translate(-50%, -50%);
+            -moz-transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+            z-index: 0;
+            width: 100%;
+            height: 100%;
+            -webkit-backface-visibility: hidden;
+            backface-visibility: hidden;
+            border-radius: 100px;
+            -webkit-transition: padding 0.3s, opacity 0.3s;
+            transition: padding 0.3s, opacity 0.3s;
+            transition-timing-function: cubic-bezier(0.75, 0, 0.125, 1);
+        }
+        
+        .css-1ei7x8c.focus-visible::before {
+            opacity: 1;
+            z-index: 1;
+            padding: 4px;
+        }
+        
+        .css-1ei7x8c:focus-visible::before {
+            opacity: 1;
+            z-index: 1;
+            padding: 4px;
+        }
+    </style>
+    <style data-emotion="css 1hzyiq5" data-s="">
+        .css-1hzyiq5 {
+            display: -webkit-inline-box;
+            display: -webkit-inline-flex;
+            display: -ms-inline-flexbox;
+            display: inline-flex;
+            -webkit-align-self: center;
+            -ms-flex-item-align: center;
+            align-self: center;
+            -webkit-flex-shrink: 0;
+            -ms-flex-negative: 0;
+            flex-shrink: 0;
+            -webkit-margin-start: 0.5rem;
+            margin-inline-start: 0.5rem;
+        }
+    </style>
+    <style data-emotion="css ap0y54" data-s="">
+        .css-ap0y54 {
+            width: 16px;
+            height: 16px;
+            display: inline-block;
+            vertical-align: middle;
+            fill: var(--colors-text-tertiary);
+            margin-left: var(--space-xxsmall);
+            -webkit-flex-shrink: 0;
+            -ms-flex-negative: 0;
+            flex-shrink: 0;
+            -webkit-backface-visibility: hidden;
+            backface-visibility: hidden;
+        }
+        
+        .css-ap0y54:not(:root) {
+            overflow: hidden;
+        }
+    </style>
+    <style data-emotion="css 1161qt5" data-s="">
+        .css-1161qt5 {
+            padding-top: 0px;
+        }
+    </style>
+    <style data-emotion="css 1bek66m" data-s="">
+        .css-1bek66m {
+            position: relative;
+            margin-bottom: calc(48px - 32px);
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-1bek66m {
+                margin-bottom: calc(64px - 16px - 16px);
+            }
+        }
+    </style>
+    <style data-emotion="css rqgsqp" data-s="">
+        .css-rqgsqp {
+            position: relative;
+            z-index: 1;
+        }
+    </style>
+    <style data-emotion="css 6y7kkk" data-s="">
+        .css-6y7kkk {
+            position: relative;
+            overflow-x: hidden;
+        }
+    </style>
+    <style data-emotion="css y65yyx" data-s="">
+        .css-y65yyx {
+            box-sizing: content-box;
+            -webkit-padding-start: 20px;
+            padding-inline-start: 20px;
+            -webkit-padding-end: 20px;
+            padding-inline-end: 20px;
+            -webkit-margin-start: auto;
+            margin-inline-start: auto;
+            -webkit-margin-end: auto;
+            margin-inline-end: auto;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-y65yyx {
+                -webkit-padding-start: 48px;
+                padding-inline-start: 48px;
+                -webkit-padding-end: 48px;
+                padding-inline-end: 48px;
+            }
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-y65yyx {
+                max-width: 1632px;
+                -webkit-padding-start: 144px;
+                padding-inline-start: 144px;
+                -webkit-padding-end: 144px;
+                padding-inline-end: 144px;
+            }
+        }
+    </style>
+    <style data-emotion="css 11y87ir" data-s="">
+        @media screen and (min-width: 0px) {
+            .css-11y87ir {
+                -webkit-box-flex-wrap: wrap;
+                -webkit-flex-wrap: wrap;
+                -ms-flex-wrap: wrap;
+                flex-wrap: wrap;
+                margin-left: calc(-16px / 2);
+                margin-right: calc(-16px / 2);
+            }
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-11y87ir {
+                -webkit-box-flex-wrap: wrap;
+                -webkit-flex-wrap: wrap;
+                -ms-flex-wrap: wrap;
+                flex-wrap: wrap;
+                margin-left: calc(-16px / 2);
+                margin-right: calc(-16px / 2);
+            }
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-11y87ir {
+                -webkit-box-flex-wrap: wrap;
+                -webkit-flex-wrap: wrap;
+                -ms-flex-wrap: wrap;
+                flex-wrap: wrap;
+                margin-left: calc(-24px / 2);
+                margin-right: calc(-24px / 2);
+            }
+        }
+    </style>
+    <style data-emotion="css 1xexznh" data-s="">
+        .css-1xexznh {
+            display: block;
+            position: relative;
+            padding-top: 0px;
+        }
+        
+        @media screen and (min-width: 0px) {
+            .css-1xexznh {
+                -webkit-box-flex-wrap: wrap;
+                -webkit-flex-wrap: wrap;
+                -ms-flex-wrap: wrap;
+                flex-wrap: wrap;
+                margin-left: calc(-16px / 2);
+                margin-right: calc(-16px / 2);
+            }
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-1xexznh {
+                -webkit-box-flex-wrap: wrap;
+                -webkit-flex-wrap: wrap;
+                -ms-flex-wrap: wrap;
+                flex-wrap: wrap;
+                margin-left: calc(-16px / 2);
+                margin-right: calc(-16px / 2);
+            }
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-1xexznh {
+                -webkit-box-flex-wrap: wrap;
+                -webkit-flex-wrap: wrap;
+                -ms-flex-wrap: wrap;
+                flex-wrap: wrap;
+                margin-left: calc(-24px / 2);
+                margin-right: calc(-24px / 2);
+            }
+        }
+    </style>
+    <style data-emotion="css we029m" data-s="">
+        .css-we029m {
+            position: absolute;
+            z-index: 1;
+            width: 100%;
+            display: none;
+            -webkit-flex-basis: 0;
+            -ms-flex-preferred-size: 0;
+            flex-basis: 0;
+            -webkit-flex-shrink: 0;
+            -ms-flex-negative: 0;
+            flex-shrink: 0;
+            -webkit-box-flex: 1;
+            -webkit-flex-grow: 1;
+            -ms-flex-positive: 1;
+            flex-grow: 1;
+            max-width: 100%;
+        }
+        
+        @media screen and (min-width: 0px) {
+            .css-we029m {
+                margin-left: calc(16px / 2);
+                margin-right: calc(16px / 2);
+                -webkit-flex-basis: calc(100% - 16px);
+                -ms-flex-preferred-size: calc(100% - 16px);
+                flex-basis: calc(100% - 16px);
+                max-width: calc(100% - 16px);
+            }
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-we029m {
+                margin-left: calc(16px / 2);
+                margin-right: calc(16px / 2);
+                -webkit-flex-basis: calc(100% - 16px);
+                -ms-flex-preferred-size: calc(100% - 16px);
+                flex-basis: calc(100% - 16px);
+                max-width: calc(100% - 16px);
+            }
+        }
+        
+        @media screen and (min-width: 960px) {
+            .css-we029m {
+                -webkit-flex-basis: calc(100% - 16px);
+                -ms-flex-preferred-size: calc(100% - 16px);
+                flex-basis: calc(100% - 16px);
+                max-width: calc(100% - 16px);
+            }
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-we029m {
+                margin-left: calc(24px / 2);
+                margin-right: calc(24px / 2);
+                -webkit-flex-basis: calc(100% - 24px);
+                -ms-flex-preferred-size: calc(100% - 24px);
+                flex-basis: calc(100% - 24px);
+                max-width: calc(100% - 24px);
+            }
+        }
+        
+        @media screen and (min-width: 1920px) {
+            .css-we029m {
+                -webkit-flex-basis: calc(100% - 24px);
+                -ms-flex-preferred-size: calc(100% - 24px);
+                flex-basis: calc(100% - 24px);
+                max-width: calc(100% - 24px);
+            }
+        }
+    </style>
+    <style data-emotion="css b57n4g" data-s="">
+        .css-b57n4g {
+            position: absolute;
+            left: 0px;
+            padding-top: 180px;
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-b57n4g {
+                padding-top: 316px;
+            }
+        }
+    </style>
+    <style data-emotion="css hkljzp" data-s="">
+        .css-hkljzp {
+            position: absolute;
+            left: 0;
+            top: 50%;
+            -webkit-transform: translate(-50%, -50%);
+            -moz-transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+        }
+    </style>
+    <style data-emotion="css 1ghvh03" data-s="">
+        .css-1ghvh03 {
+            position: relative;
+            border-radius: 50%;
+            width: 32px;
+            height: 32px;
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            -webkit-box-pack: center;
+            -ms-flex-pack: center;
+            -webkit-justify-content: center;
+            justify-content: center;
+            outline: none;
+            border: none;
+        }
+        
+        .css-1ghvh03:disabled {
+            border: 1px solid #949494;
+            box-shadow: none;
+            cursor: not-allowed;
+        }
+        
+        .css-1ghvh03:disabled>* {
+            color: #949494!important;
+        }
+        
+        .css-1ghvh03:disabled>svg {
+            fill: #949494;
+        }
+        
+        .css-1ghvh03:not([disabled])>* {
+            color: #8529cd!important;
+        }
+        
+        .css-1ghvh03:not([disabled])>svg {
+            fill: #8529cd;
+        }
+        
+        .css-1ghvh03:not([disabled]):hover>* {
+            color: #8529cd!important;
+        }
+        
+        .css-1ghvh03:not([disabled]):hover>svg {
+            fill: #8529cd;
+        }
+        
+        .css-1ghvh03:not([disabled]):focus>* {
+            color: #8529cd!important;
+        }
+        
+        .css-1ghvh03:not([disabled]):focus>svg {
+            fill: #8529cd;
+        }
+        
+        .css-1ghvh03:not([disabled]):active>* {
+            color: #7119b8!important;
+        }
+        
+        .css-1ghvh03:not([disabled]):active>svg {
+            fill: #7119b8;
+        }
+    </style>
+    <style data-emotion="css wtx19f" data-s="">
+        .css-wtx19f {
+            outline: 2px solid transparent;
+            outline-offset: 2px;
+            position: relative;
+            background: var(--colors-fill-default);
+            box-shadow: var(--shadows-default);
+            position: relative;
+            border-radius: 50%;
+            width: 32px;
+            height: 32px;
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            -webkit-box-pack: center;
+            -ms-flex-pack: center;
+            -webkit-justify-content: center;
+            justify-content: center;
+            outline: none;
+            border: none;
+        }
+        
+        .css-wtx19f::before {
+            content: "";
+            box-sizing: content-box;
+            border-width: 4px;
+            border-style: solid;
+            border-color: var(--colors-state-focused);
+            opacity: 0;
+            padding: 0px;
+            pointer-events: none;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            -webkit-transform: translate(-50%, -50%);
+            -moz-transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+            z-index: 0;
+            width: 100%;
+            height: 100%;
+            -webkit-backface-visibility: hidden;
+            backface-visibility: hidden;
+            border-radius: 100px;
+            -webkit-transition: padding 0.3s, opacity 0.3s;
+            transition: padding 0.3s, opacity 0.3s;
+            transition-timing-function: cubic-bezier(0.75, 0, 0.125, 1);
+        }
+        
+        .css-wtx19f.focus-visible::before {
+            opacity: 1;
+            z-index: 1;
+            padding: 4px;
+        }
+        
+        .css-wtx19f:focus-visible::before {
+            opacity: 1;
+            z-index: 1;
+            padding: 4px;
+        }
+        
+        .css-wtx19f:disabled {
+            border: 1px solid #949494;
+            box-shadow: none;
+            cursor: not-allowed;
+        }
+        
+        .css-wtx19f:disabled>* {
+            color: #949494!important;
+        }
+        
+        .css-wtx19f:disabled>svg {
+            fill: #949494;
+        }
+        
+        .css-wtx19f:not([disabled])>* {
+            color: #8529cd!important;
+        }
+        
+        .css-wtx19f:not([disabled])>svg {
+            fill: #8529cd;
+        }
+        
+        .css-wtx19f:not([disabled]):hover>* {
+            color: #8529cd!important;
+        }
+        
+        .css-wtx19f:not([disabled]):hover>svg {
+            fill: #8529cd;
+        }
+        
+        .css-wtx19f:not([disabled]):focus>* {
+            color: #8529cd!important;
+        }
+        
+        .css-wtx19f:not([disabled]):focus>svg {
+            fill: #8529cd;
+        }
+        
+        .css-wtx19f:not([disabled]):active>* {
+            color: #7119b8!important;
+        }
+        
+        .css-wtx19f:not([disabled]):active>svg {
+            fill: #7119b8;
+        }
+    </style>
+    <style data-emotion="css 18tocyg" data-s="">
+        .css-18tocyg {
+            width: 16px;
+            height: 16px;
+            display: inline-block;
+            vertical-align: middle;
+            fill: var(--colors-text-tertiary);
+            -webkit-flex-shrink: 0;
+            -ms-flex-negative: 0;
+            flex-shrink: 0;
+            -webkit-backface-visibility: hidden;
+            backface-visibility: hidden;
+        }
+        
+        .css-18tocyg:not(:root) {
+            overflow: hidden;
+        }
+    </style>
+    <style data-emotion="css lcr6yl" data-s="">
+        .css-lcr6yl {
+            position: absolute;
+            right: 0px;
+            z-index: 1;
+            width: 100%;
+            display: none;
+            -webkit-flex-basis: 0;
+            -ms-flex-preferred-size: 0;
+            flex-basis: 0;
+            -webkit-flex-shrink: 0;
+            -ms-flex-negative: 0;
+            flex-shrink: 0;
+            -webkit-box-flex: 1;
+            -webkit-flex-grow: 1;
+            -ms-flex-positive: 1;
+            flex-grow: 1;
+            max-width: 100%;
+        }
+        
+        @media screen and (min-width: 0px) {
+            .css-lcr6yl {
+                margin-left: calc(16px / 2);
+                margin-right: calc(16px / 2);
+                -webkit-flex-basis: calc(100% - 16px);
+                -ms-flex-preferred-size: calc(100% - 16px);
+                flex-basis: calc(100% - 16px);
+                max-width: calc(100% - 16px);
+            }
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-lcr6yl {
+                margin-left: calc(16px / 2);
+                margin-right: calc(16px / 2);
+                -webkit-flex-basis: calc(100% - 16px);
+                -ms-flex-preferred-size: calc(100% - 16px);
+                flex-basis: calc(100% - 16px);
+                max-width: calc(100% - 16px);
+            }
+        }
+        
+        @media screen and (min-width: 960px) {
+            .css-lcr6yl {
+                -webkit-flex-basis: calc(100% - 16px);
+                -ms-flex-preferred-size: calc(100% - 16px);
+                flex-basis: calc(100% - 16px);
+                max-width: calc(100% - 16px);
+            }
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-lcr6yl {
+                margin-left: calc(24px / 2);
+                margin-right: calc(24px / 2);
+                -webkit-flex-basis: calc(100% - 24px);
+                -ms-flex-preferred-size: calc(100% - 24px);
+                flex-basis: calc(100% - 24px);
+                max-width: calc(100% - 24px);
+            }
+        }
+        
+        @media screen and (min-width: 1920px) {
+            .css-lcr6yl {
+                -webkit-flex-basis: calc(100% - 24px);
+                -ms-flex-preferred-size: calc(100% - 24px);
+                flex-basis: calc(100% - 24px);
+                max-width: calc(100% - 24px);
+            }
+        }
+    </style>
+    <style data-emotion="css 1toudui" data-s="">
+        .css-1toudui {
+            position: absolute;
+            right: 0px;
+            padding-top: 180px;
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-1toudui {
+                padding-top: 316px;
+            }
+        }
+    </style>
+    <style data-emotion="css 1gppqy1" data-s="">
+        .css-1gppqy1 {
+            position: absolute;
+            right: 0px;
+            top: 50%;
+            -webkit-transform: translate(50%, -50%);
+            -moz-transform: translate(50%, -50%);
+            -ms-transform: translate(50%, -50%);
+            transform: translate(50%, -50%);
+        }
+    </style>
+    <style data-emotion="css 1olzsud" data-s="">
+        .css-1olzsud {
+            padding-left: 8px;
+            padding-right: 8px;
+            margin-left: -8px;
+            margin-right: -8px;
+            margin-top: -0;
+            overflow-x: hidden;
+            overflow-y: hidden;
+            -webkit-overflow-scrolling: touch;
+            scrollbar-width: none;
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-1olzsud {
+                padding-left: 8px;
+                padding-right: 8px;
+                margin-left: -8px;
+                margin-right: -8px;
+                overflow-x: hidden;
+            }
+        }
+        
+        .css-1olzsud::-webkit-scrollbar {
+            display: none;
+            width: 0!important;
+        }
+    </style>
+    <style data-emotion="css rz5f5g" data-s="">
+        @media screen and (min-width: 0px) {
+            .css-rz5f5g {
+                -webkit-box-flex-wrap: nowrap;
+                -webkit-flex-wrap: nowrap;
+                -ms-flex-wrap: nowrap;
+                flex-wrap: nowrap;
+                margin-left: calc(-16px / 2);
+                margin-right: calc(-16px / 2);
+            }
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-rz5f5g {
+                -webkit-box-flex-wrap: nowrap;
+                -webkit-flex-wrap: nowrap;
+                -ms-flex-wrap: nowrap;
+                flex-wrap: nowrap;
+                margin-left: calc(-16px / 2);
+                margin-right: calc(-16px / 2);
+            }
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-rz5f5g {
+                -webkit-box-flex-wrap: nowrap;
+                -webkit-flex-wrap: nowrap;
+                -ms-flex-wrap: nowrap;
+                flex-wrap: nowrap;
+                margin-left: calc(-24px / 2);
+                margin-right: calc(-24px / 2);
+            }
+        }
+    </style>
+    <style data-emotion="css ph9usg" data-s="">
+        .css-ph9usg {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-box-flex-wrap: nowrap;
+            -webkit-flex-wrap: nowrap;
+            -ms-flex-wrap: nowrap;
+            flex-wrap: nowrap;
+            -webkit-transition: -webkit-transform 0.55s cubic-bezier(0, 0.82, 0.4, 0.99);
+            transition: transform 0.55s cubic-bezier(0, 0.82, 0.4, 0.99);
+        }
+        
+        @media screen and (min-width: 0px) {
+            .css-ph9usg {
+                -webkit-box-flex-wrap: nowrap;
+                -webkit-flex-wrap: nowrap;
+                -ms-flex-wrap: nowrap;
+                flex-wrap: nowrap;
+                margin-left: calc(-16px / 2);
+                margin-right: calc(-16px / 2);
+            }
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-ph9usg {
+                -webkit-box-flex-wrap: nowrap;
+                -webkit-flex-wrap: nowrap;
+                -ms-flex-wrap: nowrap;
+                flex-wrap: nowrap;
+                margin-left: calc(-16px / 2);
+                margin-right: calc(-16px / 2);
+            }
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-ph9usg {
+                -webkit-box-flex-wrap: nowrap;
+                -webkit-flex-wrap: nowrap;
+                -ms-flex-wrap: nowrap;
+                flex-wrap: nowrap;
+                margin-left: calc(-24px / 2);
+                margin-right: calc(-24px / 2);
+            }
+        }
+    </style>
+    <style data-emotion="css 1jlg423" data-s="">
+        .css-1jlg423 {
+            position: relative;
+            -webkit-flex-basis: 0;
+            -ms-flex-preferred-size: 0;
+            flex-basis: 0;
+            -webkit-flex-shrink: 0;
+            -ms-flex-negative: 0;
+            flex-shrink: 0;
+            -webkit-box-flex: 1;
+            -webkit-flex-grow: 1;
+            -ms-flex-positive: 1;
+            flex-grow: 1;
+            max-width: 100%;
+        }
+        
+        @media screen and (min-width: 0px) {
+            .css-1jlg423 {
+                margin-left: calc(16px / 2);
+                margin-right: calc(16px / 2);
+                -webkit-flex-basis: calc(100% - 16px);
+                -ms-flex-preferred-size: calc(100% - 16px);
+                flex-basis: calc(100% - 16px);
+                max-width: calc(100% - 16px);
+            }
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-1jlg423 {
+                margin-left: calc(16px / 2);
+                margin-right: calc(16px / 2);
+                -webkit-flex-basis: calc(100% - 16px);
+                -ms-flex-preferred-size: calc(100% - 16px);
+                flex-basis: calc(100% - 16px);
+                max-width: calc(100% - 16px);
+            }
+        }
+        
+        @media screen and (min-width: 960px) {
+            .css-1jlg423 {
+                -webkit-flex-basis: calc(100% - 16px);
+                -ms-flex-preferred-size: calc(100% - 16px);
+                flex-basis: calc(100% - 16px);
+                max-width: calc(100% - 16px);
+            }
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-1jlg423 {
+                margin-left: calc(24px / 2);
+                margin-right: calc(24px / 2);
+                -webkit-flex-basis: calc(100% - 24px);
+                -ms-flex-preferred-size: calc(100% - 24px);
+                flex-basis: calc(100% - 24px);
+                max-width: calc(100% - 24px);
+            }
+        }
+        
+        @media screen and (min-width: 1920px) {
+            .css-1jlg423 {
+                -webkit-flex-basis: calc(100% - 24px);
+                -ms-flex-preferred-size: calc(100% - 24px);
+                flex-basis: calc(100% - 24px);
+                max-width: calc(100% - 24px);
+            }
+        }
+    </style>
+    <style data-emotion="css coof7v" data-s="">
+        .css-coof7v {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            padding-top: var(--space-small);
+            padding-bottom: var(--space-large);
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-coof7v {
+                padding-bottom: var(--space-medium);
+            }
+        }
+    </style>
+    <style data-emotion="css yxjmss" data-s="">
+        .css-yxjmss {
+            border-radius: var(--radii-ui);
+            background: var(--colors-fill-default);
+            position: relative;
+            overflow: visible;
+            width: 100%;
+            -webkit-transition: box-shadow .25s;
+            transition: box-shadow .25s;
+            box-shadow: var(--shadows-defaultEmphasized);
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            height: 168px;
+            background-color: var(--colors-fill-default);
+        }
+        
+        .css-yxjmss:hover,
+        .css-yxjmss[data-hover] {
+            box-shadow: var(--shadows-defaultHover);
+        }
+        
+        [role=group]:hover .css-yxjmss,
+        [role=group][data-hover] .css-yxjmss,
+        [data-group]:hover .css-yxjmss,
+        [data-group][data-hover] .css-yxjmss,
+        .group:hover .css-yxjmss,
+        .group[data-hover] .css-yxjmss {
+            box-shadow: var(--shadows-defaultHover);
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-yxjmss {
+                height: 304px;
+            }
+        }
+    </style>
+    <style data-emotion="css irlaeb" data-s="">
+        .css-irlaeb {
+            border-radius: var(--radii-ui);
+            background: var(--colors-fill-default);
+            position: relative;
+            overflow: visible;
+            width: 100%;
+            -webkit-transition: box-shadow .25s;
+            transition: box-shadow .25s;
+            box-shadow: var(--shadows-defaultEmphasized);
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            height: 168px;
+            background-color: var(--colors-fill-default);
+        }
+        
+        .css-irlaeb:hover,
+        .css-irlaeb[data-hover] {
+            box-shadow: var(--shadows-defaultHover);
+        }
+        
+        [role=group]:hover .css-irlaeb,
+        [role=group][data-hover] .css-irlaeb,
+        [data-group]:hover .css-irlaeb,
+        [data-group][data-hover] .css-irlaeb,
+        .group:hover .css-irlaeb,
+        .group[data-hover] .css-irlaeb {
+            box-shadow: var(--shadows-defaultHover);
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-irlaeb {
+                height: 304px;
+            }
+        }
+    </style>
+    <style data-emotion="css 3lz5y1" data-s="">
+        .css-3lz5y1 {
+            border-radius: var(--radii-ui);
+            background: var(--colors-fill-default);
+            position: relative;
+            overflow: visible;
+            width: 100%;
+            -webkit-transition: box-shadow .25s;
+            transition: box-shadow .25s;
+            box-shadow: var(--shadows-defaultEmphasized);
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            height: 168px;
+            background-color: var(--colors-fill-default);
+        }
+        
+        .css-3lz5y1:hover,
+        .css-3lz5y1[data-hover] {
+            box-shadow: var(--shadows-defaultHover);
+        }
+        
+        [role=group]:hover .css-3lz5y1,
+        [role=group][data-hover] .css-3lz5y1,
+        [data-group]:hover .css-3lz5y1,
+        [data-group][data-hover] .css-3lz5y1,
+        .group:hover .css-3lz5y1,
+        .group[data-hover] .css-3lz5y1 {
+            box-shadow: var(--shadows-defaultHover);
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-3lz5y1 {
+                height: 304px;
+            }
+        }
+    </style>
+    <style data-emotion="css 15k5kkl" data-s="">
+        .css-15k5kkl {
+            object-fit: cover;
+            position: absolute;
+            border-radius: var(--radii-ui);
+            width: 100%;
+            height: 100%;
+            top: 0px;
+            left: 0px;
+            right: 0px;
+            bottom: 0px;
+        }
+    </style>
+    <style data-emotion="css 1qetjdz" data-s="">
+        .css-1qetjdz {
+            position: absolute;
+            top: 0px;
+            right: var(--space-medium);
+            left: var(--space-grande);
+            -webkit-transform: translateY(-50%);
+            -moz-transform: translateY(-50%);
+            -ms-transform: translateY(-50%);
+            transform: translateY(-50%);
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-1qetjdz {
+                right: var(--space-large);
+            }
+        }
+        
+        @media screen and (min-width: 960px) {
+            .css-1qetjdz {
+                left: var(--space-large);
+            }
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-1qetjdz {
+                left: var(--space-xxlarge);
+            }
+        }
+    </style>
+    <style data-emotion="css 1235omh" data-s="">
+        .css-1235omh {
+            display: -webkit-inline-box;
+            display: -webkit-inline-flex;
+            display: -ms-inline-flexbox;
+            display: inline-flex;
+            min-height: 24px;
+            background-color: var(--colors-fill-default);
+            box-shadow: var(--shadows-default);
+            border-radius: var(--radii-tag);
+            padding-top: var(--space-xxsmall);
+            padding-bottom: var(--space-xxsmall);
+            -webkit-padding-start: var(--space-xsmall);
+            padding-inline-start: var(--space-xsmall);
+            -webkit-padding-end: var(--space-xsmall);
+            padding-inline-end: var(--space-xsmall);
+            max-width: 100%;
+        }
+    </style>
+    <style data-emotion="css r7n36k" data-s="">
+        .css-r7n36k {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            min-width: 0px;
+        }
+    </style>
+    <style data-emotion="css 50zrmy" data-s="">
+        .css-50zrmy {
+            text-transform: uppercase;
+        }
+    </style>
+    <style data-emotion="css gc2vop" data-s="">
+        .css-gc2vop {
+            color: var(--colors-text-cashback);
+            font-family: Rakuten Sans UI;
+            font-size: 12px;
+            font-weight: 600;
+            line-height: 16px;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            text-transform: uppercase;
+        }
+    </style>
+    <style data-emotion="css ne2diq" data-s="">
+        .css-ne2diq {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-flex-direction: column;
+            -ms-flex-direction: column;
+            flex-direction: column;
+            -webkit-box-pack: center;
+            -ms-flex-pack: center;
+            -webkit-justify-content: center;
+            justify-content: center;
+            height: 100%;
+            padding-bottom: var(--space-grande);
+            z-index: 0;
+            padding-top: var(--space-grande);
+            padding-left: var(--space-grande);
+            width: 65%;
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-ne2diq {
+                width: 60%;
+            }
+        }
+        
+        @media screen and (min-width: 960px) {
+            .css-ne2diq {
+                padding-bottom: var(--space-large);
+                padding-top: var(--space-large);
+                padding-left: var(--space-large);
+                width: 45%;
+            }
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-ne2diq {
+                padding-left: var(--space-xxlarge);
+            }
+        }
+    </style>
+    <style data-emotion="css 7upjtb" data-s="">
+        .css-7upjtb {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-flex-direction: column;
+            -ms-flex-direction: column;
+            flex-direction: column;
+            -webkit-align-items: flex-start;
+            -webkit-box-align: flex-start;
+            -ms-flex-align: flex-start;
+            align-items: flex-start;
+            -webkit-box-pack: center;
+            -ms-flex-pack: center;
+            -webkit-justify-content: center;
+            justify-content: center;
+            -webkit-box-flex: 1;
+            -webkit-flex-grow: 1;
+            -ms-flex-positive: 1;
+            flex-grow: 1;
+        }
+    </style>
+    <style data-emotion="css 1yxmrz6" data-s="">
+        .css-1yxmrz6 {
+            position: relative;
+            margin-bottom: var(--space-large);
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-1yxmrz6 {
+                margin-bottom: var(--space-xxlarge);
+            }
+        }
+    </style>
+    <style data-emotion="css 79elbk" data-s="">
+        .css-79elbk {
+            position: relative;
+        }
+    </style>
+    <style data-emotion="css 1bbvnhs" data-s="">
+        .css-1bbvnhs {
+            box-sizing: content-box;
+            -webkit-padding-start: 20px;
+            padding-inline-start: 20px;
+            -webkit-padding-end: 20px;
+            padding-inline-end: 20px;
+            -webkit-margin-start: auto;
+            margin-inline-start: auto;
+            -webkit-margin-end: auto;
+            margin-inline-end: auto;
+            position: relative;
+            margin-bottom: var(--space-xsmall);
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-1bbvnhs {
+                -webkit-padding-start: 48px;
+                padding-inline-start: 48px;
+                -webkit-padding-end: 48px;
+                padding-inline-end: 48px;
+                margin-bottom: var(--space-medium);
+            }
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-1bbvnhs {
+                max-width: 1632px;
+                -webkit-padding-start: 144px;
+                padding-inline-start: 144px;
+                -webkit-padding-end: 144px;
+                padding-inline-end: 144px;
+            }
+        }
+    </style>
+    <style data-emotion="css fulnee" data-s="">
+        .css-fulnee {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+        }
+        
+        @media screen and (min-width: 0px) {
+            .css-fulnee {
+                -webkit-box-flex-wrap: wrap;
+                -webkit-flex-wrap: wrap;
+                -ms-flex-wrap: wrap;
+                flex-wrap: wrap;
+                margin-left: calc(-16px / 2);
+                margin-right: calc(-16px / 2);
+            }
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-fulnee {
+                -webkit-box-flex-wrap: wrap;
+                -webkit-flex-wrap: wrap;
+                -ms-flex-wrap: wrap;
+                flex-wrap: wrap;
+                margin-left: calc(-16px / 2);
+                margin-right: calc(-16px / 2);
+            }
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-fulnee {
+                -webkit-box-flex-wrap: wrap;
+                -webkit-flex-wrap: wrap;
+                -ms-flex-wrap: wrap;
+                flex-wrap: wrap;
+                margin-left: calc(-24px / 2);
+                margin-right: calc(-24px / 2);
+            }
+        }
+    </style>
+    <style data-emotion="css 7y55w" data-s="">
+        .css-7y55w {
+            -webkit-flex-basis: 0;
+            -ms-flex-preferred-size: 0;
+            flex-basis: 0;
+            -webkit-flex-shrink: 0;
+            -ms-flex-negative: 0;
+            flex-shrink: 0;
+            -webkit-box-flex: 1;
+            -webkit-flex-grow: 1;
+            -ms-flex-positive: 1;
+            flex-grow: 1;
+            max-width: 100%;
+        }
+        
+        @media screen and (min-width: 0px) {
+            .css-7y55w {
+                margin-left: calc(16px / 2);
+                margin-right: calc(16px / 2);
+            }
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-7y55w {
+                margin-left: calc(16px / 2);
+                margin-right: calc(16px / 2);
+            }
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-7y55w {
+                margin-left: calc(24px / 2);
+                margin-right: calc(24px / 2);
+            }
+        }
+    </style>
+    <style data-emotion="css k008qs" data-s="">
+        .css-k008qs {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+        }
+    </style>
+    <style data-emotion="css 163hd9e" data-s="">
+        .css-163hd9e {
+            -webkit-flex-shrink: 1;
+            -ms-flex-negative: 1;
+            flex-shrink: 1;
+            -webkit-box-flex: 1;
+            -webkit-flex-grow: 1;
+            -ms-flex-positive: 1;
+            flex-grow: 1;
+        }
+    </style>
+    <style data-emotion="css 1ikzqfo" data-s="">
+        .css-1ikzqfo {
+            font-family: Stag;
+            font-size: 20px;
+            font-weight: 400;
+            line-height: 24px;
+            color: var(--colors-text-primary);
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-1ikzqfo {
+                font-family: Stag;
+                font-size: 28px;
+                font-weight: 400;
+                line-height: 30px;
+            }
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-1ikzqfo {
+                font-family: Stag;
+                font-size: 32px;
+                font-weight: 400;
+                line-height: 36px;
+            }
+        }
+    </style>
+    <style data-emotion="css 1ea2qkp" data-s="">
+        .css-1ea2qkp {
+            position: absolute;
+            z-index: 1;
+            width: 100%;
+            display: none;
+            -webkit-flex-basis: 0;
+            -ms-flex-preferred-size: 0;
+            flex-basis: 0;
+            -webkit-flex-shrink: 0;
+            -ms-flex-negative: 0;
+            flex-shrink: 0;
+            -webkit-box-flex: 1;
+            -webkit-flex-grow: 1;
+            -ms-flex-positive: 1;
+            flex-grow: 1;
+            max-width: 100%;
+        }
+        
+        @media screen and (min-width: 0px) {
+            .css-1ea2qkp {
+                margin-left: calc(16px / 2);
+                margin-right: calc(16px / 2);
+                -webkit-flex-basis: calc(87.5% - 16px);
+                -ms-flex-preferred-size: calc(87.5% - 16px);
+                flex-basis: calc(87.5% - 16px);
+                max-width: calc(87.5% - 16px);
+            }
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-1ea2qkp {
+                margin-left: calc(16px / 2);
+                margin-right: calc(16px / 2);
+                -webkit-flex-basis: calc(100% - 16px);
+                -ms-flex-preferred-size: calc(100% - 16px);
+                flex-basis: calc(100% - 16px);
+                max-width: calc(100% - 16px);
+            }
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-1ea2qkp {
+                margin-left: calc(24px / 2);
+                margin-right: calc(24px / 2);
+                -webkit-flex-basis: calc(100% - 24px);
+                -ms-flex-preferred-size: calc(100% - 24px);
+                flex-basis: calc(100% - 24px);
+                max-width: calc(100% - 24px);
+            }
+        }
+    </style>
+    <style data-emotion="css 1dhhidd" data-s="">
+        .css-1dhhidd {
+            position: absolute;
+            left: 0px;
+            padding-top: 248px;
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-1dhhidd {
+                padding-top: 296px;
+            }
+        }
+    </style>
+    <style data-emotion="css p4nte4" data-s="">
+        .css-p4nte4 {
+            position: absolute;
+            right: 0px;
+            z-index: 1;
+            width: 100%;
+            display: block;
+            -webkit-flex-basis: 0;
+            -ms-flex-preferred-size: 0;
+            flex-basis: 0;
+            -webkit-flex-shrink: 0;
+            -ms-flex-negative: 0;
+            flex-shrink: 0;
+            -webkit-box-flex: 1;
+            -webkit-flex-grow: 1;
+            -ms-flex-positive: 1;
+            flex-grow: 1;
+            max-width: 100%;
+        }
+        
+        @media screen and (min-width: 0px) {
+            .css-p4nte4 {
+                margin-left: calc(16px / 2);
+                margin-right: calc(16px / 2);
+                -webkit-flex-basis: calc(87.5% - 16px);
+                -ms-flex-preferred-size: calc(87.5% - 16px);
+                flex-basis: calc(87.5% - 16px);
+                max-width: calc(87.5% - 16px);
+            }
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-p4nte4 {
+                margin-left: calc(16px / 2);
+                margin-right: calc(16px / 2);
+                -webkit-flex-basis: calc(100% - 16px);
+                -ms-flex-preferred-size: calc(100% - 16px);
+                flex-basis: calc(100% - 16px);
+                max-width: calc(100% - 16px);
+            }
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-p4nte4 {
+                margin-left: calc(24px / 2);
+                margin-right: calc(24px / 2);
+                -webkit-flex-basis: calc(100% - 24px);
+                -ms-flex-preferred-size: calc(100% - 24px);
+                flex-basis: calc(100% - 24px);
+                max-width: calc(100% - 24px);
+            }
+        }
+    </style>
+    <style data-emotion="css 1rp2wsm" data-s="">
+        .css-1rp2wsm {
+            position: absolute;
+            right: 0px;
+            padding-top: 248px;
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-1rp2wsm {
+                padding-top: 296px;
+            }
+        }
+    </style>
+    <style data-emotion="css 1pcbmni" data-s="">
+        .css-1pcbmni {
+            position: relative;
+            -webkit-flex-basis: 0;
+            -ms-flex-preferred-size: 0;
+            flex-basis: 0;
+            -webkit-flex-shrink: 0;
+            -ms-flex-negative: 0;
+            flex-shrink: 0;
+            -webkit-box-flex: 1;
+            -webkit-flex-grow: 1;
+            -ms-flex-positive: 1;
+            flex-grow: 1;
+            max-width: 100%;
+        }
+        
+        @media screen and (min-width: 0px) {
+            .css-1pcbmni {
+                margin-left: calc(16px / 2);
+                margin-right: calc(16px / 2);
+                -webkit-flex-basis: calc(87.5% - 16px);
+                -ms-flex-preferred-size: calc(87.5% - 16px);
+                flex-basis: calc(87.5% - 16px);
+                max-width: calc(87.5% - 16px);
+            }
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-1pcbmni {
+                margin-left: calc(16px / 2);
+                margin-right: calc(16px / 2);
+                -webkit-flex-basis: calc(100% - 16px);
+                -ms-flex-preferred-size: calc(100% - 16px);
+                flex-basis: calc(100% - 16px);
+                max-width: calc(100% - 16px);
+            }
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-1pcbmni {
+                margin-left: calc(24px / 2);
+                margin-right: calc(24px / 2);
+                -webkit-flex-basis: calc(100% - 24px);
+                -ms-flex-preferred-size: calc(100% - 24px);
+                flex-basis: calc(100% - 24px);
+                max-width: calc(100% - 24px);
+            }
+        }
+    </style>
+    <style data-emotion="css 1i7dpco" data-s="">
+        .css-1i7dpco {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-flex-direction: column;
+            -ms-flex-direction: column;
+            flex-direction: column;
+            -webkit-box-flex-wrap: wrap;
+            -webkit-flex-wrap: wrap;
+            -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-1i7dpco {
+                -webkit-flex-direction: row;
+                -ms-flex-direction: row;
+                flex-direction: row;
+            }
+        }
+    </style>
+    <style data-emotion="css 17tlgof" data-s="">
+        .css-17tlgof {
+            margin-bottom: 16px;
+            margin-right: 0;
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-17tlgof {
+                width: calc((100% / 2) - (16px / 2));
+            }
+        }
+        
+        @media screen and (min-width: 1280px) {
+            .css-17tlgof {
+                width: calc((100% / 3) - ((16px * 2) / 3));
+            }
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-17tlgof {
+                width: calc((100% / 3) - ((24px * 2) / 3));
+            }
+        }
+        
+        @media screen and (min-width: 1920px) {
+            .css-17tlgof {
+                width: calc((100% / 4) - ((24px * 3) / 4));
+            }
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-17tlgof {
+                margin-right: 16px;
+            }
+            .css-17tlgof:nth-of-type(2n) {
+                margin-right: 0;
+            }
+        }
+        
+        @media screen and (min-width: 1280px) {
+            .css-17tlgof {
+                margin-right: 16px;
+            }
+            .css-17tlgof:nth-of-type(2n) {
+                margin-right: 16px;
+            }
+            .css-17tlgof:nth-of-type(3n) {
+                margin-right: 0;
+            }
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-17tlgof {
+                margin-right: 24px;
+            }
+            .css-17tlgof:nth-of-type(2n) {
+                margin-right: 24px;
+            }
+            .css-17tlgof:nth-of-type(3n) {
+                margin-right: 0;
+            }
+        }
+        
+        @media screen and (min-width: 1920px) {
+            .css-17tlgof {
+                margin-right: 24px;
+            }
+            .css-17tlgof:nth-of-type(2n) {
+                margin-right: 24px;
+            }
+            .css-17tlgof:nth-of-type(3n) {
+                margin-right: 24px;
+            }
+            .css-17tlgof:nth-of-type(4n) {
+                margin-right: 0;
+            }
+        }
+    </style>
+    <style data-emotion="css ntoxvq" data-s="">
+        .css-ntoxvq {
+            display: -webkit-inline-box;
+            display: -webkit-inline-flex;
+            display: -ms-inline-flexbox;
+            display: inline-flex;
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            min-width: 100%;
+        }
+        
+        .css-ntoxvq:hover,
+        .css-ntoxvq[data-hover] {
+            cursor: pointer;
+        }
+    </style>
+    <style data-emotion="css 187ams7" data-s="">
+        .css-187ams7 {
+            display: -webkit-inline-box;
+            display: -webkit-inline-flex;
+            display: -ms-inline-flexbox;
+            display: inline-flex;
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            min-width: 100%;
+        }
+        
+        .css-187ams7:hover,
+        .css-187ams7[data-hover] {
+            cursor: pointer;
+        }
+    </style>
+    <style data-emotion="css uho7hi" data-s="">
+        .css-uho7hi {
+            border-radius: var(--radii-ui);
+            background: white;
+            position: relative;
+            overflow: hidden;
+            width: var(--sizes-medium);
+            -webkit-transition: box-shadow .25s;
+            transition: box-shadow .25s;
+            box-shadow: var(--shadows-default);
+            height: var(--sizes-medium);
+            padding: var(--space-small);
+            -webkit-flex-basis: var(--sizes-medium);
+            -ms-flex-preferred-size: var(--sizes-medium);
+            flex-basis: var(--sizes-medium);
+            -webkit-box-flex: 0;
+            -webkit-flex-grow: 0;
+            -ms-flex-positive: 0;
+            flex-grow: 0;
+            -webkit-flex-shrink: 0;
+            -ms-flex-negative: 0;
+            flex-shrink: 0;
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-uho7hi {
+                width: var(--sizes-xlarge);
+                height: var(--sizes-xlarge);
+                -webkit-flex-basis: var(--sizes-xlarge);
+                -ms-flex-preferred-size: var(--sizes-xlarge);
+                flex-basis: var(--sizes-xlarge);
+            }
+        }
+        
+        .css-uho7hi:hover,
+        .css-uho7hi[data-hover] {
+            box-shadow: var(--shadows-defaultHover);
+        }
+        
+        [role=group]:hover .css-uho7hi,
+        [role=group][data-hover] .css-uho7hi,
+        [data-group]:hover .css-uho7hi,
+        [data-group][data-hover] .css-uho7hi,
+        .group:hover .css-uho7hi,
+        .group[data-hover] .css-uho7hi {
+            box-shadow: var(--shadows-defaultHover);
+        }
+    </style>
+    <style data-emotion="css sertd6" data-s="">
+        .css-sertd6 {
+            display: block;
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+            object-position: center;
+        }
+    </style>
+    <style data-emotion="css ofi28f" data-s="">
+        .css-ofi28f {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            min-width: 0px;
+            -webkit-flex-direction: column;
+            -ms-flex-direction: column;
+            flex-direction: column;
+            -webkit-box-flex: 1;
+            -webkit-flex-grow: 1;
+            -ms-flex-positive: 1;
+            flex-grow: 1;
+            margin-left: var(--space-small);
+            width: 100%;
+        }
+    </style>
+    <style data-emotion="css 70qvj9" data-s="">
+        .css-70qvj9 {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+        }
+    </style>
+    <style data-emotion="css 142n6z8" data-s="">
+        .css-142n6z8 {
+            font-family: var(--fonts-descriptorXsmall);
+            font-size: var(--fontSizes-descriptorXsmall);
+            font-weight: var(--fontWeights-descriptorXsmall);
+            line-height: var(--lineHeights-descriptorXsmall);
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-142n6z8 {
+                font-family: var(--fonts-descriptorSmall);
+                font-size: var(--fontSizes-descriptorSmall);
+                font-weight: var(--fontWeights-descriptorSmall);
+                line-height: var(--lineHeights-descriptorSmall);
+            }
+        }
+    </style>
+    <style data-emotion="css 82at3a" data-s="">
+        .css-82at3a {
+            width: 16px;
+            height: 16px;
+            display: inline-block;
+            vertical-align: middle;
+            fill: currentcolor;
+            margin-left: var(--space-xsmall);
+            -webkit-flex-shrink: 0;
+            -ms-flex-negative: 0;
+            flex-shrink: 0;
+            -webkit-backface-visibility: hidden;
+            backface-visibility: hidden;
+        }
+        
+        .css-82at3a:not(:root) {
+            overflow: hidden;
+        }
+    </style>
+    <style data-emotion="css sjc375" data-s="">
+        .css-sjc375 {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            width: 100%;
+            margin-top: var(--space-xxsmall);
+        }
+    </style>
+    <style data-emotion="css 1k0i8ud" data-s="">
+        .css-1k0i8ud {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            height: 16px;
+            margin-right: 4px;
+        }
+    </style>
+    <style data-emotion="css uxkkmw" data-s="">
+        .css-uxkkmw {
+            width: 16px;
+            height: 16px;
+            display: inline-block;
+            vertical-align: middle;
+            fill: var(--colors-text-cashback);
+            -webkit-flex-shrink: 0;
+            -ms-flex-negative: 0;
+            flex-shrink: 0;
+            -webkit-backface-visibility: hidden;
+            backface-visibility: hidden;
+        }
+        
+        .css-uxkkmw:not(:root) {
+            overflow: hidden;
+        }
+    </style>
+    <style data-emotion="css fa743t" data-s="">
+        .css-fa743t {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            -webkit-box-flex-wrap: wrap;
+            -webkit-flex-wrap: wrap;
+            -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+            -webkit-flex: 1;
+            -ms-flex: 1;
+            flex: 1;
+            min-height: 16px;
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-fa743t {
+                -webkit-align-items: baseline;
+                -webkit-box-align: baseline;
+                -ms-flex-align: baseline;
+                align-items: baseline;
+            }
+        }
+    </style>
+    <style data-emotion="css 10b7mbv" data-s="">
+        .css-10b7mbv {
+            color: var(--colors-text-cashback);
+            font-family: Rakuten Sans UI;
+            font-size: 14px;
+            font-weight: 600;
+            line-height: 16px;
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-10b7mbv {
+                font-family: Rakuten Sans UI;
+                font-size: 16px;
+                font-weight: 600;
+            }
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-10b7mbv {
+                font-family: Rakuten Sans UI;
+                font-size: 16px;
+                font-weight: 600;
+            }
+        }
+    </style>
+    <style data-emotion="css xjmmt3" data-s="">
+        .css-xjmmt3 {
+            font-family: Rakuten Sans UI;
+            font-size: 14px;
+            font-weight: 400;
+            line-height: 16px;
+            color: var(--colors-text-tertiary);
+            margin-left: 4px;
+        }
+    </style>
+    <style data-emotion="css ltsdft" data-s="">
+        .css-ltsdft {
+            -webkit-flex-shrink: 0;
+            -ms-flex-negative: 0;
+            flex-shrink: 0;
+            -webkit-box-flex: 0;
+            -webkit-flex-grow: 0;
+            -ms-flex-positive: 0;
+            flex-grow: 0;
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-ltsdft {
+                margin-left: var(--space-grande);
+            }
+        }
+        
+        @media screen and (min-width: 960px) {
+            .css-ltsdft {
+                margin-left: var(--space-xlarge);
+            }
+        }
+    </style>
+    <style data-emotion="css 3absww" data-s="">
+        .css-3absww {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            -webkit-box-pack: end;
+            -ms-flex-pack: end;
+            -webkit-justify-content: flex-end;
+            justify-content: flex-end;
+            min-height: 40px;
+        }
+    </style>
+    <style data-emotion="css fzdtt6" data-s="">
+        .css-fzdtt6 {
+            display: -webkit-inline-box;
+            display: -webkit-inline-flex;
+            display: -ms-inline-flexbox;
+            display: inline-flex;
+            -webkit-appearance: none;
+            -moz-appearance: none;
+            -ms-appearance: none;
+            appearance: none;
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            -webkit-box-pack: center;
+            -ms-flex-pack: center;
+            -webkit-justify-content: center;
+            justify-content: center;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+            position: relative;
+            white-space: normal;
+            vertical-align: middle;
+            outline: 2px solid transparent;
+            outline-offset: 2px;
+            width: auto;
+            border: none;
+            cursor: pointer;
+            -webkit-transition: all 200ms;
+            transition: all 200ms;
+            box-shadow: none;
+            font-family: var(--fonts-buttonMedium);
+            font-size: var(--fontSizes-buttonMedium);
+            font-weight: var(--fontWeights-buttonMedium);
+            line-height: var(--lineHeights-buttonMedium);
+            padding-top: 10px;
+            padding-bottom: 10px;
+            -webkit-padding-start: 0px;
+            padding-inline-start: 0px;
+            -webkit-padding-end: 0px;
+            padding-inline-end: 0px;
+            -webkit-box-flex-wrap: wrap;
+            -webkit-flex-wrap: wrap;
+            -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+            color: var(--colors-text-action);
+            background: transparent;
+            text-align: right;
+        }
+        
+        .css-fzdtt6[disabled],
+        .css-fzdtt6[aria-disabled=true],
+        .css-fzdtt6[data-disabled] {
+            cursor: not-allowed;
+            box-shadow: none;
+            color: var(--colors-state-disabled);
+            border-width: 0;
+        }
+        
+        .css-fzdtt6[disabled]::after,
+        .css-fzdtt6[aria-disabled=true]::after,
+        .css-fzdtt6[data-disabled]::after {
+            border-color: transparent;
+        }
+        
+        .css-fzdtt6[disabled]:focus,
+        .css-fzdtt6[aria-disabled=true]:focus,
+        .css-fzdtt6[data-disabled]:focus,
+        .css-fzdtt6[disabled]:hover,
+        .css-fzdtt6[aria-disabled=true]:hover,
+        .css-fzdtt6[data-disabled]:hover,
+        .css-fzdtt6[disabled]:active,
+        .css-fzdtt6[aria-disabled=true]:active,
+        .css-fzdtt6[data-disabled]:active {
+            color: var(--colors-state-disabled);
+        }
+        
+        .css-fzdtt6[disabled]:focus::after,
+        .css-fzdtt6[aria-disabled=true]:focus::after,
+        .css-fzdtt6[data-disabled]:focus::after,
+        .css-fzdtt6[disabled]:hover::after,
+        .css-fzdtt6[aria-disabled=true]:hover::after,
+        .css-fzdtt6[data-disabled]:hover::after,
+        .css-fzdtt6[disabled]:active::after,
+        .css-fzdtt6[aria-disabled=true]:active::after,
+        .css-fzdtt6[data-disabled]:active::after {
+            border-color: transparent;
+        }
+        
+        .css-fzdtt6 .chakra-button__icon {
+            line-height: 1;
+        }
+        
+        .css-fzdtt6 .chakra-button__icon svg {
+            display: block;
+        }
+        
+        .css-fzdtt6::after {
+            content: "";
+            width: 100%;
+            -webkit-box-flex: 1;
+            -webkit-flex-grow: 1;
+            -ms-flex-positive: 1;
+            flex-grow: 1;
+            height: 1px;
+            border-width: 0;
+            border-bottom-width: 1px;
+            border-color: transparent;
+            border-style: solid;
+        }
+        
+        .css-fzdtt6:hover,
+        .css-fzdtt6[data-hover] {
+            color: var(--colors-state-hover);
+        }
+        
+        .css-fzdtt6:hover::after,
+        .css-fzdtt6[data-hover]::after {
+            border-color: var(--colors-state-hover);
+        }
+        
+        [role=group]:hover .css-fzdtt6,
+        [role=group][data-hover] .css-fzdtt6,
+        [data-group]:hover .css-fzdtt6,
+        [data-group][data-hover] .css-fzdtt6,
+        .group:hover .css-fzdtt6,
+        .group[data-hover] .css-fzdtt6 {
+            color: var(--colors-state-hover);
+        }
+        
+        [role=group]:hover .css-fzdtt6::after,
+        [role=group][data-hover] .css-fzdtt6::after,
+        [data-group]:hover .css-fzdtt6::after,
+        [data-group][data-hover] .css-fzdtt6::after,
+        .group:hover .css-fzdtt6::after,
+        .group[data-hover] .css-fzdtt6::after {
+            border-color: var(--colors-state-hover);
+        }
+        
+        .css-fzdtt6:focus {
+            color: var(--colors-state-focused);
+        }
+        
+        .css-fzdtt6:focus::after {
+            border-color: transparent;
+        }
+        
+        .css-fzdtt6:active,
+        .css-fzdtt6[data-active] {
+            color: var(--colors-state-pressed);
+        }
+        
+        .css-fzdtt6[data-inverse="true"] {
+            color: var(--colors-text-inverse);
+        }
+        
+        .css-fzdtt6[data-inverse="true"]:hover::after,
+        .css-fzdtt6[data-inverse="true"][data-hover]::after {
+            border-color: var(--colors-border-inverse);
+        }
+        
+        .css-fzdtt6[data-inverse="true"]:focus::after,
+        .css-fzdtt6[data-inverse="true"][data-focus]::after {
+            border-color: transparent;
+        }
+    </style>
+    <style data-emotion="css f54hfw" data-s="">
+        .css-f54hfw {
+            box-sizing: content-box;
+            -webkit-margin-start: auto;
+            margin-inline-start: auto;
+            -webkit-margin-end: auto;
+            margin-inline-end: auto;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-f54hfw {
+                -webkit-padding-start: 48px;
+                padding-inline-start: 48px;
+                -webkit-padding-end: 48px;
+                padding-inline-end: 48px;
+            }
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-f54hfw {
+                max-width: 1632px;
+                -webkit-padding-start: 144px;
+                padding-inline-start: 144px;
+                -webkit-padding-end: 144px;
+                padding-inline-end: 144px;
+            }
+        }
+    </style>
+    <style data-emotion="css 9albyt" data-s="">
+        .css-9albyt {
+            display: none;
+            position: relative;
+            padding-top: 0px;
+        }
+        
+        @media screen and (min-width: 0px) {
+            .css-9albyt {
+                -webkit-box-flex-wrap: wrap;
+                -webkit-flex-wrap: wrap;
+                -ms-flex-wrap: wrap;
+                flex-wrap: wrap;
+                margin-left: calc(-16px / 2);
+                margin-right: calc(-16px / 2);
+            }
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-9albyt {
+                -webkit-box-flex-wrap: wrap;
+                -webkit-flex-wrap: wrap;
+                -ms-flex-wrap: wrap;
+                flex-wrap: wrap;
+                margin-left: calc(-16px / 2);
+                margin-right: calc(-16px / 2);
+            }
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-9albyt {
+                -webkit-box-flex-wrap: wrap;
+                -webkit-flex-wrap: wrap;
+                -ms-flex-wrap: wrap;
+                flex-wrap: wrap;
+                margin-left: calc(-24px / 2);
+                margin-right: calc(-24px / 2);
+            }
+        }
+    </style>
+    <style data-emotion="css 12i3r9c" data-s="">
+        .css-12i3r9c {
+            position: absolute;
+            z-index: 1;
+            width: 100%;
+            display: none;
+            -webkit-flex-basis: 0;
+            -ms-flex-preferred-size: 0;
+            flex-basis: 0;
+            -webkit-flex-shrink: 0;
+            -ms-flex-negative: 0;
+            flex-shrink: 0;
+            -webkit-box-flex: 1;
+            -webkit-flex-grow: 1;
+            -ms-flex-positive: 1;
+            flex-grow: 1;
+            max-width: 100%;
+        }
+        
+        @media screen and (min-width: 0px) {
+            .css-12i3r9c {
+                margin-left: calc(16px / 2);
+                margin-right: calc(16px / 2);
+                -webkit-flex-basis: calc(100% - 16px);
+                -ms-flex-preferred-size: calc(100% - 16px);
+                flex-basis: calc(100% - 16px);
+                max-width: calc(100% - 16px);
+            }
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-12i3r9c {
+                margin-left: calc(16px / 2);
+                margin-right: calc(16px / 2);
+                -webkit-flex-basis: calc(100% - 16px);
+                -ms-flex-preferred-size: calc(100% - 16px);
+                flex-basis: calc(100% - 16px);
+                max-width: calc(100% - 16px);
+            }
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-12i3r9c {
+                margin-left: calc(24px / 2);
+                margin-right: calc(24px / 2);
+                -webkit-flex-basis: calc(100% - 24px);
+                -ms-flex-preferred-size: calc(100% - 24px);
+                flex-basis: calc(100% - 24px);
+                max-width: calc(100% - 24px);
+            }
+        }
+    </style>
+    <style data-emotion="css 3ypfbb" data-s="">
+        .css-3ypfbb {
+            position: absolute;
+            left: 0px;
+            padding-top: 0px;
+        }
+    </style>
+    <style data-emotion="css 105h58r" data-s="">
+        .css-105h58r {
+            position: absolute;
+            right: 0px;
+            z-index: 1;
+            width: 100%;
+            display: none;
+            -webkit-flex-basis: 0;
+            -ms-flex-preferred-size: 0;
+            flex-basis: 0;
+            -webkit-flex-shrink: 0;
+            -ms-flex-negative: 0;
+            flex-shrink: 0;
+            -webkit-box-flex: 1;
+            -webkit-flex-grow: 1;
+            -ms-flex-positive: 1;
+            flex-grow: 1;
+            max-width: 100%;
+        }
+        
+        @media screen and (min-width: 0px) {
+            .css-105h58r {
+                margin-left: calc(16px / 2);
+                margin-right: calc(16px / 2);
+                -webkit-flex-basis: calc(100% - 16px);
+                -ms-flex-preferred-size: calc(100% - 16px);
+                flex-basis: calc(100% - 16px);
+                max-width: calc(100% - 16px);
+            }
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-105h58r {
+                margin-left: calc(16px / 2);
+                margin-right: calc(16px / 2);
+                -webkit-flex-basis: calc(100% - 16px);
+                -ms-flex-preferred-size: calc(100% - 16px);
+                flex-basis: calc(100% - 16px);
+                max-width: calc(100% - 16px);
+            }
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-105h58r {
+                margin-left: calc(24px / 2);
+                margin-right: calc(24px / 2);
+                -webkit-flex-basis: calc(100% - 24px);
+                -ms-flex-preferred-size: calc(100% - 24px);
+                flex-basis: calc(100% - 24px);
+                max-width: calc(100% - 24px);
+            }
+        }
+    </style>
+    <style data-emotion="css e9u8o7" data-s="">
+        .css-e9u8o7 {
+            position: absolute;
+            right: 0px;
+            padding-top: 0px;
+        }
+    </style>
+    <style data-emotion="css of2bgk" data-s="">
+        .css-of2bgk {
+            padding-left: 20px;
+            padding-right: 20px;
+            margin-left: 0px;
+            margin-right: 0px;
+            margin-top: -0;
+            overflow-x: auto;
+            overflow-y: hidden;
+            -webkit-overflow-scrolling: touch;
+            scrollbar-width: none;
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-of2bgk {
+                padding-left: 8px;
+                padding-right: 8px;
+                margin-left: -8px;
+                margin-right: -8px;
+                overflow-x: hidden;
+            }
+        }
+        
+        .css-of2bgk::-webkit-scrollbar {
+            display: none;
+            width: 0!important;
+        }
+    </style>
+    <style data-emotion="css khup0l" data-s="">
+        .css-khup0l {
+            position: relative;
+            -webkit-flex-basis: 0;
+            -ms-flex-preferred-size: 0;
+            flex-basis: 0;
+            -webkit-flex-shrink: 0;
+            -ms-flex-negative: 0;
+            flex-shrink: 0;
+            -webkit-box-flex: 1;
+            -webkit-flex-grow: 1;
+            -ms-flex-positive: 1;
+            flex-grow: 1;
+            max-width: 100%;
+        }
+        
+        @media screen and (min-width: 0px) {
+            .css-khup0l {
+                margin-left: calc(16px / 2);
+                margin-right: calc(16px / 2);
+                -webkit-flex-basis: calc(100% - 16px);
+                -ms-flex-preferred-size: calc(100% - 16px);
+                flex-basis: calc(100% - 16px);
+                max-width: calc(100% - 16px);
+            }
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-khup0l {
+                margin-left: calc(16px / 2);
+                margin-right: calc(16px / 2);
+                -webkit-flex-basis: calc(100% - 16px);
+                -ms-flex-preferred-size: calc(100% - 16px);
+                flex-basis: calc(100% - 16px);
+                max-width: calc(100% - 16px);
+            }
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-khup0l {
+                margin-left: calc(24px / 2);
+                margin-right: calc(24px / 2);
+                -webkit-flex-basis: calc(100% - 24px);
+                -ms-flex-preferred-size: calc(100% - 24px);
+                flex-basis: calc(100% - 24px);
+                max-width: calc(100% - 24px);
+            }
+        }
+    </style>
+    <style data-emotion="css 1ok0i3h" data-s="">
+        .css-1ok0i3h {
+            display: grid;
+            grid-row-gap: 24px;
+            grid-column-gap: 16px;
+            grid-template-columns: repeat(6, 1fr);
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-1ok0i3h {
+                grid-column-gap: 16px;
+            }
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-1ok0i3h {
+                grid-column-gap: 24px;
+            }
+        }
+    </style>
+    <style data-emotion="css 7r7uwu" data-s="">
+        .css-7r7uwu {
+            display: -webkit-inline-box;
+            display: -webkit-inline-flex;
+            display: -ms-inline-flexbox;
+            display: inline-flex;
+            -webkit-flex-direction: column;
+            -ms-flex-direction: column;
+            flex-direction: column;
+            width: 100%;
+            min-height: auto;
+        }
+        
+        .css-7r7uwu:hover,
+        .css-7r7uwu[data-hover] {
+            cursor: pointer;
+        }
+    </style>
+    <style data-emotion="css fvtfh7" data-s="">
+        .css-fvtfh7 {
+            display: -webkit-inline-box;
+            display: -webkit-inline-flex;
+            display: -ms-inline-flexbox;
+            display: inline-flex;
+            -webkit-flex-direction: column;
+            -ms-flex-direction: column;
+            flex-direction: column;
+            width: 100%;
+            min-height: auto;
+        }
+        
+        .css-fvtfh7:hover,
+        .css-fvtfh7[data-hover] {
+            cursor: pointer;
+        }
+    </style>
+    <style data-emotion="css femmw8" data-s="">
+        .css-femmw8 {
+            border-radius: var(--radii-ui);
+            background: #308444;
+            position: relative;
+            overflow: hidden;
+            width: 100%;
+            -webkit-transition: box-shadow .25s;
+            transition: box-shadow .25s;
+            box-shadow: var(--shadows-default);
+            margin-bottom: var(--space-xsmall);
+        }
+        
+        .css-femmw8:hover,
+        .css-femmw8[data-hover] {
+            box-shadow: var(--shadows-defaultHover);
+        }
+        
+        [role=group]:hover .css-femmw8,
+        [role=group][data-hover] .css-femmw8,
+        [data-group]:hover .css-femmw8,
+        [data-group][data-hover] .css-femmw8,
+        .group:hover .css-femmw8,
+        .group[data-hover] .css-femmw8 {
+            box-shadow: var(--shadows-defaultHover);
+        }
+    </style>
+    <style data-emotion="css 1rn30ri" data-s="">
+        .css-1rn30ri {
+            width: 100%;
+            height: var(--sizes-small);
+            padding: var(--space-small);
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-1rn30ri {
+                height: var(--sizes-xxlarge);
+                padding: var(--space-medium);
+            }
+        }
+    </style>
+    <style data-emotion="css 18rwmq9" data-s="">
+        .css-18rwmq9 {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            min-width: 100%;
+            -webkit-flex-direction: column;
+            -ms-flex-direction: column;
+            flex-direction: column;
+        }
+    </style>
+    <style data-emotion="css cd4osb" data-s="">
+        .css-cd4osb {
+            border-radius: var(--radii-ui);
+            background: #233d5c;
+            position: relative;
+            overflow: hidden;
+            width: 100%;
+            -webkit-transition: box-shadow .25s;
+            transition: box-shadow .25s;
+            box-shadow: var(--shadows-default);
+            margin-bottom: var(--space-xsmall);
+        }
+        
+        .css-cd4osb:hover,
+        .css-cd4osb[data-hover] {
+            box-shadow: var(--shadows-defaultHover);
+        }
+        
+        [role=group]:hover .css-cd4osb,
+        [role=group][data-hover] .css-cd4osb,
+        [data-group]:hover .css-cd4osb,
+        [data-group][data-hover] .css-cd4osb,
+        .group:hover .css-cd4osb,
+        .group[data-hover] .css-cd4osb {
+            box-shadow: var(--shadows-defaultHover);
+        }
+    </style>
+    <style data-emotion="css d7ptj8" data-s="">
+        .css-d7ptj8 {
+            border-radius: var(--radii-ui);
+            background: #252525;
+            position: relative;
+            overflow: hidden;
+            width: 100%;
+            -webkit-transition: box-shadow .25s;
+            transition: box-shadow .25s;
+            box-shadow: var(--shadows-default);
+            margin-bottom: var(--space-xsmall);
+        }
+        
+        .css-d7ptj8:hover,
+        .css-d7ptj8[data-hover] {
+            box-shadow: var(--shadows-defaultHover);
+        }
+        
+        [role=group]:hover .css-d7ptj8,
+        [role=group][data-hover] .css-d7ptj8,
+        [data-group]:hover .css-d7ptj8,
+        [data-group][data-hover] .css-d7ptj8,
+        .group:hover .css-d7ptj8,
+        .group[data-hover] .css-d7ptj8 {
+            box-shadow: var(--shadows-defaultHover);
+        }
+    </style>
+    <style data-emotion="css 1gdk56b" data-s="">
+        .css-1gdk56b {
+            border-radius: var(--radii-ui);
+            background: #006BB5;
+            position: relative;
+            overflow: hidden;
+            width: 100%;
+            -webkit-transition: box-shadow .25s;
+            transition: box-shadow .25s;
+            box-shadow: var(--shadows-default);
+            margin-bottom: var(--space-xsmall);
+        }
+        
+        .css-1gdk56b:hover,
+        .css-1gdk56b[data-hover] {
+            box-shadow: var(--shadows-defaultHover);
+        }
+        
+        [role=group]:hover .css-1gdk56b,
+        [role=group][data-hover] .css-1gdk56b,
+        [data-group]:hover .css-1gdk56b,
+        [data-group][data-hover] .css-1gdk56b,
+        .group:hover .css-1gdk56b,
+        .group[data-hover] .css-1gdk56b {
+            box-shadow: var(--shadows-defaultHover);
+        }
+    </style>
+    <style data-emotion="css 16uvmkw" data-s="">
+        .css-16uvmkw {
+            border-radius: var(--radii-ui);
+            background: #0c2140;
+            position: relative;
+            overflow: hidden;
+            width: 100%;
+            -webkit-transition: box-shadow .25s;
+            transition: box-shadow .25s;
+            box-shadow: var(--shadows-default);
+            margin-bottom: var(--space-xsmall);
+        }
+        
+        .css-16uvmkw:hover,
+        .css-16uvmkw[data-hover] {
+            box-shadow: var(--shadows-defaultHover);
+        }
+        
+        [role=group]:hover .css-16uvmkw,
+        [role=group][data-hover] .css-16uvmkw,
+        [data-group]:hover .css-16uvmkw,
+        [data-group][data-hover] .css-16uvmkw,
+        .group:hover .css-16uvmkw,
+        .group[data-hover] .css-16uvmkw {
+            box-shadow: var(--shadows-defaultHover);
+        }
+    </style>
+    <style data-emotion="css 2fu4o2" data-s="">
+        .css-2fu4o2 {
+            border-radius: var(--radii-ui);
+            background: #57b6b2;
+            position: relative;
+            overflow: hidden;
+            width: 100%;
+            -webkit-transition: box-shadow .25s;
+            transition: box-shadow .25s;
+            box-shadow: var(--shadows-default);
+            margin-bottom: var(--space-xsmall);
+        }
+        
+        .css-2fu4o2:hover,
+        .css-2fu4o2[data-hover] {
+            box-shadow: var(--shadows-defaultHover);
+        }
+        
+        [role=group]:hover .css-2fu4o2,
+        [role=group][data-hover] .css-2fu4o2,
+        [data-group]:hover .css-2fu4o2,
+        [data-group][data-hover] .css-2fu4o2,
+        .group:hover .css-2fu4o2,
+        .group[data-hover] .css-2fu4o2 {
+            box-shadow: var(--shadows-defaultHover);
+        }
+    </style>
+    <style data-emotion="css 1420jo9" data-s="">
+        .css-1420jo9 {
+            border-radius: var(--radii-ui);
+            background: #0098d8;
+            position: relative;
+            overflow: hidden;
+            width: 100%;
+            -webkit-transition: box-shadow .25s;
+            transition: box-shadow .25s;
+            box-shadow: var(--shadows-default);
+            margin-bottom: var(--space-xsmall);
+        }
+        
+        .css-1420jo9:hover,
+        .css-1420jo9[data-hover] {
+            box-shadow: var(--shadows-defaultHover);
+        }
+        
+        [role=group]:hover .css-1420jo9,
+        [role=group][data-hover] .css-1420jo9,
+        [data-group]:hover .css-1420jo9,
+        [data-group][data-hover] .css-1420jo9,
+        .group:hover .css-1420jo9,
+        .group[data-hover] .css-1420jo9 {
+            box-shadow: var(--shadows-defaultHover);
+        }
+    </style>
+    <style data-emotion="css toyvax" data-s="">
+        .css-toyvax {
+            border-radius: var(--radii-ui);
+            background: #e31837;
+            position: relative;
+            overflow: hidden;
+            width: 100%;
+            -webkit-transition: box-shadow .25s;
+            transition: box-shadow .25s;
+            box-shadow: var(--shadows-default);
+            margin-bottom: var(--space-xsmall);
+        }
+        
+        .css-toyvax:hover,
+        .css-toyvax[data-hover] {
+            box-shadow: var(--shadows-defaultHover);
+        }
+        
+        [role=group]:hover .css-toyvax,
+        [role=group][data-hover] .css-toyvax,
+        [data-group]:hover .css-toyvax,
+        [data-group][data-hover] .css-toyvax,
+        .group:hover .css-toyvax,
+        .group[data-hover] .css-toyvax {
+            box-shadow: var(--shadows-defaultHover);
+        }
+    </style>
+    <style data-emotion="css kh8e37" data-s="">
+        .css-kh8e37 {
+            border-radius: var(--radii-ui);
+            background: #c41230;
+            position: relative;
+            overflow: hidden;
+            width: 100%;
+            -webkit-transition: box-shadow .25s;
+            transition: box-shadow .25s;
+            box-shadow: var(--shadows-default);
+            margin-bottom: var(--space-xsmall);
+        }
+        
+        .css-kh8e37:hover,
+        .css-kh8e37[data-hover] {
+            box-shadow: var(--shadows-defaultHover);
+        }
+        
+        [role=group]:hover .css-kh8e37,
+        [role=group][data-hover] .css-kh8e37,
+        [data-group]:hover .css-kh8e37,
+        [data-group][data-hover] .css-kh8e37,
+        .group:hover .css-kh8e37,
+        .group[data-hover] .css-kh8e37 {
+            box-shadow: var(--shadows-defaultHover);
+        }
+    </style>
+    <style data-emotion="css 12eejhz" data-s="">
+        .css-12eejhz {
+            border-radius: var(--radii-ui);
+            background: #4E225C;
+            position: relative;
+            overflow: hidden;
+            width: 100%;
+            -webkit-transition: box-shadow .25s;
+            transition: box-shadow .25s;
+            box-shadow: var(--shadows-default);
+            margin-bottom: var(--space-xsmall);
+        }
+        
+        .css-12eejhz:hover,
+        .css-12eejhz[data-hover] {
+            box-shadow: var(--shadows-defaultHover);
+        }
+        
+        [role=group]:hover .css-12eejhz,
+        [role=group][data-hover] .css-12eejhz,
+        [data-group]:hover .css-12eejhz,
+        [data-group][data-hover] .css-12eejhz,
+        .group:hover .css-12eejhz,
+        .group[data-hover] .css-12eejhz {
+            box-shadow: var(--shadows-defaultHover);
+        }
+    </style>
+    <style data-emotion="css 18xpepq" data-s="">
+        .css-18xpepq {
+            border-radius: var(--radii-ui);
+            background: #ed0403;
+            position: relative;
+            overflow: hidden;
+            width: 100%;
+            -webkit-transition: box-shadow .25s;
+            transition: box-shadow .25s;
+            box-shadow: var(--shadows-default);
+            margin-bottom: var(--space-xsmall);
+        }
+        
+        .css-18xpepq:hover,
+        .css-18xpepq[data-hover] {
+            box-shadow: var(--shadows-defaultHover);
+        }
+        
+        [role=group]:hover .css-18xpepq,
+        [role=group][data-hover] .css-18xpepq,
+        [data-group]:hover .css-18xpepq,
+        [data-group][data-hover] .css-18xpepq,
+        .group:hover .css-18xpepq,
+        .group[data-hover] .css-18xpepq {
+            box-shadow: var(--shadows-defaultHover);
+        }
+    </style>
+    <style data-emotion="css kzklgw" data-s="">
+        .css-kzklgw {
+            border-radius: var(--radii-ui);
+            background: #013499;
+            position: relative;
+            overflow: hidden;
+            width: 100%;
+            -webkit-transition: box-shadow .25s;
+            transition: box-shadow .25s;
+            box-shadow: var(--shadows-default);
+            margin-bottom: var(--space-xsmall);
+        }
+        
+        .css-kzklgw:hover,
+        .css-kzklgw[data-hover] {
+            box-shadow: var(--shadows-defaultHover);
+        }
+        
+        [role=group]:hover .css-kzklgw,
+        [role=group][data-hover] .css-kzklgw,
+        [data-group]:hover .css-kzklgw,
+        [data-group][data-hover] .css-kzklgw,
+        .group:hover .css-kzklgw,
+        .group[data-hover] .css-kzklgw {
+            box-shadow: var(--shadows-defaultHover);
+        }
+    </style>
+    <style data-emotion="css 11iz9ii" data-s="">
+        .css-11iz9ii {
+            border-radius: var(--radii-ui);
+            background: #5A481C;
+            position: relative;
+            overflow: hidden;
+            width: 100%;
+            -webkit-transition: box-shadow .25s;
+            transition: box-shadow .25s;
+            box-shadow: var(--shadows-default);
+            margin-bottom: var(--space-xsmall);
+        }
+        
+        .css-11iz9ii:hover,
+        .css-11iz9ii[data-hover] {
+            box-shadow: var(--shadows-defaultHover);
+        }
+        
+        [role=group]:hover .css-11iz9ii,
+        [role=group][data-hover] .css-11iz9ii,
+        [data-group]:hover .css-11iz9ii,
+        [data-group][data-hover] .css-11iz9ii,
+        .group:hover .css-11iz9ii,
+        .group[data-hover] .css-11iz9ii {
+            box-shadow: var(--shadows-defaultHover);
+        }
+    </style>
+    <style data-emotion="css oep25" data-s="">
+        .css-oep25 {
+            border-radius: var(--radii-ui);
+            background: #FFCB05;
+            position: relative;
+            overflow: hidden;
+            width: 100%;
+            -webkit-transition: box-shadow .25s;
+            transition: box-shadow .25s;
+            box-shadow: var(--shadows-default);
+            margin-bottom: var(--space-xsmall);
+        }
+        
+        .css-oep25:hover,
+        .css-oep25[data-hover] {
+            box-shadow: var(--shadows-defaultHover);
+        }
+        
+        [role=group]:hover .css-oep25,
+        [role=group][data-hover] .css-oep25,
+        [data-group]:hover .css-oep25,
+        [data-group][data-hover] .css-oep25,
+        .group:hover .css-oep25,
+        .group[data-hover] .css-oep25 {
+            box-shadow: var(--shadows-defaultHover);
+        }
+    </style>
+    <style data-emotion="css p4g4pi" data-s="">
+        .css-p4g4pi {
+            border-radius: var(--radii-ui);
+            background: #ff6400;
+            position: relative;
+            overflow: hidden;
+            width: 100%;
+            -webkit-transition: box-shadow .25s;
+            transition: box-shadow .25s;
+            box-shadow: var(--shadows-default);
+            margin-bottom: var(--space-xsmall);
+        }
+        
+        .css-p4g4pi:hover,
+        .css-p4g4pi[data-hover] {
+            box-shadow: var(--shadows-defaultHover);
+        }
+        
+        [role=group]:hover .css-p4g4pi,
+        [role=group][data-hover] .css-p4g4pi,
+        [data-group]:hover .css-p4g4pi,
+        [data-group][data-hover] .css-p4g4pi,
+        .group:hover .css-p4g4pi,
+        .group[data-hover] .css-p4g4pi {
+            box-shadow: var(--shadows-defaultHover);
+        }
+    </style>
+    <style data-emotion="css 12lmpvh" data-s="">
+        .css-12lmpvh {
+            border-radius: var(--radii-ui);
+            background: #DD2C53;
+            position: relative;
+            overflow: hidden;
+            width: 100%;
+            -webkit-transition: box-shadow .25s;
+            transition: box-shadow .25s;
+            box-shadow: var(--shadows-default);
+            margin-bottom: var(--space-xsmall);
+        }
+        
+        .css-12lmpvh:hover,
+        .css-12lmpvh[data-hover] {
+            box-shadow: var(--shadows-defaultHover);
+        }
+        
+        [role=group]:hover .css-12lmpvh,
+        [role=group][data-hover] .css-12lmpvh,
+        [data-group]:hover .css-12lmpvh,
+        [data-group][data-hover] .css-12lmpvh,
+        .group:hover .css-12lmpvh,
+        .group[data-hover] .css-12lmpvh {
+            box-shadow: var(--shadows-defaultHover);
+        }
+    </style>
+    <style data-emotion="css 1fe1pr9" data-s="">
+        .css-1fe1pr9 {
+            border-radius: var(--radii-ui);
+            background: #0a2240;
+            position: relative;
+            overflow: hidden;
+            width: 100%;
+            -webkit-transition: box-shadow .25s;
+            transition: box-shadow .25s;
+            box-shadow: var(--shadows-default);
+            margin-bottom: var(--space-xsmall);
+        }
+        
+        .css-1fe1pr9:hover,
+        .css-1fe1pr9[data-hover] {
+            box-shadow: var(--shadows-defaultHover);
+        }
+        
+        [role=group]:hover .css-1fe1pr9,
+        [role=group][data-hover] .css-1fe1pr9,
+        [data-group]:hover .css-1fe1pr9,
+        [data-group][data-hover] .css-1fe1pr9,
+        .group:hover .css-1fe1pr9,
+        .group[data-hover] .css-1fe1pr9 {
+            box-shadow: var(--shadows-defaultHover);
+        }
+    </style>
+    <style data-emotion="css p2q7af" data-s="">
+        .css-p2q7af {
+            border-radius: var(--radii-ui);
+            background: #BA2B26;
+            position: relative;
+            overflow: hidden;
+            width: 100%;
+            -webkit-transition: box-shadow .25s;
+            transition: box-shadow .25s;
+            box-shadow: var(--shadows-default);
+            margin-bottom: var(--space-xsmall);
+        }
+        
+        .css-p2q7af:hover,
+        .css-p2q7af[data-hover] {
+            box-shadow: var(--shadows-defaultHover);
+        }
+        
+        [role=group]:hover .css-p2q7af,
+        [role=group][data-hover] .css-p2q7af,
+        [data-group]:hover .css-p2q7af,
+        [data-group][data-hover] .css-p2q7af,
+        .group:hover .css-p2q7af,
+        .group[data-hover] .css-p2q7af {
+            box-shadow: var(--shadows-defaultHover);
+        }
+    </style>
+    <style data-emotion="css e8q2k7" data-s="">
+        .css-e8q2k7 {
+            display: block;
+            position: relative;
+            padding-top: 12px;
+        }
+        
+        @media screen and (min-width: 0px) {
+            .css-e8q2k7 {
+                -webkit-box-flex-wrap: wrap;
+                -webkit-flex-wrap: wrap;
+                -ms-flex-wrap: wrap;
+                flex-wrap: wrap;
+                margin-left: calc(-16px / 2);
+                margin-right: calc(-16px / 2);
+            }
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-e8q2k7 {
+                -webkit-box-flex-wrap: wrap;
+                -webkit-flex-wrap: wrap;
+                -ms-flex-wrap: wrap;
+                flex-wrap: wrap;
+                margin-left: calc(-16px / 2);
+                margin-right: calc(-16px / 2);
+            }
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-e8q2k7 {
+                -webkit-box-flex-wrap: wrap;
+                -webkit-flex-wrap: wrap;
+                -ms-flex-wrap: wrap;
+                flex-wrap: wrap;
+                margin-left: calc(-24px / 2);
+                margin-right: calc(-24px / 2);
+            }
+        }
+    </style>
+    <style data-emotion="css sv4hbl" data-s="">
+        .css-sv4hbl {
+            position: absolute;
+            z-index: 1;
+            width: 100%;
+            display: none;
+            -webkit-flex-basis: 0;
+            -ms-flex-preferred-size: 0;
+            flex-basis: 0;
+            -webkit-flex-shrink: 0;
+            -ms-flex-negative: 0;
+            flex-shrink: 0;
+            -webkit-box-flex: 1;
+            -webkit-flex-grow: 1;
+            -ms-flex-positive: 1;
+            flex-grow: 1;
+            max-width: 100%;
+        }
+        
+        @media screen and (min-width: 0px) {
+            .css-sv4hbl {
+                margin-left: calc(16px / 2);
+                margin-right: calc(16px / 2);
+                -webkit-flex-basis: calc(75% - 16px);
+                -ms-flex-preferred-size: calc(75% - 16px);
+                flex-basis: calc(75% - 16px);
+                max-width: calc(75% - 16px);
+            }
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-sv4hbl {
+                margin-left: calc(16px / 2);
+                margin-right: calc(16px / 2);
+                -webkit-flex-basis: calc(33.33333333333333% - 16px);
+                -ms-flex-preferred-size: calc(33.33333333333333% - 16px);
+                flex-basis: calc(33.33333333333333% - 16px);
+                max-width: calc(33.33333333333333% - 16px);
+            }
+        }
+        
+        @media screen and (min-width: 960px) {
+            .css-sv4hbl {
+                -webkit-flex-basis: calc(25% - 16px);
+                -ms-flex-preferred-size: calc(25% - 16px);
+                flex-basis: calc(25% - 16px);
+                max-width: calc(25% - 16px);
+            }
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-sv4hbl {
+                margin-left: calc(24px / 2);
+                margin-right: calc(24px / 2);
+                -webkit-flex-basis: calc(25% - 24px);
+                -ms-flex-preferred-size: calc(25% - 24px);
+                flex-basis: calc(25% - 24px);
+                max-width: calc(25% - 24px);
+            }
+        }
+        
+        @media screen and (min-width: 1920px) {
+            .css-sv4hbl {
+                -webkit-flex-basis: calc(16.666666666666664% - 24px);
+                -ms-flex-preferred-size: calc(16.666666666666664% - 24px);
+                flex-basis: calc(16.666666666666664% - 24px);
+                max-width: calc(16.666666666666664% - 24px);
+            }
+        }
+    </style>
+    <style data-emotion="css 1gsdsk4" data-s="">
+        .css-1gsdsk4 {
+            position: absolute;
+            left: 0px;
+            padding-top: 52.38%;
+        }
+    </style>
+    <style data-emotion="css 2tualt" data-s="">
+        .css-2tualt {
+            position: absolute;
+            right: 0px;
+            z-index: 1;
+            width: 100%;
+            display: block;
+            -webkit-flex-basis: 0;
+            -ms-flex-preferred-size: 0;
+            flex-basis: 0;
+            -webkit-flex-shrink: 0;
+            -ms-flex-negative: 0;
+            flex-shrink: 0;
+            -webkit-box-flex: 1;
+            -webkit-flex-grow: 1;
+            -ms-flex-positive: 1;
+            flex-grow: 1;
+            max-width: 100%;
+        }
+        
+        @media screen and (min-width: 0px) {
+            .css-2tualt {
+                margin-left: calc(16px / 2);
+                margin-right: calc(16px / 2);
+                -webkit-flex-basis: calc(75% - 16px);
+                -ms-flex-preferred-size: calc(75% - 16px);
+                flex-basis: calc(75% - 16px);
+                max-width: calc(75% - 16px);
+            }
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-2tualt {
+                margin-left: calc(16px / 2);
+                margin-right: calc(16px / 2);
+                -webkit-flex-basis: calc(33.33333333333333% - 16px);
+                -ms-flex-preferred-size: calc(33.33333333333333% - 16px);
+                flex-basis: calc(33.33333333333333% - 16px);
+                max-width: calc(33.33333333333333% - 16px);
+            }
+        }
+        
+        @media screen and (min-width: 960px) {
+            .css-2tualt {
+                -webkit-flex-basis: calc(25% - 16px);
+                -ms-flex-preferred-size: calc(25% - 16px);
+                flex-basis: calc(25% - 16px);
+                max-width: calc(25% - 16px);
+            }
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-2tualt {
+                margin-left: calc(24px / 2);
+                margin-right: calc(24px / 2);
+                -webkit-flex-basis: calc(25% - 24px);
+                -ms-flex-preferred-size: calc(25% - 24px);
+                flex-basis: calc(25% - 24px);
+                max-width: calc(25% - 24px);
+            }
+        }
+        
+        @media screen and (min-width: 1920px) {
+            .css-2tualt {
+                -webkit-flex-basis: calc(16.666666666666664% - 24px);
+                -ms-flex-preferred-size: calc(16.666666666666664% - 24px);
+                flex-basis: calc(16.666666666666664% - 24px);
+                max-width: calc(16.666666666666664% - 24px);
+            }
+        }
+    </style>
+    <style data-emotion="css 12czrjw" data-s="">
+        .css-12czrjw {
+            position: absolute;
+            right: 0px;
+            padding-top: 52.38%;
+        }
+    </style>
+    <style data-emotion="css mb9pq8" data-s="">
+        .css-mb9pq8 {
+            padding-left: 8px;
+            padding-right: 8px;
+            margin-left: -8px;
+            margin-right: -8px;
+            margin-top: -12px;
+            overflow-x: hidden;
+            overflow-y: hidden;
+            -webkit-overflow-scrolling: touch;
+            scrollbar-width: none;
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-mb9pq8 {
+                padding-left: 8px;
+                padding-right: 8px;
+                margin-left: -8px;
+                margin-right: -8px;
+                overflow-x: hidden;
+            }
+        }
+        
+        .css-mb9pq8::-webkit-scrollbar {
+            display: none;
+            width: 0!important;
+        }
+    </style>
+    <style data-emotion="css 1as73dl" data-s="">
+        .css-1as73dl {
+            position: relative;
+            -webkit-flex-basis: 0;
+            -ms-flex-preferred-size: 0;
+            flex-basis: 0;
+            -webkit-flex-shrink: 0;
+            -ms-flex-negative: 0;
+            flex-shrink: 0;
+            -webkit-box-flex: 1;
+            -webkit-flex-grow: 1;
+            -ms-flex-positive: 1;
+            flex-grow: 1;
+            max-width: 100%;
+        }
+        
+        @media screen and (min-width: 0px) {
+            .css-1as73dl {
+                margin-left: calc(16px / 2);
+                margin-right: calc(16px / 2);
+                -webkit-flex-basis: calc(75% - 16px);
+                -ms-flex-preferred-size: calc(75% - 16px);
+                flex-basis: calc(75% - 16px);
+                max-width: calc(75% - 16px);
+            }
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-1as73dl {
+                margin-left: calc(16px / 2);
+                margin-right: calc(16px / 2);
+                -webkit-flex-basis: calc(33.33333333333333% - 16px);
+                -ms-flex-preferred-size: calc(33.33333333333333% - 16px);
+                flex-basis: calc(33.33333333333333% - 16px);
+                max-width: calc(33.33333333333333% - 16px);
+            }
+        }
+        
+        @media screen and (min-width: 960px) {
+            .css-1as73dl {
+                -webkit-flex-basis: calc(25% - 16px);
+                -ms-flex-preferred-size: calc(25% - 16px);
+                flex-basis: calc(25% - 16px);
+                max-width: calc(25% - 16px);
+            }
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-1as73dl {
+                margin-left: calc(24px / 2);
+                margin-right: calc(24px / 2);
+                -webkit-flex-basis: calc(25% - 24px);
+                -ms-flex-preferred-size: calc(25% - 24px);
+                flex-basis: calc(25% - 24px);
+                max-width: calc(25% - 24px);
+            }
+        }
+        
+        @media screen and (min-width: 1920px) {
+            .css-1as73dl {
+                -webkit-flex-basis: calc(16.666666666666664% - 24px);
+                -ms-flex-preferred-size: calc(16.666666666666664% - 24px);
+                flex-basis: calc(16.666666666666664% - 24px);
+                max-width: calc(16.666666666666664% - 24px);
+            }
+        }
+    </style>
+    <style data-emotion="css 1a9olyp" data-s="">
+        .css-1a9olyp {
+            padding-top: var(--space-small);
+        }
+    </style>
+    <style data-emotion="css 1phsixa" data-s="">
+        .css-1phsixa {
+            padding-bottom: 0px;
+        }
+    </style>
+    <style data-emotion="css suzuso" data-s="">
+        .css-suzuso {
+            padding-bottom: 0px;
+        }
+    </style>
+    <style data-emotion="css vrwmg2" data-s="">
+        .css-vrwmg2 {
+            position: relative;
+            margin-bottom: var(--space-grande);
+        }
+    </style>
+    <style data-emotion="css xnubge" data-s="">
+        .css-xnubge {
+            border-radius: var(--radii-ui);
+            background: #252525;
+            position: relative;
+            overflow: hidden;
+            width: 100%;
+            -webkit-transition: box-shadow .25s;
+            transition: box-shadow .25s;
+            box-shadow: var(--shadows-default);
+            padding-bottom: 52.38%;
+        }
+        
+        .css-xnubge:hover,
+        .css-xnubge[data-hover] {
+            box-shadow: var(--shadows-defaultHover);
+        }
+        
+        [role=group]:hover .css-xnubge,
+        [role=group][data-hover] .css-xnubge,
+        [data-group]:hover .css-xnubge,
+        [data-group][data-hover] .css-xnubge,
+        .group:hover .css-xnubge,
+        .group[data-hover] .css-xnubge {
+            box-shadow: var(--shadows-defaultHover);
+        }
+    </style>
+    <style data-emotion="css 1h6woe8" data-s="">
+        .css-1h6woe8 {
+            position: absolute;
+            object-fit: contain;
+            object-position: center;
+            top: 0px;
+            right: 0px;
+            width: 100%;
+            height: 100%;
+            padding: var(--space-grande);
+        }
+    </style>
+    <style data-emotion="css 110vlh3" data-s="">
+        .css-110vlh3 {
+            position: absolute;
+            right: 16px;
+            bottom: 0px;
+            -webkit-transform: translateY(50%);
+            -moz-transform: translateY(50%);
+            -ms-transform: translateY(50%);
+            transform: translateY(50%);
+            z-index: 1;
+            max-width: calc(100% - 16px);
+        }
+    </style>
+    <style data-emotion="css 1r9rqt7" data-s="">
+        .css-1r9rqt7 {
+            display: -webkit-inline-box;
+            display: -webkit-inline-flex;
+            display: -ms-inline-flexbox;
+            display: inline-flex;
+            -webkit-appearance: none;
+            -moz-appearance: none;
+            -ms-appearance: none;
+            appearance: none;
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            -webkit-box-pack: center;
+            -ms-flex-pack: center;
+            -webkit-justify-content: center;
+            justify-content: center;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+            position: relative;
+            white-space: nowrap;
+            vertical-align: middle;
+            outline: 2px solid transparent;
+            outline-offset: 2px;
+            width: auto;
+            border: none;
+            cursor: pointer;
+            -webkit-transition: all 200ms;
+            transition: all 200ms;
+            box-shadow: var(--shadows-default);
+            font-family: var(--fonts-buttonSmall);
+            font-size: var(--fontSizes-buttonSmall);
+            font-weight: var(--fontWeights-buttonSmall);
+            line-height: var(--lineHeights-buttonSmall);
+            padding-top: 6px;
+            padding-bottom: 6px;
+            -webkit-padding-start: var(--space-medium);
+            padding-inline-start: var(--space-medium);
+            -webkit-padding-end: var(--space-medium);
+            padding-inline-end: var(--space-medium);
+            color: var(--colors-text-action);
+            background: var(--colors-fill-default);
+            border-radius: var(--radii-full);
+            max-width: 100%;
+        }
+        
+        .css-1r9rqt7[disabled],
+        .css-1r9rqt7[aria-disabled=true],
+        .css-1r9rqt7[data-disabled] {
+            cursor: not-allowed;
+            box-shadow: none;
+            color: var(--colors-state-disabled);
+            border-color: var(--colors-state-disabled);
+            border-width: 1px;
+            border-style: solid;
+        }
+        
+        .css-1r9rqt7[disabled]:focus,
+        .css-1r9rqt7[aria-disabled=true]:focus,
+        .css-1r9rqt7[data-disabled]:focus,
+        .css-1r9rqt7[disabled]:hover,
+        .css-1r9rqt7[aria-disabled=true]:hover,
+        .css-1r9rqt7[data-disabled]:hover,
+        .css-1r9rqt7[disabled]:active,
+        .css-1r9rqt7[aria-disabled=true]:active,
+        .css-1r9rqt7[data-disabled]:active {
+            color: var(--colors-state-disabled);
+        }
+        
+        .css-1r9rqt7 .chakra-button__icon {
+            line-height: 1;
+        }
+        
+        .css-1r9rqt7 .chakra-button__icon svg {
+            display: block;
+        }
+        
+        .css-1r9rqt7:hover,
+        .css-1r9rqt7[data-hover] {
+            color: var(--colors-state-hover);
+        }
+        
+        [role=group]:hover .css-1r9rqt7,
+        [role=group][data-hover] .css-1r9rqt7,
+        [data-group]:hover .css-1r9rqt7,
+        [data-group][data-hover] .css-1r9rqt7,
+        .group:hover .css-1r9rqt7,
+        .group[data-hover] .css-1r9rqt7 {
+            color: var(--colors-state-hover);
+        }
+        
+        .css-1r9rqt7:focus,
+        .css-1r9rqt7[data-focus] {
+            color: var(--colors-state-focused);
+        }
+        
+        .css-1r9rqt7:active,
+        .css-1r9rqt7[data-active] {
+            color: var(--colors-state-pressed);
+        }
+        
+        .css-1r9rqt7::before {
+            content: "";
+            box-sizing: content-box;
+            border-width: 4px;
+            border-style: solid;
+            border-color: var(--colors-state-focused);
+            opacity: 0;
+            padding: 0px;
+            pointer-events: none;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            -webkit-transform: translate(-50%, -50%);
+            -moz-transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+            z-index: 0;
+            width: 100%;
+            height: 100%;
+            -webkit-backface-visibility: hidden;
+            backface-visibility: hidden;
+            border-radius: 100px;
+            -webkit-transition: padding 0.3s, opacity 0.3s;
+            transition: padding 0.3s, opacity 0.3s;
+            transition-timing-function: cubic-bezier(0.75, 0, 0.125, 1);
+        }
+        
+        .css-1r9rqt7.focus-visible::before {
+            opacity: 1;
+            z-index: 1;
+            padding: 4px;
+        }
+        
+        .css-1r9rqt7:focus-visible::before {
+            opacity: 1;
+            z-index: 1;
+            padding: 4px;
+        }
+    </style>
+    <style data-emotion="css aadj09" data-s="">
+        .css-aadj09 {
+            display: -webkit-inline-box;
+            display: -webkit-inline-flex;
+            display: -ms-inline-flexbox;
+            display: inline-flex;
+            -webkit-appearance: none;
+            -moz-appearance: none;
+            -ms-appearance: none;
+            appearance: none;
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            -webkit-box-pack: center;
+            -ms-flex-pack: center;
+            -webkit-justify-content: center;
+            justify-content: center;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+            position: relative;
+            white-space: nowrap;
+            vertical-align: middle;
+            outline: 2px solid transparent;
+            outline-offset: 2px;
+            width: auto;
+            border: none;
+            cursor: pointer;
+            -webkit-transition: all 200ms;
+            transition: all 200ms;
+            box-shadow: var(--shadows-default);
+            font-family: var(--fonts-buttonSmall);
+            font-size: var(--fontSizes-buttonSmall);
+            font-weight: var(--fontWeights-buttonSmall);
+            line-height: var(--lineHeights-buttonSmall);
+            padding-top: 6px;
+            padding-bottom: 6px;
+            -webkit-padding-start: var(--space-medium);
+            padding-inline-start: var(--space-medium);
+            -webkit-padding-end: var(--space-medium);
+            padding-inline-end: var(--space-medium);
+            color: var(--colors-text-action);
+            background: var(--colors-fill-default);
+            border-radius: var(--radii-full);
+            max-width: 100%;
+        }
+        
+        .css-aadj09[disabled],
+        .css-aadj09[aria-disabled=true],
+        .css-aadj09[data-disabled] {
+            cursor: not-allowed;
+            box-shadow: none;
+            color: var(--colors-state-disabled);
+            border-color: var(--colors-state-disabled);
+            border-width: 1px;
+            border-style: solid;
+        }
+        
+        .css-aadj09[disabled]:focus,
+        .css-aadj09[aria-disabled=true]:focus,
+        .css-aadj09[data-disabled]:focus,
+        .css-aadj09[disabled]:hover,
+        .css-aadj09[aria-disabled=true]:hover,
+        .css-aadj09[data-disabled]:hover,
+        .css-aadj09[disabled]:active,
+        .css-aadj09[aria-disabled=true]:active,
+        .css-aadj09[data-disabled]:active {
+            color: var(--colors-state-disabled);
+        }
+        
+        .css-aadj09 .chakra-button__icon {
+            line-height: 1;
+        }
+        
+        .css-aadj09 .chakra-button__icon svg {
+            display: block;
+        }
+        
+        .css-aadj09:hover,
+        .css-aadj09[data-hover] {
+            color: var(--colors-state-hover);
+        }
+        
+        [role=group]:hover .css-aadj09,
+        [role=group][data-hover] .css-aadj09,
+        [data-group]:hover .css-aadj09,
+        [data-group][data-hover] .css-aadj09,
+        .group:hover .css-aadj09,
+        .group[data-hover] .css-aadj09 {
+            color: var(--colors-state-hover);
+        }
+        
+        .css-aadj09:focus,
+        .css-aadj09[data-focus] {
+            color: var(--colors-state-focused);
+        }
+        
+        .css-aadj09:active,
+        .css-aadj09[data-active] {
+            color: var(--colors-state-pressed);
+        }
+        
+        .css-aadj09::before {
+            content: "";
+            box-sizing: content-box;
+            border-width: 4px;
+            border-style: solid;
+            border-color: var(--colors-state-focused);
+            opacity: 0;
+            padding: 0px;
+            pointer-events: none;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            -webkit-transform: translate(-50%, -50%);
+            -moz-transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+            z-index: 0;
+            width: 100%;
+            height: 100%;
+            -webkit-backface-visibility: hidden;
+            backface-visibility: hidden;
+            border-radius: 100px;
+            -webkit-transition: padding 0.3s, opacity 0.3s;
+            transition: padding 0.3s, opacity 0.3s;
+            transition-timing-function: cubic-bezier(0.75, 0, 0.125, 1);
+        }
+        
+        .css-aadj09.focus-visible::before {
+            opacity: 1;
+            z-index: 1;
+            padding: 4px;
+        }
+        
+        .css-aadj09:focus-visible::before {
+            opacity: 1;
+            z-index: 1;
+            padding: 4px;
+        }
+    </style>
+    <style data-emotion="css 8uhtka" data-s="">
+        .css-8uhtka {
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+    </style>
+    <style data-emotion="css 55jjq7" data-s="">
+        .css-55jjq7 {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            min-width: 100%;
+            -webkit-flex-direction: column;
+            -ms-flex-direction: column;
+            flex-direction: column;
+            color: var(--colors-text-primary);
+        }
+    </style>
+    <style data-emotion="css 1sv0vjr" data-s="">
+        .css-1sv0vjr {
+            margin-top: var(--space-xsmall);
+            font-family: Rakuten Sans UI;
+            font-size: 18px;
+            font-weight: 700;
+            line-height: 22px;
+        }
+    </style>
+    <style data-emotion="css tv6f99" data-s="">
+        .css-tv6f99 {
+            border-radius: var(--radii-ui);
+            background: #3f4249;
+            position: relative;
+            overflow: hidden;
+            width: 100%;
+            -webkit-transition: box-shadow .25s;
+            transition: box-shadow .25s;
+            box-shadow: var(--shadows-default);
+            padding-bottom: 52.38%;
+        }
+        
+        .css-tv6f99:hover,
+        .css-tv6f99[data-hover] {
+            box-shadow: var(--shadows-defaultHover);
+        }
+        
+        [role=group]:hover .css-tv6f99,
+        [role=group][data-hover] .css-tv6f99,
+        [data-group]:hover .css-tv6f99,
+        [data-group][data-hover] .css-tv6f99,
+        .group:hover .css-tv6f99,
+        .group[data-hover] .css-tv6f99 {
+            box-shadow: var(--shadows-defaultHover);
+        }
+    </style>
+    <style data-emotion="css 1x9dswl" data-s="">
+        .css-1x9dswl {
+            padding-bottom: 0px;
+            cursor: pointer;
+        }
+    </style>
+    <style data-emotion="css jg5kwi" data-s="">
+        .css-jg5kwi {
+            padding-bottom: 0px;
+            cursor: pointer;
+        }
+    </style>
+    <style data-emotion="css 1grkpe3" data-s="">
+        .css-1grkpe3 {
+            border-radius: var(--radii-ui);
+            background: #002453;
+            position: relative;
+            overflow: hidden;
+            width: 100%;
+            -webkit-transition: box-shadow .25s;
+            transition: box-shadow .25s;
+            box-shadow: var(--shadows-default);
+            padding-bottom: 52.38%;
+        }
+        
+        .css-1grkpe3:hover,
+        .css-1grkpe3[data-hover] {
+            box-shadow: var(--shadows-defaultHover);
+        }
+        
+        [role=group]:hover .css-1grkpe3,
+        [role=group][data-hover] .css-1grkpe3,
+        [data-group]:hover .css-1grkpe3,
+        [data-group][data-hover] .css-1grkpe3,
+        .group:hover .css-1grkpe3,
+        .group[data-hover] .css-1grkpe3 {
+            box-shadow: var(--shadows-defaultHover);
+        }
+    </style>
+    <style data-emotion="css 1v5lmpd" data-s="">
+        .css-1v5lmpd {
+            border-radius: var(--radii-ui);
+            background: #840A2D;
+            position: relative;
+            overflow: hidden;
+            width: 100%;
+            -webkit-transition: box-shadow .25s;
+            transition: box-shadow .25s;
+            box-shadow: var(--shadows-default);
+            padding-bottom: 52.38%;
+        }
+        
+        .css-1v5lmpd:hover,
+        .css-1v5lmpd[data-hover] {
+            box-shadow: var(--shadows-defaultHover);
+        }
+        
+        [role=group]:hover .css-1v5lmpd,
+        [role=group][data-hover] .css-1v5lmpd,
+        [data-group]:hover .css-1v5lmpd,
+        [data-group][data-hover] .css-1v5lmpd,
+        .group:hover .css-1v5lmpd,
+        .group[data-hover] .css-1v5lmpd {
+            box-shadow: var(--shadows-defaultHover);
+        }
+    </style>
+    <style data-emotion="css q9grmj" data-s="">
+        .css-q9grmj {
+            border-radius: var(--radii-ui);
+            background: #444644;
+            position: relative;
+            overflow: hidden;
+            width: 100%;
+            -webkit-transition: box-shadow .25s;
+            transition: box-shadow .25s;
+            box-shadow: var(--shadows-default);
+            padding-bottom: 52.38%;
+        }
+        
+        .css-q9grmj:hover,
+        .css-q9grmj[data-hover] {
+            box-shadow: var(--shadows-defaultHover);
+        }
+        
+        [role=group]:hover .css-q9grmj,
+        [role=group][data-hover] .css-q9grmj,
+        [data-group]:hover .css-q9grmj,
+        [data-group][data-hover] .css-q9grmj,
+        .group:hover .css-q9grmj,
+        .group[data-hover] .css-q9grmj {
+            box-shadow: var(--shadows-defaultHover);
+        }
+    </style>
+    <style data-emotion="css lita2u" data-s="">
+        .css-lita2u {
+            border-radius: var(--radii-ui);
+            background: #60269e;
+            position: relative;
+            overflow: hidden;
+            width: 100%;
+            -webkit-transition: box-shadow .25s;
+            transition: box-shadow .25s;
+            box-shadow: var(--shadows-default);
+            padding-bottom: 52.38%;
+        }
+        
+        .css-lita2u:hover,
+        .css-lita2u[data-hover] {
+            box-shadow: var(--shadows-defaultHover);
+        }
+        
+        [role=group]:hover .css-lita2u,
+        [role=group][data-hover] .css-lita2u,
+        [data-group]:hover .css-lita2u,
+        [data-group][data-hover] .css-lita2u,
+        .group:hover .css-lita2u,
+        .group[data-hover] .css-lita2u {
+            box-shadow: var(--shadows-defaultHover);
+        }
+    </style>
+    <style data-emotion="css 4teclv" data-s="">
+        .css-4teclv {
+            display: -webkit-inline-box;
+            display: -webkit-inline-flex;
+            display: -ms-inline-flexbox;
+            display: inline-flex;
+            min-height: 24px;
+            background-color: var(--colors-fill-default);
+            box-shadow: var(--shadows-default);
+            border-radius: var(--radii-tag);
+            padding-top: var(--space-xxsmall);
+            padding-bottom: var(--space-xxsmall);
+            -webkit-padding-start: var(--space-xsmall);
+            padding-inline-start: var(--space-xsmall);
+            -webkit-padding-end: var(--space-xsmall);
+            padding-inline-end: var(--space-xsmall);
+            position: absolute;
+            left: 16px;
+            top: 0px;
+            -webkit-transform: translateY(-50%);
+            -moz-transform: translateY(-50%);
+            -ms-transform: translateY(-50%);
+            transform: translateY(-50%);
+            z-index: 1;
+        }
+    </style>
+    <style data-emotion="css 1fd831c" data-s="">
+        .css-1fd831c {
+            color: var(--colors-text-cashback);
+            font-family: Rakuten Sans UI;
+            font-size: 12px;
+            font-weight: 600;
+            line-height: 16px;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            white-space: nowrap;
+            text-transform: uppercase;
+        }
+    </style>
+    <style data-emotion="css k9onui" data-s="">
+        .css-k9onui {
+            border-radius: var(--radii-ui);
+            background: #003057;
+            position: relative;
+            overflow: hidden;
+            width: 100%;
+            -webkit-transition: box-shadow .25s;
+            transition: box-shadow .25s;
+            box-shadow: var(--shadows-default);
+            padding-bottom: 52.38%;
+        }
+        
+        .css-k9onui:hover,
+        .css-k9onui[data-hover] {
+            box-shadow: var(--shadows-defaultHover);
+        }
+        
+        [role=group]:hover .css-k9onui,
+        [role=group][data-hover] .css-k9onui,
+        [data-group]:hover .css-k9onui,
+        [data-group][data-hover] .css-k9onui,
+        .group:hover .css-k9onui,
+        .group[data-hover] .css-k9onui {
+            box-shadow: var(--shadows-defaultHover);
+        }
+    </style>
+    <style data-emotion="css 86h7bl" data-s="">
+        .css-86h7bl {
+            border-radius: var(--radii-ui);
+            background: #1800FF;
+            position: relative;
+            overflow: hidden;
+            width: 100%;
+            -webkit-transition: box-shadow .25s;
+            transition: box-shadow .25s;
+            box-shadow: var(--shadows-default);
+            padding-bottom: 52.38%;
+        }
+        
+        .css-86h7bl:hover,
+        .css-86h7bl[data-hover] {
+            box-shadow: var(--shadows-defaultHover);
+        }
+        
+        [role=group]:hover .css-86h7bl,
+        [role=group][data-hover] .css-86h7bl,
+        [data-group]:hover .css-86h7bl,
+        [data-group][data-hover] .css-86h7bl,
+        .group:hover .css-86h7bl,
+        .group[data-hover] .css-86h7bl {
+            box-shadow: var(--shadows-defaultHover);
+        }
+    </style>
+    <style data-emotion="css 1ihop67" data-s="">
+        .css-1ihop67 {
+            display: -webkit-inline-box;
+            display: -webkit-inline-flex;
+            display: -ms-inline-flexbox;
+            display: inline-flex;
+            -webkit-appearance: none;
+            -moz-appearance: none;
+            -ms-appearance: none;
+            appearance: none;
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            -webkit-box-pack: center;
+            -ms-flex-pack: center;
+            -webkit-justify-content: center;
+            justify-content: center;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+            position: relative;
+            white-space: normal;
+            vertical-align: middle;
+            outline: 2px solid transparent;
+            outline-offset: 2px;
+            width: auto;
+            border: none;
+            cursor: pointer;
+            -webkit-transition: all 200ms;
+            transition: all 200ms;
+            box-shadow: none;
+            font-family: var(--fonts-buttonMedium);
+            font-size: var(--fontSizes-buttonMedium);
+            font-weight: var(--fontWeights-buttonMedium);
+            line-height: var(--lineHeights-buttonMedium);
+            padding-top: 10px;
+            padding-bottom: 10px;
+            -webkit-padding-start: 0px;
+            padding-inline-start: 0px;
+            -webkit-padding-end: 0px;
+            padding-inline-end: 0px;
+            -webkit-box-flex-wrap: wrap;
+            -webkit-flex-wrap: wrap;
+            -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+            color: var(--colors-text-action);
+            background: transparent;
+            text-align: right;
+        }
+        
+        .css-1ihop67[disabled],
+        .css-1ihop67[aria-disabled=true],
+        .css-1ihop67[data-disabled] {
+            cursor: not-allowed;
+            box-shadow: none;
+            color: var(--colors-state-disabled);
+            border-width: 0;
+        }
+        
+        .css-1ihop67[disabled]::after,
+        .css-1ihop67[aria-disabled=true]::after,
+        .css-1ihop67[data-disabled]::after {
+            border-color: transparent;
+        }
+        
+        .css-1ihop67[disabled]:focus,
+        .css-1ihop67[aria-disabled=true]:focus,
+        .css-1ihop67[data-disabled]:focus,
+        .css-1ihop67[disabled]:hover,
+        .css-1ihop67[aria-disabled=true]:hover,
+        .css-1ihop67[data-disabled]:hover,
+        .css-1ihop67[disabled]:active,
+        .css-1ihop67[aria-disabled=true]:active,
+        .css-1ihop67[data-disabled]:active {
+            color: var(--colors-state-disabled);
+        }
+        
+        .css-1ihop67[disabled]:focus::after,
+        .css-1ihop67[aria-disabled=true]:focus::after,
+        .css-1ihop67[data-disabled]:focus::after,
+        .css-1ihop67[disabled]:hover::after,
+        .css-1ihop67[aria-disabled=true]:hover::after,
+        .css-1ihop67[data-disabled]:hover::after,
+        .css-1ihop67[disabled]:active::after,
+        .css-1ihop67[aria-disabled=true]:active::after,
+        .css-1ihop67[data-disabled]:active::after {
+            border-color: transparent;
+        }
+        
+        .css-1ihop67 .chakra-button__icon {
+            line-height: 1;
+        }
+        
+        .css-1ihop67 .chakra-button__icon svg {
+            display: block;
+        }
+        
+        .css-1ihop67::after {
+            content: "";
+            width: 100%;
+            -webkit-box-flex: 1;
+            -webkit-flex-grow: 1;
+            -ms-flex-positive: 1;
+            flex-grow: 1;
+            height: 1px;
+            border-width: 0;
+            border-bottom-width: 1px;
+            border-color: transparent;
+            border-style: solid;
+        }
+        
+        .css-1ihop67:hover,
+        .css-1ihop67[data-hover] {
+            color: var(--colors-state-hover);
+        }
+        
+        .css-1ihop67:hover::after,
+        .css-1ihop67[data-hover]::after {
+            border-color: var(--colors-state-hover);
+        }
+        
+        [role=group]:hover .css-1ihop67,
+        [role=group][data-hover] .css-1ihop67,
+        [data-group]:hover .css-1ihop67,
+        [data-group][data-hover] .css-1ihop67,
+        .group:hover .css-1ihop67,
+        .group[data-hover] .css-1ihop67 {
+            color: var(--colors-state-hover);
+        }
+        
+        [role=group]:hover .css-1ihop67::after,
+        [role=group][data-hover] .css-1ihop67::after,
+        [data-group]:hover .css-1ihop67::after,
+        [data-group][data-hover] .css-1ihop67::after,
+        .group:hover .css-1ihop67::after,
+        .group[data-hover] .css-1ihop67::after {
+            border-color: var(--colors-state-hover);
+        }
+        
+        .css-1ihop67:focus {
+            color: var(--colors-state-focused);
+        }
+        
+        .css-1ihop67:focus::after {
+            border-color: transparent;
+        }
+        
+        .css-1ihop67:active,
+        .css-1ihop67[data-active] {
+            color: var(--colors-state-pressed);
+        }
+        
+        .css-1ihop67[data-inverse="true"] {
+            color: var(--colors-text-inverse);
+        }
+        
+        .css-1ihop67[data-inverse="true"]:hover::after,
+        .css-1ihop67[data-inverse="true"][data-hover]::after {
+            border-color: var(--colors-border-inverse);
+        }
+        
+        .css-1ihop67[data-inverse="true"]:focus::after,
+        .css-1ihop67[data-inverse="true"][data-focus]::after {
+            border-color: transparent;
+        }
+    </style>
+    <style data-emotion="css 1bpupy4" data-s="">
+        .css-1bpupy4 {
+            border-radius: var(--radii-ui);
+            background: var(--colors-fill-default);
+            position: relative;
+            overflow: hidden;
+            width: 100%;
+            -webkit-transition: box-shadow .25s;
+            transition: box-shadow .25s;
+            box-shadow: var(--shadows-default);
+            padding-bottom: 52.38%;
+        }
+        
+        .css-1bpupy4:hover,
+        .css-1bpupy4[data-hover] {
+            box-shadow: var(--shadows-defaultHover);
+        }
+        
+        [role=group]:hover .css-1bpupy4,
+        [role=group][data-hover] .css-1bpupy4,
+        [data-group]:hover .css-1bpupy4,
+        [data-group][data-hover] .css-1bpupy4,
+        .group:hover .css-1bpupy4,
+        .group[data-hover] .css-1bpupy4 {
+            box-shadow: var(--shadows-defaultHover);
+        }
+    </style>
+    <style data-emotion="css 3mxvjr" data-s="">
+        .css-3mxvjr {
+            position: absolute;
+            object-fit: cover;
+            object-position: center;
+            top: 0px;
+            right: 0px;
+            width: 100%;
+            height: 100%;
+            padding: 0px;
+        }
+    </style>
+    <style data-emotion="css 1fs2ekg" data-s="">
+        .css-1fs2ekg {
+            border-radius: 50%;
+            background: var(--colors-fill-default);
+            position: absolute;
+            overflow: hidden;
+            width: var(--sizes-xxsmall);
+            -webkit-transition: box-shadow .25s;
+            transition: box-shadow .25s;
+            height: var(--sizes-xxsmall);
+            padding: 0px;
+            -webkit-flex-basis: var(--sizes-xxsmall);
+            -ms-flex-preferred-size: var(--sizes-xxsmall);
+            flex-basis: var(--sizes-xxsmall);
+            -webkit-box-flex: 0;
+            -webkit-flex-grow: 0;
+            -ms-flex-positive: 0;
+            flex-grow: 0;
+            -webkit-flex-shrink: 0;
+            -ms-flex-negative: 0;
+            flex-shrink: 0;
+            border-width: 2px;
+            border-style: solid;
+            border-color: var(--colors-border-iconContainer);
+            left: 16px;
+            bottom: 16px;
+        }
+    </style>
+    <style data-emotion="css dojgf2" data-s="">
+        .css-dojgf2 {
+            height: 1px;
+        }
+    </style>
+    <style data-emotion="css ah250" data-s="">
+        .css-ah250 {
+            background-color: var(--colors-dark);
+            color: var(--colors-light);
+        }
+    </style>
+    <style data-emotion="css 1u0pnf8" data-s="">
+        .css-1u0pnf8 {
+            overflow: auto;
+            padding-top: var(--space-xxlarge);
+            color: tertiary;
+        }
+    </style>
+    <style data-emotion="css 1gcx79g" data-s="">
+        .css-1gcx79g {
+            box-sizing: content-box;
+            -webkit-padding-start: 20px;
+            padding-inline-start: 20px;
+            -webkit-padding-end: 20px;
+            padding-inline-end: 20px;
+            -webkit-margin-start: auto;
+            margin-inline-start: auto;
+            -webkit-margin-end: auto;
+            margin-inline-end: auto;
+            position: relative;
+            -webkit-flex-direction: column;
+            -ms-flex-direction: column;
+            flex-direction: column;
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-1gcx79g {
+                -webkit-padding-start: 48px;
+                padding-inline-start: 48px;
+                -webkit-padding-end: 48px;
+                padding-inline-end: 48px;
+            }
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-1gcx79g {
+                max-width: 1632px;
+                -webkit-padding-start: 144px;
+                padding-inline-start: 144px;
+                -webkit-padding-end: 144px;
+                padding-inline-end: 144px;
+            }
+        }
+    </style>
+    <style data-emotion="css z7mtfw" data-s="">
+        .css-z7mtfw {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-box-pack: justify;
+            -webkit-justify-content: space-between;
+            justify-content: space-between;
+            width: 100%;
+        }
+    </style>
+    <style data-emotion="css li4dwf" data-s="">
+        .css-li4dwf {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-flex-direction: column;
+            -ms-flex-direction: column;
+            flex-direction: column;
+            -webkit-flex-basis: calc(25% - 10px);
+            -ms-flex-preferred-size: calc(25% - 10px);
+            flex-basis: calc(25% - 10px);
+        }
+        
+        .css-li4dwf>*:not(style)~*:not(style) {
+            margin-top: var(--space-grande);
+            -webkit-margin-end: 0px;
+            margin-inline-end: 0px;
+            margin-bottom: 0px;
+            -webkit-margin-start: 0px;
+            margin-inline-start: 0px;
+        }
+    </style>
+    <style data-emotion="css j7qwjs" data-s="">
+        .css-j7qwjs {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-flex-direction: column;
+            -ms-flex-direction: column;
+            flex-direction: column;
+        }
+    </style>
+    <style data-emotion="css ooy85r" data-s="">
+        .css-ooy85r {
+            color: var(--colors-text-inverse);
+            opacity: 0.7;
+            font-size: var(--fontSizes-tagSmall);
+            line-height: var(--lineHeights-tagSmall);
+            letter-spacing: var(--letterSpacings-tagSmall);
+            text-transform: uppercase;
+            margin-bottom: var(--space-xsmall);
+        }
+    </style>
+    <style data-emotion="css umlmr1" data-s="">
+        .css-umlmr1 {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-flex-direction: column;
+            -ms-flex-direction: column;
+            flex-direction: column;
+        }
+        
+        .css-umlmr1>*:not(style)~*:not(style) {
+            margin-top: var(--space-xsmall);
+            -webkit-margin-end: 0px;
+            margin-inline-end: 0px;
+            margin-bottom: 0px;
+            -webkit-margin-start: 0px;
+            margin-inline-start: 0px;
+        }
+    </style>
+    <style data-emotion="css g4iysa" data-s="">
+        .css-g4iysa {
+            list-style-type: none;
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-flex-direction: column;
+            -ms-flex-direction: column;
+            flex-direction: column;
+        }
+        
+        .css-g4iysa>*:not(style)~*:not(style) {
+            margin-top: var(--space-xsmall);
+            -webkit-margin-end: 0px;
+            margin-inline-end: 0px;
+            margin-bottom: 0px;
+            -webkit-margin-start: 0px;
+            margin-inline-start: 0px;
+        }
+    </style>
+    <style data-emotion="css 1c6vscd" data-s="">
+        .css-1c6vscd {
+            display: inherit;
+        }
+    </style>
+    <style data-emotion="css 1fdbldu" data-s="">
+        .css-1fdbldu {
+            font-family: Rakuten Sans UI;
+            font-size: 14px;
+            font-weight: 400;
+            line-height: 16px;
+            -webkit-text-decoration: none;
+            text-decoration: none;
+            cursor: pointer;
+            color: var(--colors-text-inverse);
+        }
+        
+        .css-1fdbldu:hover,
+        .css-1fdbldu[data-hover] {
+            -webkit-text-decoration: underline;
+            text-decoration: underline;
+        }
+    </style>
+    <style data-emotion="css 1px8aq" data-s="">
+        .css-1px8aq {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-flex-direction: row;
+            -ms-flex-direction: row;
+            flex-direction: row;
+            -webkit-align-items: flex-start;
+            -webkit-box-align: flex-start;
+            -ms-flex-align: flex-start;
+            align-items: flex-start;
+            color: tertiary;
+        }
+        
+        @media screen and (min-width: 1280px) {
+            .css-1px8aq {
+                -webkit-align-items: center;
+                -webkit-box-align: center;
+                -ms-flex-align: center;
+                align-items: center;
+            }
+        }
+    </style>
+    <style data-emotion="css cfzeeb" data-s="">
+        .css-cfzeeb {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-flex-direction: row;
+            -ms-flex-direction: row;
+            flex-direction: row;
+            -webkit-align-items: flex-start;
+            -webkit-box-align: flex-start;
+            -ms-flex-align: flex-start;
+            align-items: flex-start;
+            color: tertiary;
+        }
+        
+        @media screen and (min-width: 1280px) {
+            .css-cfzeeb {
+                -webkit-align-items: center;
+                -webkit-box-align: center;
+                -ms-flex-align: center;
+                align-items: center;
+            }
+        }
+    </style>
+    <style data-emotion="css yjitp2" data-s="">
+        .css-yjitp2 {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            height: 20px;
+        }
+    </style>
+    <style data-emotion="css 19r821h" data-s="">
+        .css-19r821h {
+            width: 14px;
+            height: 16px;
+            display: inline-block;
+            vertical-align: middle;
+            fill: var(--colors-border-iconContainer);
+            margin-right: var(--space-xxsmall);
+            -webkit-flex-shrink: 0;
+            -ms-flex-negative: 0;
+            flex-shrink: 0;
+            -webkit-backface-visibility: hidden;
+            backface-visibility: hidden;
+        }
+        
+        .css-19r821h:not(:root) {
+            overflow: hidden;
+        }
+    </style>
+    <style data-emotion="css 1j60r7x" data-s="">
+        .css-1j60r7x {
+            font-size: var(--fontSizes-body);
+            line-height: var(--lineHeights-body);
+            font-weight: bold;
+        }
+    </style>
+    <style data-emotion="css 1hyfx7x" data-s="">
+        .css-1hyfx7x {
+            display: none;
+        }
+    </style>
+    <style data-emotion="css uaums3" data-s="">
+        .css-uaums3>* {
+            color: inherit;
+        }
+    </style>
+    <style data-emotion="css iozvyh" data-s="">
+        .css-iozvyh {
+            font-family: Rakuten Sans UI;
+            font-size: 14px;
+            font-weight: 400;
+            line-height: 16px;
+            -webkit-text-decoration: none;
+            text-decoration: none;
+            cursor: pointer;
+            color: var(--colors-text-inverse);
+        }
+        
+        .css-iozvyh:hover,
+        .css-iozvyh[data-hover] {
+            -webkit-text-decoration: underline;
+            text-decoration: underline;
+        }
+        
+        .css-iozvyh>* {
+            color: inherit;
+        }
+    </style>
+    <style data-emotion="css rgq6ht" data-s="">
+        .css-rgq6ht {
+            font-family: Rakuten Sans UI;
+            font-size: 14px;
+            font-weight: 400;
+            line-height: 16px;
+            -webkit-text-decoration: none;
+            text-decoration: none;
+            cursor: pointer;
+            color: var(--colors-text-inverse);
+        }
+        
+        .css-rgq6ht:hover,
+        .css-rgq6ht[data-hover] {
+            -webkit-text-decoration: underline;
+            text-decoration: underline;
+        }
+        
+        .css-rgq6ht>* {
+            color: inherit;
+        }
+    </style>
+    <style data-emotion="css 166h9z" data-s="">
+        .css-166h9z {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-flex-direction: row;
+            -ms-flex-direction: row;
+            flex-direction: row;
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            color: tertiary;
+            font-size: var(--fontSizes-body);
+            line-height: var(--lineHeights-body);
+            margin-top: var(--space-xsmall);
+        }
+    </style>
+    <style data-emotion="css 1pe3zmv" data-s="">
+        .css-1pe3zmv {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-flex-direction: row;
+            -ms-flex-direction: row;
+            flex-direction: row;
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            color: tertiary;
+            font-size: var(--fontSizes-body);
+            line-height: var(--lineHeights-body);
+            margin-top: var(--space-xsmall);
+        }
+    </style>
+    <style data-emotion="css 14b8d12" data-s="">
+        .css-14b8d12 {
+            width: 12px;
+            height: 12px;
+            display: inline-block;
+            vertical-align: middle;
+            fill: var(--colors-border-iconContainer);
+            margin-right: var(--space-xxsmall);
+            -webkit-flex-shrink: 0;
+            -ms-flex-negative: 0;
+            flex-shrink: 0;
+            -webkit-backface-visibility: hidden;
+            backface-visibility: hidden;
+        }
+        
+        .css-14b8d12:not(:root) {
+            overflow: hidden;
+        }
+    </style>
+    <style data-emotion="css 5e7ve0" data-s="">
+        .css-5e7ve0 {
+            font-weight: bold;
+            white-space: nowrap;
+        }
+    </style>
+    <style data-emotion="css 135z8jx" data-s="">
+        .css-135z8jx {
+            display: -webkit-inline-box;
+            display: -webkit-inline-flex;
+            display: -ms-inline-flexbox;
+            display: inline-flex;
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            -webkit-box-pack: center;
+            -ms-flex-pack: center;
+            -webkit-justify-content: center;
+            justify-content: center;
+            position: relative;
+            width: 100%;
+        }
+    </style>
+    <style data-emotion="css 1fscg46" data-s="">
+        .css-1fscg46 {
+            opacity: 0.6;
+            border: 0;
+            border-color: inherit;
+            border-style: solid;
+            border-bottom-width: 1px;
+            width: 100%;
+            color: var(--colors-border-divider);
+            margin: 0px;
+        }
+    </style>
+    <style data-emotion="css 1suq5al" data-s="">
+        .css-1suq5al {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-flex-direction: row;
+            -ms-flex-direction: row;
+            flex-direction: row;
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            padding-top: var(--space-grande);
+            padding-bottom: var(--space-grande);
+        }
+    </style>
+    <style data-emotion="css 30sofs" data-s="">
+        .css-30sofs {
+            font-size: var(--fontSizes-body);
+            line-height: var(--lineHeights-body);
+            text-align: left;
+        }
+        
+        .css-30sofs:hover,
+        .css-30sofs[data-hover] {
+            -webkit-text-decoration: underline;
+            text-decoration: underline;
+        }
+    </style>
+    <style data-emotion="css c26408" data-s="">
+        .css-c26408 {
+            color: var(--colors-light);
+        }
+    </style>
+    <style data-emotion="css 19uhhhf" data-s="">
+        .css-19uhhhf {
+            font-size: var(--fontSizes-body);
+            line-height: var(--lineHeights-body);
+            color: var(--colors-text-inverse);
+            text-align: left;
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-19uhhhf {
+                margin-left: var(--space-medium);
+            }
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-19uhhhf {
+                margin-left: var(--space-large);
+            }
+        }
+    </style>
+    <style data-emotion="css 1berfq2" data-s="">
+        .css-1berfq2 {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            -webkit-box-pack: center;
+            -ms-flex-pack: center;
+            -webkit-justify-content: center;
+            justify-content: center;
+            -webkit-flex-direction: row;
+            -ms-flex-direction: row;
+            flex-direction: row;
+            background-color: transparent;
+            margin-left: auto;
+        }
+        
+        .css-1berfq2>*:not(style)~*:not(style) {
+            margin-top: 0px;
+            -webkit-margin-end: 0px;
+            margin-inline-end: 0px;
+            margin-bottom: 0px;
+            -webkit-margin-start: var(--space-medium);
+            margin-inline-start: var(--space-medium);
+        }
+    </style>
+    <style data-emotion="css 1cy90ou" data-s="">
+        .css-1cy90ou {
+            color: var(--colors-dark);
+            background-color: var(--colors-border-divider);
+            border-radius: var(--radii-full);
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-box-pack: center;
+            -ms-flex-pack: center;
+            -webkit-justify-content: center;
+            justify-content: center;
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            width: 40px;
+            height: 40px;
+        }
+    </style>
+    <style data-emotion="css 1vopo0h" data-s="">
+        .css-1vopo0h {
+            width: 14px;
+            height: 14px;
+            display: inline-block;
+            vertical-align: middle;
+            fill: primary;
+            -webkit-flex-shrink: 0;
+            -ms-flex-negative: 0;
+            flex-shrink: 0;
+            -webkit-backface-visibility: hidden;
+            backface-visibility: hidden;
+        }
+        
+        .css-1vopo0h:not(:root) {
+            overflow: hidden;
+        }
+    </style>
+    <style data-emotion="css 13sgwfy" data-s="">
+        .css-13sgwfy {
+            background-color: var(--colors-light);
+            color: tertiary;
+            padding-top: var(--space-medium);
+            padding-bottom: var(--space-large);
+        }
+    </style>
+    <style data-emotion="css jt7808" data-s="">
+        .css-jt7808 {
+            box-sizing: content-box;
+            -webkit-padding-start: 20px;
+            padding-inline-start: 20px;
+            -webkit-padding-end: 20px;
+            padding-inline-end: 20px;
+            -webkit-margin-start: auto;
+            margin-inline-start: auto;
+            -webkit-margin-end: auto;
+            margin-inline-end: auto;
+            position: relative;
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            -webkit-box-pack: justify;
+            -webkit-justify-content: space-between;
+            justify-content: space-between;
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-jt7808 {
+                -webkit-padding-start: 48px;
+                padding-inline-start: 48px;
+                -webkit-padding-end: 48px;
+                padding-inline-end: 48px;
+            }
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-jt7808 {
+                max-width: 1632px;
+                -webkit-padding-start: 144px;
+                padding-inline-start: 144px;
+                -webkit-padding-end: 144px;
+                padding-inline-end: 144px;
+            }
+        }
+    </style>
+    <style data-emotion="css z26e7t" data-s="">
+        .css-z26e7t {
+            display: block;
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-z26e7t {
+                -webkit-flex: 0 0 149px;
+                -ms-flex: 0 0 149px;
+                flex: 0 0 149px;
+                margin-right: var(--space-medium);
+            }
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-z26e7t {
+                -webkit-flex: 0 0 149px;
+                -ms-flex: 0 0 149px;
+                flex: 0 0 149px;
+                margin-right: var(--space-xlarge);
+            }
+        }
+    </style>
+    <style data-emotion="css jgszh2" data-s="">
+        .css-jgszh2 {
+            width: 100%;
+            height: auto;
+            max-width: 149px;
+        }
+    </style>
+    <style data-emotion="css 3tiflh" data-s="">
+        .css-3tiflh {
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-align-items: center;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            -webkit-box-pack: end;
+            -ms-flex-pack: end;
+            -webkit-justify-content: flex-end;
+            justify-content: flex-end;
+            -webkit-box-flex-wrap: wrap;
+            -webkit-flex-wrap: wrap;
+            -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+            -webkit-box-flex: 1;
+            -webkit-flex-grow: 1;
+            -ms-flex-positive: 1;
+            flex-grow: 1;
+            font-size: var(--fontSizes-body);
+            line-height: var(--lineHeights-body);
+            text-align: right;
+        }
+    </style>
+    <style data-emotion="css 1agr68u" data-s="">
+        .css-1agr68u {
+            -webkit-align-self: flex-start;
+            -ms-flex-item-align: flex-start;
+            align-self: flex-start;
+            -webkit-flex-basis: 50%;
+            -ms-flex-preferred-size: 50%;
+            flex-basis: 50%;
+            margin-left: 0px;
+            margin-bottom: var(--space-medium);
+        }
+        
+        @media screen and (min-width: 600px) {
+            .css-1agr68u {
+                -webkit-flex-basis: auto;
+                -ms-flex-preferred-size: auto;
+                flex-basis: auto;
+                margin-left: var(--space-medium);
+            }
+        }
+        
+        @media screen and (min-width: 1440px) {
+            .css-1agr68u {
+                margin-left: var(--space-large);
+                margin-bottom: 0px;
+            }
+        }
+    </style>
+    <style data-emotion="css 109eivq" data-s="">
+        .css-109eivq {
+            -webkit-text-decoration: none;
+            text-decoration: none;
+            cursor: pointer;
+            color: var(--colors-text-tertiary);
+        }
+        
+        .css-109eivq:hover,
+        .css-109eivq[data-hover] {
+            -webkit-text-decoration: underline;
+            text-decoration: underline;
+        }
+    </style>
+    <style data-emotion="css" data-s=""></style>
+  
+    <style>
+        .flipX video::-webkit-media-text-track-display {
+            transform: matrix(-1, 0, 0, 1, 0, 0) !important;
+        }
+        
+        .flipXY video::-webkit-media-text-track-display {
+            transform: matrix(-1, 0, 0, -1, 0, 0) !important;
+        }
+        
+        .flipXYX video::-webkit-media-text-track-display {
+            transform: matrix(1, 0, 0, -1, 0, 0) !important;
+        }
+    </style>
+    <style>
+        @keyframes blinkWarning {
+            0% {
+                color: red;
+            }
+            100% {
+                color: white;
+            }
+        }
+        
+        @-webkit-keyframes blinkWarning {
+            0% {
+                color: red;
+            }
+            100% {
+                color: white;
+            }
+        }
+        
+        .blinkWarning {
+            -webkit-animation: blinkWarning 1s linear infinite;
+            -moz-animation: blinkWarning 1s linear infinite;
+            animation: blinkWarning 1s linear infinite;
+        }
+    </style>
+    <style type="text/css" data-fbcssmodules="css:fb.css.base css:fb.css.dialog css:fb.css.iframewidget css:fb.css.customer_chat_plugin_iframe">
+        .fb_hidden {
+            position: absolute;
+            top: -10000px;
+            z-index: 10001
+        }
+        
+        .fb_reposition {
+            overflow: hidden;
+            position: relative
+        }
+        
+        .fb_invisible {
+            display: none
+        }
+        
+        .fb_reset {
+            background: none;
+            border: 0;
+            border-spacing: 0;
+            color: #000;
+            cursor: auto;
+            direction: ltr;
+            font-family: 'lucida grande', tahoma, verdana, arial, sans-serif;
+            font-size: 11px;
+            font-style: normal;
+            font-variant: normal;
+            font-weight: normal;
+            letter-spacing: normal;
+            line-height: 1;
+            margin: 0;
+            overflow: visible;
+            padding: 0;
+            text-align: left;
+            text-decoration: none;
+            text-indent: 0;
+            text-shadow: none;
+            text-transform: none;
+            visibility: visible;
+            white-space: normal;
+            word-spacing: normal
+        }
+        
+        .fb_reset>div {
+            overflow: hidden
+        }
+        
+        @keyframes fb_transform {
+            from {
+                opacity: 0;
+                transform: scale(.95)
+            }
+            to {
+                opacity: 1;
+                transform: scale(1)
+            }
+        }
+        
+        .fb_animate {
+            animation: fb_transform .3s forwards
+        }
+        
+        .fb_hidden {
+            position: absolute;
+            top: -10000px;
+            z-index: 10001
+        }
+        
+        .fb_reposition {
+            overflow: hidden;
+            position: relative
+        }
+        
+        .fb_invisible {
+            display: none
+        }
+        
+        .fb_reset {
+            background: none;
+            border: 0;
+            border-spacing: 0;
+            color: #000;
+            cursor: auto;
+            direction: ltr;
+            font-family: 'lucida grande', tahoma, verdana, arial, sans-serif;
+            font-size: 11px;
+            font-style: normal;
+            font-variant: normal;
+            font-weight: normal;
+            letter-spacing: normal;
+            line-height: 1;
+            margin: 0;
+            overflow: visible;
+            padding: 0;
+            text-align: left;
+            text-decoration: none;
+            text-indent: 0;
+            text-shadow: none;
+            text-transform: none;
+            visibility: visible;
+            white-space: normal;
+            word-spacing: normal
+        }
+        
+        .fb_reset>div {
+            overflow: hidden
+        }
+        
+        @keyframes fb_transform {
+            from {
+                opacity: 0;
+                transform: scale(.95)
+            }
+            to {
+                opacity: 1;
+                transform: scale(1)
+            }
+        }
+        
+        .fb_animate {
+            animation: fb_transform .3s forwards
+        }
+        
+        .fb_dialog {
+            background: rgba(82, 82, 82, .7);
+            position: absolute;
+            top: -10000px;
+            z-index: 10001
+        }
+        
+        .fb_dialog_advanced {
+            border-radius: 8px;
+            padding: 10px
+        }
+        
+        .fb_dialog_content {
+            background: #fff;
+            color: #373737
+        }
+        
+        .fb_dialog_close_icon {
+            background: url(https://connect.facebook.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;
+            cursor: pointer;
+            display: block;
+            height: 15px;
+            position: absolute;
+            right: 18px;
+            top: 17px;
+            width: 15px
+        }
+        
+        .fb_dialog_mobile .fb_dialog_close_icon {
+            left: 5px;
+            right: auto;
+            top: 5px
+        }
+        
+        .fb_dialog_padding {
+            background-color: transparent;
+            position: absolute;
+            width: 1px;
+            z-index: -1
+        }
+        
+        .fb_dialog_close_icon:hover {
+            background: url(https://connect.facebook.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent
+        }
+        
+        .fb_dialog_close_icon:active {
+            background: url(https://connect.facebook.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent
+        }
+        
+        .fb_dialog_iframe {
+            line-height: 0
+        }
+        
+        .fb_dialog_content .dialog_title {
+            background: #6d84b4;
+            border: 1px solid #365899;
+            color: #fff;
+            font-size: 14px;
+            font-weight: bold;
+            margin: 0
+        }
+        
+        .fb_dialog_content .dialog_title>span {
+            background: url(https://connect.facebook.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;
+            float: left;
+            padding: 5px 0 7px 26px
+        }
+        
+        body.fb_hidden {
+            height: 100%;
+            left: 0;
+            margin: 0;
+            overflow: visible;
+            position: absolute;
+            top: -10000px;
+            transform: none;
+            width: 100%
+        }
+        
+        .fb_dialog.fb_dialog_mobile.loading {
+            background: url(https://connect.facebook.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;
+            min-height: 100%;
+            min-width: 100%;
+            overflow: hidden;
+            position: absolute;
+            top: 0;
+            z-index: 10001
+        }
+        
+        .fb_dialog.fb_dialog_mobile.loading.centered {
+            background: none;
+            height: auto;
+            min-height: initial;
+            min-width: initial;
+            width: auto
+        }
+        
+        .fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner {
+            width: 100%
+        }
+        
+        .fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content {
+            background: none
+        }
+        
+        .loading.centered #fb_dialog_loader_close {
+            clear: both;
+            color: #fff;
+            display: block;
+            font-size: 18px;
+            padding-top: 20px
+        }
+        
+        #fb-root #fb_dialog_ipad_overlay {
+            background: rgba(0, 0, 0, .4);
+            bottom: 0;
+            left: 0;
+            min-height: 100%;
+            position: absolute;
+            right: 0;
+            top: 0;
+            width: 100%;
+            z-index: 10000
+        }
+        
+        #fb-root #fb_dialog_ipad_overlay.hidden {
+            display: none
+        }
+        
+        .fb_dialog.fb_dialog_mobile.loading iframe {
+            visibility: hidden
+        }
+        
+        .fb_dialog_mobile .fb_dialog_iframe {
+            position: sticky;
+            top: 0
+        }
+        
+        .fb_dialog_content .dialog_header {
+            background: linear-gradient(from(#738aba), to(#2c4987));
+            border-bottom: 1px solid;
+            border-color: #043b87;
+            box-shadow: white 0 1px 1px -1px inset;
+            color: #fff;
+            font: bold 14px Helvetica, sans-serif;
+            text-overflow: ellipsis;
+            text-shadow: rgba(0, 30, 84, .296875) 0 -1px 0;
+            vertical-align: middle;
+            white-space: nowrap
+        }
+        
+        .fb_dialog_content .dialog_header table {
+            height: 43px;
+            width: 100%
+        }
+        
+        .fb_dialog_content .dialog_header td.header_left {
+            font-size: 12px;
+            padding-left: 5px;
+            vertical-align: middle;
+            width: 60px
+        }
+        
+        .fb_dialog_content .dialog_header td.header_right {
+            font-size: 12px;
+            padding-right: 5px;
+            vertical-align: middle;
+            width: 60px
+        }
+        
+        .fb_dialog_content .touchable_button {
+            background: linear-gradient(from(#4267B2), to(#2a4887));
+            background-clip: padding-box;
+            border: 1px solid #29487d;
+            border-radius: 3px;
+            display: inline-block;
+            line-height: 18px;
+            margin-top: 3px;
+            max-width: 85px;
+            padding: 4px 12px;
+            position: relative
+        }
+        
+        .fb_dialog_content .dialog_header .touchable_button input {
+            background: none;
+            border: none;
+            color: #fff;
+            font: bold 12px Helvetica, sans-serif;
+            margin: 2px -12px;
+            padding: 2px 6px 3px 6px;
+            text-shadow: rgba(0, 30, 84, .296875) 0 -1px 0
+        }
+        
+        .fb_dialog_content .dialog_header .header_center {
+            color: #fff;
+            font-size: 16px;
+            font-weight: bold;
+            line-height: 18px;
+            text-align: center;
+            vertical-align: middle
+        }
+        
+        .fb_dialog_content .dialog_content {
+            background: url(https://connect.facebook.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;
+            border: 1px solid #4a4a4a;
+            border-bottom: 0;
+            border-top: 0;
+            height: 150px
+        }
+        
+        .fb_dialog_content .dialog_footer {
+            background: #f5f6f7;
+            border: 1px solid #4a4a4a;
+            border-top-color: #ccc;
+            height: 40px
+        }
+        
+        #fb_dialog_loader_close {
+            float: left
+        }
+        
+        .fb_dialog.fb_dialog_mobile .fb_dialog_close_icon {
+            visibility: hidden
+        }
+        
+        #fb_dialog_loader_spinner {
+            animation: rotateSpinner 1.2s linear infinite;
+            background-color: transparent;
+            background-image: url(https://connect.facebook.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);
+            background-position: 50% 50%;
+            background-repeat: no-repeat;
+            height: 24px;
+            width: 24px
+        }
+        
+        @keyframes rotateSpinner {
+            0% {
+                transform: rotate(0deg)
+            }
+            100% {
+                transform: rotate(360deg)
+            }
+        }
+        
+        .fb_iframe_widget {
+            display: inline-block;
+            position: relative
+        }
+        
+        .fb_iframe_widget span {
+            display: inline-block;
+            position: relative;
+            text-align: justify
+        }
+        
+        .fb_iframe_widget iframe {
+            position: absolute
+        }
+        
+        .fb_iframe_widget_fluid_desktop,
+        .fb_iframe_widget_fluid_desktop span,
+        .fb_iframe_widget_fluid_desktop iframe {
+            max-width: 100%
+        }
+        
+        .fb_iframe_widget_fluid_desktop iframe {
+            min-width: 220px;
+            position: relative
+        }
+        
+        .fb_iframe_widget_lift {
+            z-index: 1
+        }
+        
+        .fb_iframe_widget_fluid {
+            display: inline
+        }
+        
+        .fb_iframe_widget_fluid span {
+            width: 100%
+        }
+        
+        .fb_mpn_mobile_landing_page_slide_out {
+            animation-duration: 200ms;
+            animation-name: fb_mpn_landing_page_slide_out;
+            transition-timing-function: ease-in
+        }
+        
+        .fb_mpn_mobile_landing_page_slide_out_from_left {
+            animation-duration: 200ms;
+            animation-name: fb_mpn_landing_page_slide_out_from_left;
+            transition-timing-function: ease-in
+        }
+        
+        .fb_mpn_mobile_landing_page_slide_up {
+            animation-duration: 500ms;
+            animation-name: fb_mpn_landing_page_slide_up;
+            transition-timing-function: ease-in
+        }
+        
+        .fb_mpn_mobile_bounce_in {
+            animation-duration: 300ms;
+            animation-name: fb_mpn_bounce_in;
+            transition-timing-function: ease-in
+        }
+        
+        .fb_mpn_mobile_bounce_out {
+            animation-duration: 300ms;
+            animation-name: fb_mpn_bounce_out;
+            transition-timing-function: ease-in
+        }
+        
+        .fb_mpn_mobile_bounce_out_v2 {
+            animation-duration: 300ms;
+            animation-name: fb_mpn_fade_out;
+            transition-timing-function: ease-in
+        }
+        
+        .fb_customer_chat_bounce_in_v2 {
+            animation-duration: 300ms;
+            animation-name: fb_bounce_in_v2;
+            transition-timing-function: ease-in
+        }
+        
+        .fb_customer_chat_bounce_in_from_left {
+            animation-duration: 300ms;
+            animation-name: fb_bounce_in_from_left;
+            transition-timing-function: ease-in
+        }
+        
+        .fb_customer_chat_bounce_out_v2 {
+            animation-duration: 300ms;
+            animation-name: fb_bounce_out_v2;
+            transition-timing-function: ease-in
+        }
+        
+        .fb_customer_chat_bounce_out_from_left {
+            animation-duration: 300ms;
+            animation-name: fb_bounce_out_from_left;
+            transition-timing-function: ease-in
+        }
+        
+        .fb_invisible_flow {
+            display: inherit;
+            height: 0;
+            overflow-x: hidden;
+            width: 0
+        }
+        
+        @keyframes fb_mpn_landing_page_slide_out {
+            0% {
+                margin: 0 12px;
+                width: 100% - 24px
+            }
+            60% {
+                border-radius: 18px
+            }
+            100% {
+                border-radius: 50%;
+                margin: 0 24px;
+                width: 60px
+            }
+        }
+        
+        @keyframes fb_mpn_landing_page_slide_out_from_left {
+            0% {
+                left: 12px;
+                width: 100% - 24px
+            }
+            60% {
+                border-radius: 18px
+            }
+            100% {
+                border-radius: 50%;
+                left: 12px;
+                width: 60px
+            }
+        }
+        
+        @keyframes fb_mpn_landing_page_slide_up {
+            0% {
+                bottom: 0;
+                opacity: 0
+            }
+            100% {
+                bottom: 24px;
+                opacity: 1
+            }
+        }
+        
+        @keyframes fb_mpn_bounce_in {
+            0% {
+                opacity: .5;
+                top: 100%
+            }
+            100% {
+                opacity: 1;
+                top: 0
+            }
+        }
+        
+        @keyframes fb_mpn_fade_out {
+            0% {
+                bottom: 30px;
+                opacity: 1
+            }
+            100% {
+                bottom: 0;
+                opacity: 0
+            }
+        }
+        
+        @keyframes fb_mpn_bounce_out {
+            0% {
+                opacity: 1;
+                top: 0
+            }
+            100% {
+                opacity: .5;
+                top: 100%
+            }
+        }
+        
+        @keyframes fb_bounce_in_v2 {
+            0% {
+                opacity: 0;
+                transform: scale(0, 0);
+                transform-origin: bottom right
+            }
+            50% {
+                transform: scale(1.03, 1.03);
+                transform-origin: bottom right
+            }
+            100% {
+                opacity: 1;
+                transform: scale(1, 1);
+                transform-origin: bottom right
+            }
+        }
+        
+        @keyframes fb_bounce_in_from_left {
+            0% {
+                opacity: 0;
+                transform: scale(0, 0);
+                transform-origin: bottom left
+            }
+            50% {
+                transform: scale(1.03, 1.03);
+                transform-origin: bottom left
+            }
+            100% {
+                opacity: 1;
+                transform: scale(1, 1);
+                transform-origin: bottom left
+            }
+        }
+        
+        @keyframes fb_bounce_out_v2 {
+            0% {
+                opacity: 1;
+                transform: scale(1, 1);
+                transform-origin: bottom right
+            }
+            100% {
+                opacity: 0;
+                transform: scale(0, 0);
+                transform-origin: bottom right
+            }
+        }
+        
+        @keyframes fb_bounce_out_from_left {
+            0% {
+                opacity: 1;
+                transform: scale(1, 1);
+                transform-origin: bottom left
+            }
+            100% {
+                opacity: 0;
+                transform: scale(0, 0);
+                transform-origin: bottom left
+            }
+        }
+        
+        @keyframes slideInFromBottom {
+            0% {
+                opacity: .1;
+                transform: translateY(100%)
+            }
+            100% {
+                opacity: 1;
+                transform: translateY(0)
+            }
+        }
+        
+        @keyframes slideInFromBottomDelay {
+            0% {
+                opacity: 0;
+                transform: translateY(100%)
+            }
+            97% {
+                opacity: 0;
+                transform: translateY(100%)
+            }
+            100% {
+                opacity: 1;
+                transform: translateY(0)
+            }
+        }
+        
+        body {
+            overflow-x: hidden;
+        }
+    </style>

@@ -27,15 +27,17 @@
         <template #button-content>
           <div class="d-sm-flex d-none user-nav">
             <p class="user-name font-weight-bolder mb-0">
-              John Doe
+              {{userData.username}}
             </p>
-            <span class="user-status">Admin</span>
+            <span class="user-status" v-if="userData.is_admin == 1">
+              Admin
+            </span>
           </div>
           <b-avatar
             size="40"
             variant="light-primary"
-            badge
-            :src="require('@/assets/images/avatars/13-small.png')"
+            
+            :src="`/image/${userData.image}`"
             class="badge-minimal"
             badge-variant="success"
           />
@@ -128,13 +130,40 @@ export default {
       default: () => {},
     },
   },
+  data(){
+    return{
+      userData:'',
+      userType:'',
+      image:''
+
+    }
+  },
+   mounted() {
+
+  },
+  created()
+  {
+    //console.log("in  navbar.vue comp");
+    this.setUserdata();
+     this.userData = JSON.parse(localStorage.getItem("userData"));
+  },
    methods: {
+     setUserdata()
+    {
+      if(this.$route.params.user)
+      {
+        console.log('in horizental nav the route params are',this.$route.params.user);
+        const userData = JSON.stringify(this.$route.params.user);
+        localStorage.setItem('userData', userData);
+      }
+      
+    },
     logout() {
       ValidateUser.logout(
         data=>{
           // console.log(response);
           if(data.success){
-            this.$router.push({ name: 'login'});
+            //this.$router.push({ name: 'login'});
           }
         },
         err=>{

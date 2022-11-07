@@ -33,7 +33,7 @@
                     #default="{ errors }"
                     name="password"
                     vid="password"
-                    rules="required|password"
+                    rules="required"
                 >
                     <b-form-input
                     v-model="password"
@@ -91,7 +91,7 @@ import {
 } from '@validations'
 import AdminApi from '../../../api/admin'
 import ToastificationContent from '@core/components/toastification/ToastificationContent.vue'
-
+import router from '@/router'
 export default {
   components: {
     BCardCode,
@@ -137,10 +137,8 @@ export default {
                     icon: 'UserIcon',
                     variant: 'success',
                   },
-                })
-                // this.password='';
-                // this.old_password='';
-                // this.passwordConfirm='';
+                });
+                router.push({ name:"update-profile" });
               }else{
                 if (data.status == 422){
                   this.validationErrors = data.message;

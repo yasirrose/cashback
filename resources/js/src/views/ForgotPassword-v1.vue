@@ -6,10 +6,10 @@
       <b-card class="mb-0">
         <b-link class="brand-logo">
           <!-- logo -->
-          <b-img
+          <!-- <b-img
           :src="appLogoImage"
           alt="logo"
-        />
+        /> -->
         </b-link>
         
         <b-card-title class="mb-1">
@@ -74,7 +74,7 @@ import { ValidationProvider, ValidationObserver } from 'vee-validate'
 import VuexyLogo from '@core/layouts/components/Logo.vue'
 import { BCard, BLink, BImg, BCardText, BCardTitle, BFormGroup, BFormInput, BForm, BButton } from 'bootstrap-vue'
 import { required, email } from '@validations'
-
+import AdminApi from "../../api/admin";
 export default {
   components: {
     VuexyLogo,
@@ -97,13 +97,58 @@ export default {
       // validation
       required,
       email,
+      validationErrors: "",
     }
   },
   methods: {
     validationForm() {
       this.$refs.simpleRules.validate().then(success => {
         if (success) {
-          this.$router.push({ name: 'auth-reset-password-v1' })
+          
+          this.validationErrors = "";
+          
+          AdminApi.forgotPassword(
+            (this.info = {
+              email: this.userEmail,
+            }),
+            data => {
+              if (data) {
+                this.$toast({
+                  component: ToastificationContent,
+                  props: {
+                    title: "Success!",
+                    text: 'we have sent you an email with password reset link',
+                    icon: "UserIcon",
+                    variant: "success"
+                  }
+                });
+                //router.push({ name: "reset-password" });
+               } 
+              //else {
+              //   if (data.status == 422) {
+              //     this.validationErrors = data.message;
+              //   } else {
+              //     this.$toast({
+              //       component: ToastificationContent,
+              //       props: {
+              //         title: "Failed",
+              //         text: 'Something went Wrong',
+              //         icon: "errorIcon",
+              //         variant: "outline-danger"
+              //       }
+              //     });
+              //   }
+              // }
+            },
+            err => {
+              console.log(err);
+            }
+          );
+
+          
+        }
+        else{
+          //this.$router.push({ name: 'reset-password' })
         }
       })
     },

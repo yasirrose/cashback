@@ -229,7 +229,8 @@ export default {
             info, 
             data=>{
               if(data.success){
-                this.$router.push({ name: 'home'});
+                //this.$router.push({ name: 'home'});
+                this.$router.push({ name: 'update-profile',  params: {user: data.data }});
               }else{
                 this.$toast({
                   component: ToastificationContent,

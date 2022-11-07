@@ -27,6 +27,27 @@
             class="auth-reset-password-form mt-2"
             @submit.prevent="validationForm"
           >
+            <!-- email -->
+            <b-form-group
+              label-for="email"
+              label="Email"
+            >
+              <validation-provider
+                #default="{ errors }"
+                name="Email"
+                rules="required|email"
+              >
+                <b-form-input
+                  id="email"
+                  v-model="userEmail"
+                  name="login-email"
+                  :state="errors.length > 0 ? false:null"
+                  placeholder="john@example.com"
+                  autofocus
+                />
+                <small class="text-danger">{{ errors[0] }}</small>
+              </validation-provider>
+            </b-form-group>
 
             <!-- password -->
             <b-form-group

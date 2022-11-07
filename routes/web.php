@@ -27,6 +27,9 @@ Route::get('/clear', function() {
     return "Cleared!";
  });
  //Route::get('mail', [API\AdminController::class,'sendMail']);
+Route::get('/', [ApplicationController::class, 'index'])->name('user-side');
+Route::get('/store/{store}', [ApplicationController::class, 'index'])->name('store');
+Route::get('/reset-password', [ApplicationController::class, 'index'])->name('reset-password');
 Route::get('/login', [ApplicationController::class, 'index'])->name('login');
 
 Route::middleware('token')->group(function () {

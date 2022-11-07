@@ -150,7 +150,6 @@ export default {
           'getUserProfile',
           this.userId,
         data => {
-             console.log('get profile response is', data.data);
              const resp = data.data;
              this.first_name = resp.first_name;
              this.last_name = resp.last_name;

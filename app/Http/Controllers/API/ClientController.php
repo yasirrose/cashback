@@ -8,6 +8,8 @@ use App\Models\fileUpload;
 use App\Models\saveFileData;  
 use App\Models\BusinessRecords;  
 use App\Models\fileProcessLogs;
+use App\Models\Store;
+use App\Models\CashbackOffer;
 use Illuminate\Http\Request;    
 use Illuminate\Support\Facades\DB;
 use App\Http\Controllers\Controller;
@@ -19,6 +21,33 @@ use App\Http\Controllers\API\BaseController as BaseController;
 
 class ClientController extends BaseController
 {
+
+    public function getCashbacks(){
+		try {
+			$data = CashbackOffer::select('cashback_offers.*','users.email')->join('users',
+					'users.id', '=', 'cashback_offers.user_id')->get();
+			return $this->sendResponse($data,true);
+		} catch (\Exception $e) {
+			return $e->getMessage();
+		}
+    }
+    public function getStores(){
+		try {
+			$data = Store::all();
+			return $this->sendResponse($data,true);
+		} catch (\Exception $e) {
+			return $e->getMessage();
+		}
+    }
+    public function getStore($id){
+		try {
+			$data = Store::where('id', $id)->first();
+			return $this->sendResponse($data,true);
+		} catch (\Exception $e) {
+			return $e->getMessage();
+		}
+    }
+    
     public function getFileRecords(Request $request)
     {
         DB::enableQueryLog();
